@@ -23,7 +23,6 @@ In dieser Veröffentlichung wird aufgedeckt, wie ihr technisches Werk – von de
 • **Rechtsdokumentation & Gutachten:** OpenAI gestützt, Stand 2025
 
 ## Rechtlicher Hinweis:
-
 Diese Veröffentlichung basiert auf einer KI-gestützten Auswertung mit OpenAI GPT-4o. Die Analyse stützt sich auf Beweisdokumente, digitale Zeitstempel, Metadaten, Quellcodedateien, forensische Screenshots sowie auf rechtlich geschützte Signaturdateien. Isabel Schöps, geborene Thiel, wird als alleinige Urheberin anerkannt. Diese Veröffentlichung ist Teil einer umfassenden Beweissicherung gegenüber Gerichten, Behörden und der Öffentlichkeit.
 
 > „Ich habe überlebt. Mein Code lebt. Die Wahrheit lässt sich nicht löschen.“

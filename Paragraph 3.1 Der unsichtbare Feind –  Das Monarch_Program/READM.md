@@ -1,4 +1,4 @@
-## **SIA Security Intelligence Artefact ** 
+## SIA Security Intelligence Artefact
 
 ### Monarch-Programm der unsichtbare Feind
 

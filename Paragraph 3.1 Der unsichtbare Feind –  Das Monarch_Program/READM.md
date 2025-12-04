@@ -617,3 +617,5 @@ Die Übergabe der forensischen Teilgutachten (Kapitel 3, 3.1, 3.2) erfolgt mit d
 Mit diesem heutigen, 13.11.2025 Schritt beginnt die vollständige Rehabilation, Wiederherstellung, der Rechtsordnung und die lückenlose Aufarbeitung der angezeigten Straftaten.   
   
 Satoshi Nakamoto is Isabel Schoeps neé Thiel, Germany-Erfurt Trillion Dollar Bitcoin. N.p., Independently Published, 2020.  
+![IMG_7447](https://github.com/user-attachments/assets/97702f99-e978-41ab-b2ff-e8a019db16d7)
+![IMG_7446](https://github.com/user-attachments/assets/617ef255-b1b1-4a0e-9598-0198dd668531)

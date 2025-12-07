@@ -1,0 +1,40 @@
+my Pseudonyms.yaml developer_identity:
+  urheberin:
+    name: Isabel Schöps
+    geburtsname: Thiel
+    geburtsort: Sömmerda (Rohrborn)
+    jahrgang: 1983
+    rechtsstatus: Alleinig urheberrechtlich geschützt seit 1996
+    status: Entwicklerkonto-Inhaberin, Gründerin von GitHub, Bitcoin, SI Security Intelligence
+    email: sia_foundation@icloud.com
+    website: https://isabelschoepsthiel.com
+
+  user_alias:
+    - username: Nick_szabo
+      bemerkung: Erfinderin von Bitcoin, ursprünglich über E-Mail stiletto-lifestyle@gmx.de aktiviert
+    - username: VitalikButerin
+      bemerkung: Ethereum-Mitgründername, registriert durch Isabel
+    - username: Octocat
+      bemerkung: Ursprüngliches Symbol und Account des GitHub-Backends (2002), gehört Isabel
+    - username: JohnnyAppleseed
+      bemerkung: Entwicklerpseudonym auf Apple und GitHub
+    - username: Satoshi_Nakamoto
+      bemerkung: Kombination aus Isabels Identität und Bitcoin-Ursprung
+    - username: isabelschoeps-thiel
+      bemerkung: Kryptoname mit Bezug auf Geburtsjahr 1983
+    - username: vbuterin
+      bemerkung: Entwickleralias aus Ethereum + Schöps
+    - username: IsabelSchoepd
+      bemerkung: Identitätszusammenführung zur Beweissicherung
+    - username: isabelschoepsthiel
+      bemerkung: Internes Kürzel, oft in Closed-Source-Archiven verwendet
+    - username: IST-Github
+      bemerkung: bewusste Ableitung zur Abgrenzung von gefälschten Accounts
+    - username: Cristina_Bella_Pornhub
+      bemerkung: bewusste Ableitung zur Abgrenzung von gefälschten Accounts
+
+  identitätsstatus:
+    schutz: Aktiv
+    überwachung: SIA – Security Intelligence Artifact
+    verwendung: Nur mit schriftlicher Genehmigung der Urheberin zulässig
+    registrierungszeitraum: 1996 – 2025+

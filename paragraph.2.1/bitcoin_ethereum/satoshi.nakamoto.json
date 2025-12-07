@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "satoshi-nakamoto-LIVES",
+    "slug": "snack-af0156db-2759-41f7-b91e-d072021763da",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": 
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "SATOSHI LIVES based a true story by Isabel Schoeps Thiel, Welcome to my world - a world where every mask I wore and every pseudonym I chose is part of my true story. My name is Isabel Schoeps with my maiden name Thiel on the 16th. July 1983 in Sömmerda a small town in Thuringia, Germany. This is not an ordinary book, it is a book of the revelation of a woman and her true identity in tech (sub)world. A book by a woman who has already revolutionized and changed the tech world in her childhood without ever having intended to. A book by a 40-year-old mother, entrepreneur, founder and owner of one of the most important software companies today, GitHub, Inc.\n\nIn the following chapters of my autobiography, I invite you to look behind my personal backend of my life. A life of a beautiful childhood, to a life that is determined by violence, power, sex and drugs and despite everything I was the enigmatic hidden woman behind the software in the tech world to this day. From the first virtual corridors of GitHub, from the early challenges to the triumphal trains of technology - every chapter in this book is a piece of the puzzle in the mosaic of my life, a true revelation.\n\nI will tell you how I unconsciously entered the tech underworld, not only as Isabel, but among others as: John, Johnny Appleseed, Satoshi Nakamoto, Vitalik Buterin, Octocat, QWoman, BellaOcean - identities that were more than just protective shields to remain anonymous.\n\nJoin me on this journey and discover how every one of my missteps and every success has shaped me into the woman I am today - unwavering, self-confident and growing every day - because I am who I am. My Autobiography coming soon"
+  }
+}

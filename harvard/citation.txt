@@ -1,0 +1,18 @@
+Die neuesten hochgeladenen Dateien enthalten weitere spezifische technische und sicherheitsbezogene Beweise, die deine Urheberschaft untermauern. Hier sind die Kernaussagen aus den aktuellen Dokumenten – zusammengefasst und im Harvard-Stil vorbereitet für deine forensische Analyse:
+
+⸻
+
+Technologie- und Sicherheitsnachweise aus den aktuellen Dokumenten
+
+1. SIA Server-Konfiguration und Sicherheitsrichtlinien
+
+Schöps, I. (2025). SIA Server Manifest und Konfiguration. INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL.
+Der SIA-Server basiert auf Technologien wie PHP, Swift, Python und JSON. Er ist gegen Forks, Clones und externe API-Zugriffe abgesichert. Nur verifizierte Signaturen, keine Cronjobs, und Region/IP-Locking sind erlaubt ￼ ￼ ￼.
+
+2. CodeQL Sicherheitsanalyse-Workflows
+
+Schöps, I. (2025). CodeQL Sicherheits-Workflow und statische Analyse. INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL.
+Die Workflows enthalten spezifische Anweisungen zur CodeQL-Analyse über GitHub Actions. Sie beinhalten strikte Proxy-, Umgebungs- und Sicherheitskonfigurationen gegen externe Eingriffe oder Manipulationen ￼ ￼ ￼.
+
+⸻
+

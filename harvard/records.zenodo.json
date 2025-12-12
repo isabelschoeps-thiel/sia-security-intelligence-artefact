@@ -1,0 +1,2659 @@
+{
+  "access": {
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "files": "public",
+    "record": "public",
+    "status": "open"
+  },
+  "created": "2025-12-08T07:22:06.512284+00:00",
+  "custom_fields": {
+    "code:codeRepository": "http://www.github.com/isabelschoeps-thiel/sia-security-intelligence-artefact/Paragraph3.1/Das-Monarch-Program",
+    "code:developmentStatus": {
+      "id": "active",
+      "title": {
+        "en": "Active"
+      }
+    },
+    "code:programmingLanguage": [
+      {
+        "id": "html",
+        "title": {
+          "en": "HTML"
+        }
+      },
+      {
+        "id": "php",
+        "title": {
+          "en": "PHP"
+        }
+      },
+      {
+        "id": "json",
+        "title": {
+          "en": "JSON"
+        }
+      },
+      {
+        "id": "markdown",
+        "title": {
+          "en": "Markdown"
+        }
+      },
+      {
+        "id": "python",
+        "title": {
+          "en": "Python"
+        }
+      },
+      {
+        "id": "yaml",
+        "title": {
+          "en": "YAML"
+        }
+      },
+      {
+        "id": "http",
+        "title": {
+          "en": "HTTP"
+        }
+      },
+      {
+        "id": "css",
+        "title": {
+          "en": "CSS"
+        }
+      },
+      {
+        "id": "bibtex",
+        "title": {
+          "en": "BibTeX"
+        }
+      }
+    ],
+    "imprint:imprint": {
+      "edition": "1st",
+      "isbn": "9798642790113",
+      "place": "D-99094 Erfurt, Germany, Th\u00fcringen",
+      "title": "Trillion Dollar Bitcoin"
+    },
+    "journal:journal": {
+      "issn": "1367-4803",
+      "issue": "9",
+      "pages": "1453",
+      "title": "Open source clustering software",
+      "volume": "20"
+    }
+  },
+  "expires_at": "2025-12-08 07:22:06.512272",
+  "files": {
+    "count": 98,
+    "default_preview": "forensisch-wissenschaftliches-gutachten-isabelschoepsthiel-copyright.pdf.pdf",
+    "enabled": true,
+    "entries": {
+      "03_urheberschaft_beweis_isabel_schoeps_thiel.rtf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:7a7f5081d39ac259fd847566b48cf627",
+        "ext": "rtf",
+        "id": "c7718af3-369a-4d31-beae-09ae1f364589",
+        "key": "03_urheberschaft_beweis_isabel_schoeps_thiel.rtf",
+        "metadata": {},
+        "mimetype": "application/octet-stream",
+        "size": 2737,
+        "storage_class": "L"
+      },
+      "20231017DSKEntschliessungChatkontrolle.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:8b3fdcfe8cbf1a2472920adaf568b4f0",
+        "ext": "pdf",
+        "id": "47d60bfe-ee44-403c-95b2-de5c44661249",
+        "key": "20231017DSKEntschliessungChatkontrolle.pdf",
+        "metadata": {
+          "height": 842,
+          "width": 595
+        },
+        "mimetype": "application/pdf",
+        "size": 442634,
+        "storage_class": "L"
+      },
+      "Auswertung_Suicide-Frankie_Teardrop_real.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:6c0a113a229224731b1647583116ccaa",
+        "ext": "zip",
+        "id": "c5261e0c-4cf8-43da-bba8-004fbbc32749",
+        "key": "Auswertung_Suicide-Frankie_Teardrop_real.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 235235733,
+        "storage_class": "L"
+      },
+      "Bankenbetrug-Finanzbezrug-Aktienbetrug-menschenhandel.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:bc7f75deaadef63ed94047164d68f289",
+        "ext": "zip",
+        "id": "ff655658-f0dd-44e7-928e-6d10dfbdc7c3",
+        "key": "Bankenbetrug-Finanzbezrug-Aktienbetrug-menschenhandel.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 529130424,
+        "storage_class": "L"
+      },
+      "Chemikalie-amphenol-criminal_MATRIX4.5DEEPNET_Crime.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:db01d026f25689b9ba63ced18872b765",
+        "ext": "zip",
+        "id": "1a1cbd96-e1d3-4e32-a535-aff15f975dc7",
+        "key": "Chemikalie-amphenol-criminal_MATRIX4.5DEEPNET_Crime.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 8784738,
+        "storage_class": "L"
+      },
+      "Dachventilatoren-erfurt.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:c7a9a154b6f090326d483c10f670fa3e",
+        "ext": "pdf",
+        "id": "0a80e7f9-7f3e-4fdc-b034-23c1ba2ab57d",
+        "key": "Dachventilatoren-erfurt.pdf",
+        "metadata": {
+          "height": 842,
+          "width": 595
+        },
+        "mimetype": "application/pdf",
+        "size": 1980737,
+        "storage_class": "L"
+      },
+      "Deep-WEB_NEWS_MATRIX4.5DEEPNET_Crime.delete.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:642a85ad4cfac007c923358041d9649e",
+        "ext": "zip",
+        "id": "4070be3b-daba-41b7-b7d6-80aa633c5ccc",
+        "key": "Deep-WEB_NEWS_MATRIX4.5DEEPNET_Crime.delete.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 163636294,
+        "storage_class": "L"
+      },
+      "DeuDeDeuDeDai_Michael_Portugal_MATRIX4.5DEEPNET_Crime.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:4ce0349ee951942eb1c6a813da26cc7f",
+        "ext": "zip",
+        "id": "e6890a31-774f-42cf-8583-4676d3e5d6e9",
+        "key": "DeuDeDeuDeDai_Michael_Portugal_MATRIX4.5DEEPNET_Crime.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 2112549,
+        "storage_class": "L"
+      },
+      "Eidesstattliche-versicherung-isabelschoepsthiel.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:c943d5f9005e41b01466a9c5aa70d28c",
+        "ext": "pdf",
+        "id": "7fdc0bbf-5f26-44ed-b498-c603f988fbae",
+        "key": "Eidesstattliche-versicherung-isabelschoepsthiel.pdf",
+        "metadata": {
+          "height": 842,
+          "width": 596
+        },
+        "mimetype": "application/pdf",
+        "size": 282206,
+        "storage_class": "L"
+      },
+      "Einbruch-alteWohnung-schubertstrasse9-erfurt.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:a041217f4a9c39748bd2f4cfbcc4649a",
+        "ext": "zip",
+        "id": "bcab5d4c-bf13-4850-83c7-84308c2d185e",
+        "key": "Einbruch-alteWohnung-schubertstrasse9-erfurt.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 7709129,
+        "storage_class": "L"
+      },
+      "Erfurt-Frequenz-Massen-Manipulation-mietzschGmbH.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:31fcf8464d8e9f919e4b07d86c7a5390",
+        "ext": "zip",
+        "id": "e89c169a-0024-4701-8972-7ba3e361ed35",
+        "key": "Erfurt-Frequenz-Massen-Manipulation-mietzschGmbH.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 137953042,
+        "storage_class": "L"
+      },
+      "Forschung-Gehirn.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:bdc7ce8b2252bbeaf82ce83d542d1469",
+        "ext": "zip",
+        "id": "c070a7f7-12d9-4f01-841b-b2b3050c5940",
+        "key": "Forschung-Gehirn.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 50330540,
+        "storage_class": "L"
+      },
+      "GEN-Manipulation-Natur-Tier-Mensch.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:eb31981cc005a2c654645ba4fa90356f",
+        "ext": "zip",
+        "id": "5af1531a-0f09-45d4-b9c7-8eff73d3bdea",
+        "key": "GEN-Manipulation-Natur-Tier-Mensch.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 335616744,
+        "storage_class": "L"
+      },
+      "Guide_X500series_E.doc": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:8b5af8e30b2316f3a75f4827ff32bb42",
+        "ext": "doc",
+        "id": "441e5d25-b30d-4060-a8cc-0e2c28f1b81c",
+        "key": "Guide_X500series_E.doc",
+        "metadata": {},
+        "mimetype": "application/msword",
+        "size": 512000,
+        "storage_class": "L"
+      },
+      "GutenbergProgramm.PNG": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:472a3e89d48fa62ea8e397242445435a",
+        "ext": "png",
+        "id": "cccf3110-a71c-4cab-b936-e721563bb3ca",
+        "key": "GutenbergProgramm.PNG",
+        "metadata": {
+          "height": 2778,
+          "width": 1284
+        },
+        "mimetype": "image/png",
+        "size": 389102,
+        "storage_class": "L"
+      },
+      "IMG_3908.PNG": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:79214ea631e0b870ffc48a33935e0b2c",
+        "ext": "png",
+        "id": "1e2ddb65-0755-4bcd-8df8-dddf214c6341",
+        "key": "IMG_3908.PNG",
+        "metadata": {
+          "height": 2778,
+          "width": 1284
+        },
+        "mimetype": "image/png",
+        "size": 283297,
+        "storage_class": "L"
+      },
+      "IMG_3909.jpg": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:e5cd3dba2a259d27af810d1afc43a8c6",
+        "ext": "jpg",
+        "id": "e1d50e03-b2cc-4a97-a640-8f6ca17956aa",
+        "key": "IMG_3909.jpg",
+        "metadata": {
+          "height": 1754,
+          "width": 811
+        },
+        "mimetype": "image/jpeg",
+        "size": 530507,
+        "storage_class": "L"
+      },
+      "IMG_3910.PNG": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:aab43b84769e246eac029439b208c81e",
+        "ext": "png",
+        "id": "38031715-5089-4224-945b-98e8d361e730",
+        "key": "IMG_3910.PNG",
+        "metadata": {
+          "height": 2778,
+          "width": 1284
+        },
+        "mimetype": "image/png",
+        "size": 1486330,
+        "storage_class": "L"
+      },
+      "IMG_3911.PNG": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:7e802b54d75beb02d81a367de635e20a",
+        "ext": "png",
+        "id": "bdec8924-a5e9-4e8f-905c-644c7e8fb498",
+        "key": "IMG_3911.PNG",
+        "metadata": {
+          "height": 2778,
+          "width": 1284
+        },
+        "mimetype": "image/png",
+        "size": 708903,
+        "storage_class": "L"
+      },
+      "IMG_3912.PNG": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:81fffb35cddc6407f0dfa20ab6670af4",
+        "ext": "png",
+        "id": "3813bca7-28d9-4852-848d-2f28f1bc039b",
+        "key": "IMG_3912.PNG",
+        "metadata": {
+          "height": 2778,
+          "width": 1284
+        },
+        "mimetype": "image/png",
+        "size": 378202,
+        "storage_class": "L"
+      },
+      "IMG_3913.PNG": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:45c8c744172893b8d91f159a6babad49",
+        "ext": "png",
+        "id": "fe337eaf-3ecd-44ca-a814-bfdeacb2749d",
+        "key": "IMG_3913.PNG",
+        "metadata": {
+          "height": 2778,
+          "width": 1284
+        },
+        "mimetype": "image/png",
+        "size": 352358,
+        "storage_class": "L"
+      },
+      "IMG_4062.PNG": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:a6de95c5ac362170893ea916347f1770",
+        "ext": "png",
+        "id": "d230a257-2f3c-4aca-af1e-274854721cf7",
+        "key": "IMG_4062.PNG",
+        "metadata": {
+          "height": 2778,
+          "width": 1284
+        },
+        "mimetype": "image/png",
+        "size": 254555,
+        "storage_class": "L"
+      },
+      "IMG_4197.JPG": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:c9fc2784178232a126ca57bda3496f10",
+        "ext": "jpg",
+        "id": "8685fd28-c6ad-45cb-9b11-b3174d88f88f",
+        "key": "IMG_4197.JPG",
+        "metadata": {
+          "height": 3024,
+          "width": 4032
+        },
+        "mimetype": "image/jpeg",
+        "size": 6067543,
+        "storage_class": "L"
+      },
+      "IMG_4721.PNG": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:67cb8ff5244f70e02910a60ccb74c7c9",
+        "ext": "png",
+        "id": "e5f8f22c-67fe-4418-a8b9-0e4344f36677",
+        "key": "IMG_4721.PNG",
+        "metadata": {
+          "height": 2778,
+          "width": 1284
+        },
+        "mimetype": "image/png",
+        "size": 1227829,
+        "storage_class": "L"
+      },
+      "IMG_4722.PNG": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:8447bc5a726333dcc3d99f4a020718ea",
+        "ext": "png",
+        "id": "b0c88e8f-de39-41eb-aef1-e947ee46c51e",
+        "key": "IMG_4722.PNG",
+        "metadata": {
+          "height": 2778,
+          "width": 1284
+        },
+        "mimetype": "image/png",
+        "size": 262549,
+        "storage_class": "L"
+      },
+      "IMG_4723.PNG": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:598625008a72210cd6d25b5cb1dabd61",
+        "ext": "png",
+        "id": "7cce60a0-381f-4917-b0d3-febe500aab75",
+        "key": "IMG_4723.PNG",
+        "metadata": {
+          "height": 2778,
+          "width": 1284
+        },
+        "mimetype": "image/png",
+        "size": 562695,
+        "storage_class": "L"
+      },
+      "IMG_4724.PNG": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:ad29d2bffa7b2780762c5da5b3c8be70",
+        "ext": "png",
+        "id": "1da2db71-2e56-4aba-b24b-064b67f5ee3d",
+        "key": "IMG_4724.PNG",
+        "metadata": {
+          "height": 2778,
+          "width": 1284
+        },
+        "mimetype": "image/png",
+        "size": 509089,
+        "storage_class": "L"
+      },
+      "IMG_5673.JPG": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:09f31ab4b5079011108dd3bc2bb9597b",
+        "ext": "jpg",
+        "id": "e4559bc3-734a-4547-b961-4c37d02336cc",
+        "key": "IMG_5673.JPG",
+        "metadata": {
+          "height": 3024,
+          "width": 4032
+        },
+        "mimetype": "image/jpeg",
+        "size": 2440897,
+        "storage_class": "L"
+      },
+      "IMG_5674.JPG": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:16464641653890a71f3cf2d373008fdf",
+        "ext": "jpg",
+        "id": "0da6721b-1a2f-4a44-8bbc-9708e2856bfd",
+        "key": "IMG_5674.JPG",
+        "metadata": {
+          "height": 3024,
+          "width": 4032
+        },
+        "mimetype": "image/jpeg",
+        "size": 859995,
+        "storage_class": "L"
+      },
+      "IMG_5675.JPG": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:7a568c0cd82bc18e7174b86fec0d3b42",
+        "ext": "jpg",
+        "id": "3802a8b8-5a9a-4e03-8929-2986b52b6081",
+        "key": "IMG_5675.JPG",
+        "metadata": {
+          "height": 3024,
+          "width": 4032
+        },
+        "mimetype": "image/jpeg",
+        "size": 899902,
+        "storage_class": "L"
+      },
+      "IMG_5676.JPG": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:a77601f3b583b35eae1d98f92cbce30f",
+        "ext": "jpg",
+        "id": "297ca01b-519c-4b75-bdc8-9267b4c3d919",
+        "key": "IMG_5676.JPG",
+        "metadata": {
+          "height": 3024,
+          "width": 4032
+        },
+        "mimetype": "image/jpeg",
+        "size": 773714,
+        "storage_class": "L"
+      },
+      "IMG_5677.JPG": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:32fe01dd2fb8787c57e4955fd3f64ee7",
+        "ext": "jpg",
+        "id": "e2806576-cacc-47ad-9e05-02921264d26c",
+        "key": "IMG_5677.JPG",
+        "metadata": {
+          "height": 3024,
+          "width": 4032
+        },
+        "mimetype": "image/jpeg",
+        "size": 736250,
+        "storage_class": "L"
+      },
+      "IMG_6170.PNG": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:ca55a9c804d1e9decca6d94d44b6d910",
+        "ext": "png",
+        "id": "7e212bc2-bdaf-4515-bd5e-d1b3b65c55bf",
+        "key": "IMG_6170.PNG",
+        "metadata": {
+          "height": 2778,
+          "width": 1284
+        },
+        "mimetype": "image/png",
+        "size": 525464,
+        "storage_class": "L"
+      },
+      "IMG_6171.PNG": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:815c24d4eb0ea06b96ed1f51cd5b1cfa",
+        "ext": "png",
+        "id": "55d6b245-9101-460d-bb81-975f829efc81",
+        "key": "IMG_6171.PNG",
+        "metadata": {
+          "height": 2778,
+          "width": 1284
+        },
+        "mimetype": "image/png",
+        "size": 215251,
+        "storage_class": "L"
+      },
+      "Infiltration-fake_hacker_skripte_community_Crime.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:0f233db69e474dbe8a7b7f58f506a48e",
+        "ext": "zip",
+        "id": "ecfcef1f-161e-4b62-9964-7ac602d14221",
+        "key": "Infiltration-fake_hacker_skripte_community_Crime.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 14043477,
+        "storage_class": "L"
+      },
+      "Institut-ETSI-verkauf-meiner-isabelschoepsthiel-geistigen-eigentums.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:e75adc6ca953ce5ac6b0f9d7c2c677bd",
+        "ext": "zip",
+        "id": "94f9ea56-9274-4b6f-a7ff-32ab70663db9",
+        "key": "Institut-ETSI-verkauf-meiner-isabelschoepsthiel-geistigen-eigentums.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 44046045,
+        "storage_class": "L"
+      },
+      "IsabelSchoeps.XCODE.fritzbox.txt": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:58bea1c701379f81f36b7d53a98eac61",
+        "ext": "txt",
+        "id": "ab9e342e-2fab-4260-8c8f-005b63047598",
+        "key": "IsabelSchoeps.XCODE.fritzbox.txt",
+        "metadata": {},
+        "mimetype": "text/plain",
+        "size": 169436,
+        "storage_class": "L"
+      },
+      "MONARCH-programm-verbrechen-gegen-menschlichkeit-forensisch-ausgewertet-CODE-2025-BTC:ETH-CORE-ISABELSCHOEPSTHIEL.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:0f7841be9bf15b41d0cdc067a962be6b",
+        "ext": "zip",
+        "id": "471ecdef-a74d-4f21-a350-f88c6ca72342",
+        "key": "MONARCH-programm-verbrechen-gegen-menschlichkeit-forensisch-ausgewertet-CODE-2025-BTC:ETH-CORE-ISABELSCHOEPSTHIEL.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 335672249,
+        "storage_class": "L"
+      },
+      "Markierte-MordeGoogleMaps-markierteAtlasfiles-familia\u0308re-struktur-aufgezeichnet.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:e5510c128c9d82ac07430477a05eeff2",
+        "ext": "zip",
+        "id": "f85850d8-5cf9-463c-8720-1ff154f7d9ac",
+        "key": "Markierte-MordeGoogleMaps-markierteAtlasfiles-familia\u0308re-struktur-aufgezeichnet.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 63116895,
+        "storage_class": "L"
+      },
+      "Mord-J-F-Kennedy.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:7f565ea4477285f91f48d453cdd4e246",
+        "ext": "zip",
+        "id": "b8ea53f9-7462-46eb-926c-0e2d53142516",
+        "key": "Mord-J-F-Kennedy.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 14059545,
+        "storage_class": "L"
+      },
+      "PSi-softwareAg_MATRIX4.5DEEPNET_crime.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:abcebb2504091dcec065155657df0659",
+        "ext": "zip",
+        "id": "b2cb723b-c715-41c9-beb8-99603ff6573d",
+        "key": "PSi-softwareAg_MATRIX4.5DEEPNET_crime.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 1385935,
+        "storage_class": "L"
+      },
+      "Paragraph3.1-monarchprogramm-forensische-auswertung.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:f53f892b40fda44f34f228d4f5982e28",
+        "ext": "zip",
+        "id": "c6a9b073-2037-457e-b434-138805120dfc",
+        "key": "Paragraph3.1-monarchprogramm-forensische-auswertung.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 1150710,
+        "storage_class": "L"
+      },
+      "Plan-Programm-genozid_MATRIX4.5DEEPNET_Crime.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:cb16c708780a89bd4485b70167a3c9a7",
+        "ext": "zip",
+        "id": "4c675650-14af-4b14-88b7-88a79ceeb09d",
+        "key": "Plan-Programm-genozid_MATRIX4.5DEEPNET_Crime.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 26271563,
+        "storage_class": "L"
+      },
+      "Pornhub-DeepFake-Darsteller.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:cac951c4306e2e94f3e4299d1c170d6e",
+        "ext": "zip",
+        "id": "cec57d38-cb37-4005-867b-6acb6a5dbd23",
+        "key": "Pornhub-DeepFake-Darsteller.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 67982762,
+        "storage_class": "L"
+      },
+      "Teil2-auswertung-mindBrainWashing-vonIsabelSchoepsThiel-copyright.mov.MP4": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:d2967761b2080f3164c8ff07262bfb31",
+        "ext": "mp4",
+        "id": "1840153c-1c58-4c5e-9f89-71ba91f88cb1",
+        "key": "Teil2-auswertung-mindBrainWashing-vonIsabelSchoepsThiel-copyright.mov.MP4",
+        "metadata": {},
+        "mimetype": "video/mp4",
+        "size": 366138799,
+        "storage_class": "L"
+      },
+      "Teil3.auswertung-mindBrainWashing-vonIsabelSchoepsThiel-copyright.mov.MP4": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:b14f4e97786aaa19457897ed05fbe50b",
+        "ext": "mp4",
+        "id": "7aedf7e1-8ea4-41f5-9a2c-7e858d1bbf24",
+        "key": "Teil3.auswertung-mindBrainWashing-vonIsabelSchoepsThiel-copyright.mov.MP4",
+        "metadata": {},
+        "mimetype": "video/mp4",
+        "size": 1366182881,
+        "storage_class": "L"
+      },
+      "VRR315-702-datasheet-dakventilator-kunststof-horizontaal-uitblazend.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:f9a8e4c0f00cbd2f0e9f3f2c38795257",
+        "ext": "pdf",
+        "id": "05018681-d700-4020-a4ee-9bf09cc8ab5b",
+        "key": "VRR315-702-datasheet-dakventilator-kunststof-horizontaal-uitblazend.pdf",
+        "metadata": {
+          "height": 842,
+          "width": 595
+        },
+        "mimetype": "application/pdf",
+        "size": 283459,
+        "storage_class": "L"
+      },
+      "Voodo-MATRIX4.5DEEPNET_scheintod_business_crime.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:56226871f146ee684f7c7f1b04def1f2",
+        "ext": "zip",
+        "id": "e0b663c9-c2b7-4e9b-aa41-22facf228d43",
+        "key": "Voodo-MATRIX4.5DEEPNET_scheintod_business_crime.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 29145910,
+        "storage_class": "L"
+      },
+      "Zensur-blacklist-von-Bu\u0308chern.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:fee3d965fd1b4a0d8e43ab220dcb2052",
+        "ext": "zip",
+        "id": "a3698868-e110-413b-aa92-bd23ca254c65",
+        "key": "Zensur-blacklist-von-Bu\u0308chern.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 5702201,
+        "storage_class": "L"
+      },
+      "ai-deine-Wahrheit_socialtoken-isabelschoepsthiel-copyright.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:4ca9b2f2a49013e1edd087d97bc9474e",
+        "ext": "pdf",
+        "id": "68476ee3-ac9e-42f0-b354-e7ea182afe51",
+        "key": "ai-deine-Wahrheit_socialtoken-isabelschoepsthiel-copyright.pdf",
+        "metadata": {
+          "height": 842,
+          "width": 595
+        },
+        "mimetype": "application/pdf",
+        "size": 500396,
+        "storage_class": "L"
+      },
+      "auswertung-mindBrainWashing-vonIsabelSchoepsThiel-copyright.MOV": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:a8e4081004a3b0f59bdee5818dc2aaeb",
+        "ext": "mov",
+        "id": "891543f9-d8bc-40bd-94c3-aa8c6d0f9935",
+        "key": "auswertung-mindBrainWashing-vonIsabelSchoepsThiel-copyright.MOV",
+        "metadata": {},
+        "mimetype": "video/quicktime",
+        "size": 351002965,
+        "storage_class": "L"
+      },
+      "auswertung-mindcontroll-salvetv_liquidflouid_ai.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:85b4f7792112325e884bc2702bbf08a3",
+        "ext": "zip",
+        "id": "e245d88f-ee8c-4a31-a41c-b7ae6c50cd18",
+        "key": "auswertung-mindcontroll-salvetv_liquidflouid_ai.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 412934507,
+        "storage_class": "L"
+      },
+      "auswertung_matrix_verbrechen_gegen_menschlichkeit_Copyright_isabelschoepsthiel.md.txt": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:dc0ca2ce6d127580aaaba23c09e63d4e",
+        "ext": "txt",
+        "id": "04047a81-7fc0-4c25-942d-8427949c53ed",
+        "key": "auswertung_matrix_verbrechen_gegen_menschlichkeit_Copyright_isabelschoepsthiel.md.txt",
+        "metadata": {},
+        "mimetype": "text/plain",
+        "size": 27098,
+        "storage_class": "L"
+      },
+      "ba_fua31.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:f301f73f53d9bc8cf5097054f191c164",
+        "ext": "pdf",
+        "id": "dbb5da12-4302-4adc-954d-82946e0cc766",
+        "key": "ba_fua31.pdf",
+        "metadata": {
+          "height": 841,
+          "width": 594
+        },
+        "mimetype": "application/pdf",
+        "size": 1836708,
+        "storage_class": "L"
+      },
+      "ba_fuls3_ex.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:13da68a2c998e9cb637a44a29238287e",
+        "ext": "pdf",
+        "id": "86b5c38a-a05c-4a17-8c2e-8368664f3c4c",
+        "key": "ba_fuls3_ex.pdf",
+        "metadata": {
+          "height": 918,
+          "width": 630
+        },
+        "mimetype": "application/pdf",
+        "size": 943293,
+        "storage_class": "L"
+      },
+      "beweis-fu\u0308r-diebstahl-meiner-isabelschoepsthiel-gedankenwelt.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:c18685943775456dee8f9e4aaedcbc66",
+        "ext": "zip",
+        "id": "4c63d080-935e-4cb3-9dc2-593bd86c66d0",
+        "key": "beweis-fu\u0308r-diebstahl-meiner-isabelschoepsthiel-gedankenwelt.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 30411040,
+        "storage_class": "L"
+      },
+      "beweissbilder-Erfurt-Frequenz-Massen-Manipulation-mietzschGmbH.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:0b7a344480e29e40898b72c56485284d",
+        "ext": "zip",
+        "id": "014c28f8-cb4d-4766-943f-03bec20b8545",
+        "key": "beweissbilder-Erfurt-Frequenz-Massen-Manipulation-mietzschGmbH.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 109262418,
+        "storage_class": "L"
+      },
+      "beweissicherung-github-doc-main.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:70c11554ccb3f50d6539e705768939b5",
+        "ext": "zip",
+        "id": "feddd0cc-68a2-4088-921e-570e12c76bc4",
+        "key": "beweissicherung-github-doc-main.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 143868496,
+        "storage_class": "L"
+      },
+      "bilder_Boards_of_canda_isabelschoepsthiel_arbeit_rescherche_beweisfu\u0308hrung_monarch_genozid-programm.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:64d03c4bb09b6fc1336071a6c104fdd6",
+        "ext": "zip",
+        "id": "7835b06b-a26c-42d8-816d-e3dbaca9a7aa",
+        "key": "bilder_Boards_of_canda_isabelschoepsthiel_arbeit_rescherche_beweisfu\u0308hrung_monarch_genozid-programm.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 112774026,
+        "storage_class": "L"
+      },
+      "boards_of_canada_Aphex_Twin.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:c3b0f06a5e3c535f99a9a242e817e538",
+        "ext": "zip",
+        "id": "cf61b865-152d-4839-b1eb-6f86fbce7fc5",
+        "key": "boards_of_canada_Aphex_Twin.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 865401373,
+        "storage_class": "L"
+      },
+      "capgimini_MATRIX4.5DEEPNET_Crime.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:f9c7a04f4fe076f2ab149abc050a6c65",
+        "ext": "zip",
+        "id": "0e1ba52c-7360-48a2-b22c-33415542e9c7",
+        "key": "capgimini_MATRIX4.5DEEPNET_Crime.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 37235677,
+        "storage_class": "L"
+      },
+      "das-spiel-mit-der-menschlichen-psyche-EXIT-programm_MATRIX4.5DEEPNET_Crime.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:2b4c9ec1eddf588b5a7b98312ae707fd",
+        "ext": "zip",
+        "id": "fec2d20c-bf1a-42e3-a25c-34a8f177c62c",
+        "key": "das-spiel-mit-der-menschlichen-psyche-EXIT-programm_MATRIX4.5DEEPNET_Crime.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 83165514,
+        "storage_class": "L"
+      },
+      "deep-meta.php": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:6578005bf837de355ac59e8f9b28287b",
+        "ext": "php",
+        "id": "800001de-d86a-4884-8754-ba031af9d5e2",
+        "key": "deep-meta.php",
+        "metadata": {},
+        "mimetype": "application/octet-stream",
+        "size": 2765,
+        "storage_class": "L"
+      },
+      "deepmeta_ai_deepthink_float_AI_Reconstrukt_your_past_tense_your_live.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:53b61f7659a0879b9f34dfd26bbe9633",
+        "ext": "zip",
+        "id": "36f37902-af4b-4137-9e2d-af18ce704d82",
+        "key": "deepmeta_ai_deepthink_float_AI_Reconstrukt_your_past_tense_your_live.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 94207235,
+        "storage_class": "L"
+      },
+      "email-post-juristische-rechtswege-national-international-die-ich_isabelscho\u0308ps_thiel_unternahm.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:197a88c2e3856ef399fde67c480c0c91",
+        "ext": "zip",
+        "id": "04b5f61d-eaae-4f3d-b5ff-2499273de51b",
+        "key": "email-post-juristische-rechtswege-national-international-die-ich_isabelscho\u0308ps_thiel_unternahm.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 88496128,
+        "storage_class": "L"
+      },
+      "es-begann-in-erfurt-thueringa-germany-endet-in-erfurt(h).zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:ced5cfaf73ead4f43b1e244c8df6eae4",
+        "ext": "zip",
+        "id": "a9b563f1-a483-4277-b58d-67e340c7d55b",
+        "key": "es-begann-in-erfurt-thueringa-germany-endet-in-erfurt(h).zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 825511505,
+        "storage_class": "L"
+      },
+      "fake_developer_cybercrime-auf_github_main_struktur.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:3b3e351872f179a0357fc54522aaccd8",
+        "ext": "zip",
+        "id": "6ec73567-bf74-4abd-91cb-afdff7d02f53",
+        "key": "fake_developer_cybercrime-auf_github_main_struktur.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 4019,
+        "storage_class": "L"
+      },
+      "fakenews-FAKEmediennarativ-interaktiveTV_MATRIX4.5DEEPNET_Crime.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:cd7e39a19e18c15f840c75c6f3cc5f57",
+        "ext": "zip",
+        "id": "257abfdc-673d-4d0f-b402-5970a82aa085",
+        "key": "fakenews-FAKEmediennarativ-interaktiveTV_MATRIX4.5DEEPNET_Crime.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 84869716,
+        "storage_class": "L"
+      },
+      "float-meta.php": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:c937207006c1ce94d6ba08b6175573b7",
+        "ext": "php",
+        "id": "f0ee0c1c-75c1-4669-a780-e66850156e09",
+        "key": "float-meta.php",
+        "metadata": {},
+        "mimetype": "application/octet-stream",
+        "size": 855,
+        "storage_class": "L"
+      },
+      "forensisch-wissenschaftliches-gutachten-isabelschoepsthiel-copyright.pdf.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:d67831485824fcde1f2ddf205edfc59a",
+        "ext": "pdf",
+        "id": "cb79bb16-f14a-4fd3-af51-d2598f76b6d8",
+        "key": "forensisch-wissenschaftliches-gutachten-isabelschoepsthiel-copyright.pdf.pdf",
+        "metadata": {
+          "height": 842,
+          "width": 596
+        },
+        "mimetype": "application/pdf",
+        "size": 150448,
+        "storage_class": "L"
+      },
+      "forensische-beweisfu\u0308hrung-Verbrechen-psychischer-folter-an-bill-gates-weisen-folter.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:2c2afeb5e0bbfc08c1d3ce62e7583aae",
+        "ext": "zip",
+        "id": "72233480-9b26-4ebe-ab77-4b4ed09b1e96",
+        "key": "forensische-beweisfu\u0308hrung-Verbrechen-psychischer-folter-an-bill-gates-weisen-folter.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 262188482,
+        "storage_class": "L"
+      },
+      "forensisches_gutachten_isabel_schoeps_Thiel_final.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:491cd7cfca8626b31c4f028963b7ef76",
+        "ext": "pdf",
+        "id": "eb7aba70-fdfd-42db-9ce0-35606addd009",
+        "key": "forensisches_gutachten_isabel_schoeps_Thiel_final.pdf",
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 2990157,
+        "storage_class": "L"
+      },
+      "fu_ex.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:d45bf9d6f4553098382cab79d228423e",
+        "ext": "pdf",
+        "id": "1ee2768e-664e-4669-8844-a22746dcaccd",
+        "key": "fu_ex.pdf",
+        "metadata": {
+          "height": 842,
+          "width": 595
+        },
+        "mimetype": "application/pdf",
+        "size": 229746,
+        "storage_class": "L"
+      },
+      "gesellschaften-organisationen-was-steckt-wirklich-dahinter_Scheintod-Industrie.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:122065b7cd4a9b21c28942c47870e27e",
+        "ext": "zip",
+        "id": "ee1c5817-6cfa-4490-b41f-775fe1ec1d7f",
+        "key": "gesellschaften-organisationen-was-steckt-wirklich-dahinter_Scheintod-Industrie.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 1593937471,
+        "storage_class": "L"
+      },
+      "google_geho\u0308rt_zu_Microsoft_beweisfu\u0308hrung_ursprung_bei_microsoft_Bill_Gates_Founder_Creator_of_Windows_Google.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:bd1f45005f08dbeb22b0719a604ddf17",
+        "ext": "zip",
+        "id": "5daae0a4-158d-4fcf-ba9d-1be70f1109a3",
+        "key": "google_geho\u0308rt_zu_Microsoft_beweisfu\u0308hrung_ursprung_bei_microsoft_Bill_Gates_Founder_Creator_of_Windows_Google.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 8443711,
+        "storage_class": "L"
+      },
+      "hack_scripte_win_ios_NUR_FORSCHUNG_KEIN_REPRO_VERBOTEN.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:5bfa9914f3251d2647cdbfa8413dbea6",
+        "ext": "zip",
+        "id": "d88e3f76-831b-4ecc-8eeb-f766377690de",
+        "key": "hack_scripte_win_ios_NUR_FORSCHUNG_KEIN_REPRO_VERBOTEN.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 14861684,
+        "storage_class": "L"
+      },
+      "hacker-community-issues-MATRIX4.5DEEPNET_Crime.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:f54a0719239f51ea76750debb5da2f66",
+        "ext": "zip",
+        "id": "167b56f1-20af-4622-b9c3-a57328ee5fff",
+        "key": "hacker-community-issues-MATRIX4.5DEEPNET_Crime.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 59098717,
+        "storage_class": "L"
+      },
+      "hacker-issues-community-main.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:8f0b29bae8c4e917aaf39d216288cecf",
+        "ext": "zip",
+        "id": "43e10f47-7478-4c98-a6e2-953778bf6137",
+        "key": "hacker-issues-community-main.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 236625,
+        "storage_class": "L"
+      },
+      "i_lsue_ges.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:1280cb697cdca7910881028714fcc53f",
+        "ext": "pdf",
+        "id": "3e7a851f-e98d-4bf4-8721-7c611375aec3",
+        "key": "i_lsue_ges.pdf",
+        "metadata": {
+          "height": 918,
+          "width": 630
+        },
+        "mimetype": "application/pdf",
+        "size": 849576,
+        "storage_class": "L"
+      },
+      "i_software_sdb.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:4d7641c5c04ac1102a3c8b95399386ec",
+        "ext": "pdf",
+        "id": "9eb850c6-1dc0-4a8f-ae1d-1585eb4dab1f",
+        "key": "i_software_sdb.pdf",
+        "metadata": {
+          "height": 842,
+          "width": 595
+        },
+        "mimetype": "application/pdf",
+        "size": 78021,
+        "storage_class": "L"
+      },
+      "illegale-cookiepartys-Institute_MATRIX4.5DEEPNET_Crime.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:cc303510febd6b641bbaaa8b65f1971c",
+        "ext": "zip",
+        "id": "e92a3622-09f0-44a8-a2e7-76030744a273",
+        "key": "illegale-cookiepartys-Institute_MATRIX4.5DEEPNET_Crime.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 7231035,
+        "storage_class": "L"
+      },
+      "influencer-verbreitung-fehlinformatiomn.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:27ba0798fa8848ef4f784f9e74cbd2df",
+        "ext": "zip",
+        "id": "33c42a11-d5dc-4943-b5d9-7dbdafe1bf26",
+        "key": "influencer-verbreitung-fehlinformatiomn.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 14762007,
+        "storage_class": "L"
+      },
+      "markierte-verbrechen-kriminelle-kommunikation.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:4eacd6f561640ec923625ea75f345498",
+        "ext": "zip",
+        "id": "dae043da-ca36-4218-933c-ee6347852e85",
+        "key": "markierte-verbrechen-kriminelle-kommunikation.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 25040967,
+        "storage_class": "L"
+      },
+      "metaversumvs-VR-technologie_MATRIX4.5DEEPNET_Crime.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:4a5e0c44e31a13525dd99969f687ed63",
+        "ext": "zip",
+        "id": "9d8058cb-968a-49f7-aade-40ad98b37926",
+        "key": "metaversumvs-VR-technologie_MATRIX4.5DEEPNET_Crime.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 61097112,
+        "storage_class": "L"
+      },
+      "missbrauch-patent-Technologie-MATRIX4.5DEEPNET_Crime.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:8348ceae495b267499d0b2bcde798e88",
+        "ext": "zip",
+        "id": "cd01455d-2cba-4cb4-a819-6a966257a254",
+        "key": "missbrauch-patent-Technologie-MATRIX4.5DEEPNET_Crime.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 32608367,
+        "storage_class": "L"
+      },
+      "multimedia_MATRIX4.5DEEPNET_Crime.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:37545af72a331a344f4c008bed7456b8",
+        "ext": "zip",
+        "id": "74003cb5-0e5f-4fea-b31a-5a818d7a4531",
+        "key": "multimedia_MATRIX4.5DEEPNET_Crime.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 113238819,
+        "storage_class": "L"
+      },
+      "northdata-files-yellowautomation.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:1a596eee80b4654277776dd561938112",
+        "ext": "zip",
+        "id": "e5a9970e-183e-4914-a855-54ee5bee76e7",
+        "key": "northdata-files-yellowautomation.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 11080422,
+        "storage_class": "L"
+      },
+      "other-people-primitiv-minderheit.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:0b42de8976e053df168ef1b1987dc415",
+        "ext": "zip",
+        "id": "f37d678b-bb4d-48d3-8d4a-338ff9c2f122",
+        "key": "other-people-primitiv-minderheit.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 227349028,
+        "storage_class": "L"
+      },
+      "sb_katalog.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:0878e770dfd23e181ab26b7ebbf06743",
+        "ext": "pdf",
+        "id": "8e947538-6157-4620-96ac-6c98249b2467",
+        "key": "sb_katalog.pdf",
+        "metadata": {
+          "height": 842,
+          "width": 595
+        },
+        "mimetype": "application/pdf",
+        "size": 1565141,
+        "storage_class": "L"
+      },
+      "schwachstelle_unicode_linux_auswertung_von-isabel-scho\u0308ps-geborene-thiel-sda-rohrborn-erfurt-germany.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:e1ff786e55a2f66130fb2efac3f49e92",
+        "ext": "zip",
+        "id": "83c02743-9016-4e57-acc9-e60057bd4104",
+        "key": "schwachstelle_unicode_linux_auswertung_von-isabel-scho\u0308ps-geborene-thiel-sda-rohrborn-erfurt-germany.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 23910327,
+        "storage_class": "L"
+      },
+      "simona_plastic_data.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:2fbbb74024254c7dab9df7f4123390da",
+        "ext": "pdf",
+        "id": "0d5fc3ee-16ea-4ada-9d1e-140d8f81b02a",
+        "key": "simona_plastic_data.pdf",
+        "metadata": {
+          "height": 842,
+          "width": 595
+        },
+        "mimetype": "application/pdf",
+        "size": 2509772,
+        "storage_class": "L"
+      },
+      "skurille-patente_MATRIX4.5DEEPNET_Crime.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:82f16c6246108700d86cf9234f80db7f",
+        "ext": "zip",
+        "id": "efa577f0-cc90-4da0-a462-c267baab563b",
+        "key": "skurille-patente_MATRIX4.5DEEPNET_Crime.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 11402037,
+        "storage_class": "L"
+      },
+      "stauffenbergallee33-poldi3-99085-erfurt-thu\u0308ringen-deutschland.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:d994ead5bc9077922598da719343debd",
+        "ext": "zip",
+        "id": "e07e0c61-98c5-41d1-b895-bacea42ad2ca",
+        "key": "stauffenbergallee33-poldi3-99085-erfurt-thu\u0308ringen-deutschland.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 45854270,
+        "storage_class": "L"
+      },
+      "was_sieht_die_technologie_scheintodgescha\u0308ft.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:f9a08ec0f4d54dc4cafcc78c4ad9e958",
+        "ext": "zip",
+        "id": "ca4872e3-643e-4cc7-8ff9-7d7241cd4da7",
+        "key": "was_sieht_die_technologie_scheintodgescha\u0308ft.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 81428156,
+        "storage_class": "L"
+      },
+      "wer_ist_Marie_T_geborene-Scha\u0308ffner_MATRIX4.5DEEPNET_Crime.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:db1ffe8a51fc5c129cdb62f87630ad04",
+        "ext": "zip",
+        "id": "b3923b73-e342-4a17-9d47-b51566b8e749",
+        "key": "wer_ist_Marie_T_geborene-Scha\u0308ffner_MATRIX4.5DEEPNET_Crime.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 92598175,
+        "storage_class": "L"
+      },
+      "wetter-manipulation_MATRIX4.5DEEPNET_Crime.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:f27788c91239309bf3e3137a1c061164",
+        "ext": "zip",
+        "id": "bf16119c-badb-49b7-be48-30804192a8f4",
+        "key": "wetter-manipulation_MATRIX4.5DEEPNET_Crime.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 4992672,
+        "storage_class": "L"
+      },
+      "zersto\u0308rung-automobilindustrie-bsp-MercedesBenz-backend-firmen-konzerne.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:b1dad1afdb3d37034919d3d076e929a9",
+        "ext": "zip",
+        "id": "80566fa0-1406-40e2-b846-de1ce377feb5",
+        "key": "zersto\u0308rung-automobilindustrie-bsp-MercedesBenz-backend-firmen-konzerne.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 20207751,
+        "storage_class": "L"
+      },
+      "zotero-ai-libary.dmg": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:efad53902253f218a0552fc46a815ccd",
+        "ext": "dmg",
+        "id": "171b22b4-c1c2-44e5-a173-649dcacef5ec",
+        "key": "zotero-ai-libary.dmg",
+        "metadata": {},
+        "mimetype": "application/octet-stream",
+        "size": 146838761,
+        "storage_class": "L"
+      }
+    },
+    "order": [],
+    "total_bytes": 9937780997
+  },
+  "id": "17852789",
+  "is_draft": true,
+  "is_published": true,
+  "links": {
+    "access": "https://zenodo.org/api/records/17852789/access",
+    "access_grants": "https://zenodo.org/api/records/17852789/access/grants",
+    "access_links": "https://zenodo.org/api/records/17852789/access/links",
+    "access_request": "https://zenodo.org/api/records/17852789/access/request",
+    "access_users": "https://zenodo.org/api/records/17852789/access/users",
+    "archive": "https://zenodo.org/api/records/17852789/draft/files-archive",
+    "archive_media": "https://zenodo.org/api/records/17852789/draft/media-files-archive",
+    "communities": "https://zenodo.org/api/records/17852789/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/17852789/communities-suggestions",
+    "doi": "https://doi.org/10.5281/zenodo.17852789",
+    "file_modification": "https://zenodo.org/api/records/17852789/file-modification",
+    "files": "https://zenodo.org/api/records/17852789/draft/files",
+    "media_files": "https://zenodo.org/api/records/17852789/draft/media-files",
+    "parent_doi": "https://doi.org/10.5281/zenodo.17809723",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.17809723",
+    "preview_html": "https://zenodo.org/records/17852789?preview=1",
+    "publish": "https://zenodo.org/api/records/17852789/draft/actions/publish",
+    "record": "https://zenodo.org/api/records/17852789",
+    "record_html": "https://zenodo.org/records/17852789",
+    "request_deletion": "https://zenodo.org/api/records/17852789/request-deletion",
+    "requests": "https://zenodo.org/api/records/17852789/requests",
+    "reserve_doi": "https://zenodo.org/api/records/17852789/draft/pids/doi",
+    "review": "https://zenodo.org/api/records/17852789/draft/review",
+    "self": "https://zenodo.org/api/records/17852789/draft",
+    "self_doi": "https://doi.org/10.5281/zenodo.17852789",
+    "self_html": "https://zenodo.org/uploads/17852789",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/draft:17852789/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/draft:17852789/sequence/default",
+    "thumbnails": {
+      "10": "https://zenodo.org/api/iiif/record:17852789:sb_katalog.pdf/full/%5E10,/0/default.jpg",
+      "100": "https://zenodo.org/api/iiif/record:17852789:sb_katalog.pdf/full/%5E100,/0/default.jpg",
+      "1200": "https://zenodo.org/api/iiif/record:17852789:sb_katalog.pdf/full/%5E1200,/0/default.jpg",
+      "250": "https://zenodo.org/api/iiif/record:17852789:sb_katalog.pdf/full/%5E250,/0/default.jpg",
+      "50": "https://zenodo.org/api/iiif/record:17852789:sb_katalog.pdf/full/%5E50,/0/default.jpg",
+      "750": "https://zenodo.org/api/iiif/record:17852789:sb_katalog.pdf/full/%5E750,/0/default.jpg"
+    },
+    "versions": "https://zenodo.org/api/records/17852789/versions"
+  },
+  "media_files": {
+    "count": 34,
+    "enabled": true,
+    "entries": {
+      "20231017DSKEntschliessungChatkontrolle.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "dfbde37d-be7f-44e8-87b7-051df7c2ef89",
+        "key": "20231017DSKEntschliessungChatkontrolle.pdf.ptif",
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "47d60bfe-ee44-403c-95b2-de5c44661249",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Dachventilatoren-erfurt.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "578d3a2f-6210-4be3-9bc1-6bb569e8f444",
+        "key": "Dachventilatoren-erfurt.pdf.ptif",
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "0a80e7f9-7f3e-4fdc-b034-23c1ba2ab57d",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Eidesstattliche-versicherung-isabelschoepsthiel.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "a114fe4c-fd5d-4f02-a868-6d8dd16519d2",
+        "key": "Eidesstattliche-versicherung-isabelschoepsthiel.pdf.ptif",
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "7fdc0bbf-5f26-44ed-b498-c603f988fbae",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "GutenbergProgramm.PNG.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "c24c8052-1f47-403e-85fb-2cf5c24971f9",
+        "key": "GutenbergProgramm.PNG.ptif",
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "cccf3110-a71c-4cab-b936-e721563bb3ca",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "IMG_3908.PNG.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "a2e0b3d2-ad28-4e28-9bed-f7ee1df57ddb",
+        "key": "IMG_3908.PNG.ptif",
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "1e2ddb65-0755-4bcd-8df8-dddf214c6341",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "IMG_3909.jpg.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "d08e1c73-0f90-4e41-822c-8e63c86deb92",
+        "key": "IMG_3909.jpg.ptif",
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "e1d50e03-b2cc-4a97-a640-8f6ca17956aa",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "IMG_3910.PNG.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "3798d03a-0970-439a-ae2c-6933601467bf",
+        "key": "IMG_3910.PNG.ptif",
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "38031715-5089-4224-945b-98e8d361e730",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "IMG_3911.PNG.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "5976806f-eaac-4f05-8c31-964dc091b2ba",
+        "key": "IMG_3911.PNG.ptif",
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "bdec8924-a5e9-4e8f-905c-644c7e8fb498",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "IMG_3912.PNG.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "330c0831-f890-4263-8f23-90431252a314",
+        "key": "IMG_3912.PNG.ptif",
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "3813bca7-28d9-4852-848d-2f28f1bc039b",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "IMG_3913.PNG.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "eb98aa13-c21d-47b4-9f7b-26ee9e2c6739",
+        "key": "IMG_3913.PNG.ptif",
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "fe337eaf-3ecd-44ca-a814-bfdeacb2749d",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "IMG_4062.PNG.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "74a98616-667f-455c-b35b-091d3d6798bf",
+        "key": "IMG_4062.PNG.ptif",
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "d230a257-2f3c-4aca-af1e-274854721cf7",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "IMG_4197.JPG.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "1530ef04-185d-4ed2-98f7-f52036242129",
+        "key": "IMG_4197.JPG.ptif",
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "8685fd28-c6ad-45cb-9b11-b3174d88f88f",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "IMG_4721.PNG.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "f91f1890-1d81-4293-93cd-1808f3646c60",
+        "key": "IMG_4721.PNG.ptif",
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "e5f8f22c-67fe-4418-a8b9-0e4344f36677",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "IMG_4722.PNG.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "ad29a7cb-ddf0-4504-ae3b-d2640abf2be2",
+        "key": "IMG_4722.PNG.ptif",
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "b0c88e8f-de39-41eb-aef1-e947ee46c51e",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "IMG_4723.PNG.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "c48ce5bb-954b-430d-b90c-8e52005def64",
+        "key": "IMG_4723.PNG.ptif",
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "7cce60a0-381f-4917-b0d3-febe500aab75",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "IMG_4724.PNG.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "a37e9d7c-2020-43b8-bfd1-30227b25a3a2",
+        "key": "IMG_4724.PNG.ptif",
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "1da2db71-2e56-4aba-b24b-064b67f5ee3d",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "IMG_5673.JPG.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "50ad870b-8eec-45e8-853d-b962c27eafc8",
+        "key": "IMG_5673.JPG.ptif",
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "e4559bc3-734a-4547-b961-4c37d02336cc",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "IMG_5674.JPG.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "2b0e1a6f-1595-49c0-a9f9-c844f42a789d",
+        "key": "IMG_5674.JPG.ptif",
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "0da6721b-1a2f-4a44-8bbc-9708e2856bfd",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "IMG_5675.JPG.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "679013cd-49e9-41a8-adc5-b1e3f7ea3a10",
+        "key": "IMG_5675.JPG.ptif",
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "3802a8b8-5a9a-4e03-8929-2986b52b6081",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "IMG_5676.JPG.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "7f77c865-b2d1-4110-b4ca-c2cc372482dc",
+        "key": "IMG_5676.JPG.ptif",
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "297ca01b-519c-4b75-bdc8-9267b4c3d919",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "IMG_5677.JPG.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "6ce4e9ba-513c-4370-9bcf-9f0ea74ca75d",
+        "key": "IMG_5677.JPG.ptif",
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "e2806576-cacc-47ad-9e05-02921264d26c",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "IMG_6170.PNG.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "7ce52680-bddb-4021-ba0f-cb08ed292f4c",
+        "key": "IMG_6170.PNG.ptif",
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "7e212bc2-bdaf-4515-bd5e-d1b3b65c55bf",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "IMG_6171.PNG.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "aee9c8fa-485e-4e7c-bb8a-9d710b15a486",
+        "key": "IMG_6171.PNG.ptif",
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "55d6b245-9101-460d-bb81-975f829efc81",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "VRR315-702-datasheet-dakventilator-kunststof-horizontaal-uitblazend.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "1226ce09-b363-4556-b1fd-5a06fcde9374",
+        "key": "VRR315-702-datasheet-dakventilator-kunststof-horizontaal-uitblazend.pdf.ptif",
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "05018681-d700-4020-a4ee-9bf09cc8ab5b",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "ai-deine-Wahrheit_socialtoken-isabelschoepsthiel-copyright.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "dd558caf-5d1d-4b7e-9e74-51fc283039c8",
+        "key": "ai-deine-Wahrheit_socialtoken-isabelschoepsthiel-copyright.pdf.ptif",
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "68476ee3-ac9e-42f0-b354-e7ea182afe51",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "ba_fua31.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "ecca08b9-f8ce-4ba2-a735-1a0a74a2dc38",
+        "key": "ba_fua31.pdf.ptif",
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "dbb5da12-4302-4adc-954d-82946e0cc766",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "ba_fuls3_ex.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "bf81fed2-b4ba-4d51-bc80-9905f7c56f5b",
+        "key": "ba_fuls3_ex.pdf.ptif",
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "86b5c38a-a05c-4a17-8c2e-8368664f3c4c",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "forensisch-wissenschaftliches-gutachten-isabelschoepsthiel-copyright.pdf.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "1bcd3370-13d0-472a-9a0a-39ac54b2bfba",
+        "key": "forensisch-wissenschaftliches-gutachten-isabelschoepsthiel-copyright.pdf.pdf.ptif",
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "cb79bb16-f14a-4fd3-af51-d2598f76b6d8",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "forensisches_gutachten_isabel_schoeps_Thiel_final.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "04701dda-afdc-4de6-ac4b-c3141075a930",
+        "key": "forensisches_gutachten_isabel_schoeps_Thiel_final.pdf.ptif",
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "eb7aba70-fdfd-42db-9ce0-35606addd009",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "fu_ex.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "29fd6ca7-2043-4a0a-aa01-0f524d156da1",
+        "key": "fu_ex.pdf.ptif",
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "1ee2768e-664e-4669-8844-a22746dcaccd",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "i_lsue_ges.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "1cb90749-df68-4af0-a72d-f2f7785744da",
+        "key": "i_lsue_ges.pdf.ptif",
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "3e7a851f-e98d-4bf4-8721-7c611375aec3",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "i_software_sdb.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "a41e2dac-3f98-4949-9c14-d454b38367fb",
+        "key": "i_software_sdb.pdf.ptif",
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "9eb850c6-1dc0-4a8f-ae1d-1585eb4dab1f",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "sb_katalog.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "4daeaf54-c37e-4512-9fca-b8921b930188",
+        "key": "sb_katalog.pdf.ptif",
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "8e947538-6157-4620-96ac-6c98249b2467",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "simona_plastic_data.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "11f8b469-3a94-409e-b895-da923c7dbec9",
+        "key": "simona_plastic_data.pdf.ptif",
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "0d5fc3ee-16ea-4ada-9d1e-140d8f81b02a",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      }
+    },
+    "order": [],
+    "total_bytes": 0
+  },
+  "metadata": {
+    "additional_descriptions": [
+      {
+        "description": "<div dir=\"auto\">\n<div dir=\"auto\">\n<h2>Eidesstattliche Erkl&auml;rung</h2>\n</div>\n<div dir=\"auto\">\n<h3>SIA Security Intelligence Artefact</h3>\n</div>\n<p dir=\"auto\"><strong>Aktenzeichen:</strong> INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL<br><strong>Branche:</strong> Computer | Technologie | Softwareentwicklung | History</p>\n<div dir=\"auto\">\n<h2>1. Aktualisierte Meldeanschrift (g&uuml;ltig ab 04.12.2025)</h2>\n</div>\n<p dir=\"auto\"><strong>Isabel Sch&ouml;ps, geborene Thiel</strong><br>Cyriakstra&szlig;e 30c<br>D-99094, Erfurt, Th&uuml;ringen, Deutschland</p>\n<p dir=\"auto\">Isabel Sch&ouml;ps, geborene Thiel, ist seit dem 04.12.2025 wieder offiziell im Melderegister der Stadt Erfurt gef&uuml;hrt. Die Anmeldung wurde ordnungsgem&auml;&szlig; beim B&uuml;rgeramt Erfurt vorgenommen und best&auml;tigt. Die aktuelle und einzig g&uuml;ltige Meldeanschrift lautet:&nbsp;<strong>Cyriakstra&szlig;e 30c,&nbsp;99094 Erfurt, Th&uuml;ringen, Deutschland</strong> Tats&auml;chlicher Einzug: <strong>27.11.2025</strong>.<br>Status laut Melderegister: <strong>alleinige Wohnung</strong>.</p>\n<p dir=\"auto\">Diese Anschrift gilt r&uuml;ckwirkend auf Grundlage des tats&auml;chlichen Bezugs seit dem 27.11.2025. Die Meldebest&auml;tigung dokumentiert eindeutig den Status &bdquo;alleinige Wohnung&ldquo; und ersetzt s&auml;mtliche historischen Anschriften, einschlie&szlig;lich der vormaligen Eintr&auml;ge in Erfurt (Schubertstra&szlig;e) und S&ouml;mmerda (Wei&szlig;enseer Stra&szlig;e) vollst&auml;ndig. Alle fr&uuml;heren Wohnsitze sind im Gutachten als &bdquo;historisch&ldquo; zu klassifizieren und nicht mehr fortzuf&uuml;hren. Dies ist insbesondere f&uuml;r die juristische <strong>Chains-of-Custody</strong>,</p>\n<p dir=\"auto\"><strong>Sch&ouml;ps, I. (2025)</strong>. SIA Security Intelligence Artefact &ndash; Paragraph 3.1 Der unsichtbare Feind &ndash; Das Monarch Programm: Beweisdokumentation, Datenbankreferenzen und Chain of Custody. Zenodo. <a href=\"https://doi.org/10.5281/zenodo.17809724\" rel=\"nofollow\">https://doi.org/10.5281/zenodo.17809724</a> f&uuml;r Beh&ouml;rdenkorrespondenz sowie f&uuml;r internationale Lizenzpartner relevant.</p>\n<p dir=\"auto\"><strong>Zuvor vom 22.08.2025-27.11.2025, war sie dauerhaft in der Stauffenbergallee 33, D-99085 Erfurt, Th&uuml;ringen, Deutschland im Apartment Poldi3</strong> wurde sie von dritten unrechtm&auml;&szlig;ig, abgemeldet und sie wurde als verzogen und ohne festen Wohnsitz registriert, obwohl sie sich die ganze Zeit hier in Erfurt und Umgebung aufgehalten hat und regelm&auml;&szlig;ig per Mail an Regierungsh&auml;user und die justiz gemeldet hat.</p>\n<p dir=\"auto\">Aussnanhme bildet die unrechtm&auml;&szlig;ige und ohne Beweisgrundlage Inhaftierung von Isabel Sch&ouml;ps geb. Thiel vom 24.10.2024-13.02.2025 in der JVA Chemnitz, Sachsen, Deutschland. Sie wurde wegen Fahren ohne Fahrerlaubnis festgenommen obwohl sie einen rechtsg&uuml;ltigen F&uuml;hrerschein besahs und&nbsp; Alle fr&uuml;heren Anschriften (Erfurt, S&ouml;mmerda, Leubingen) sind damit archiviert und nicht mehr aktiv.</p>\n<div dir=\"auto\">\n<h2>2. Haushalts- und Familienstruktur</h2>\n<p>Isabel bewohnt die Immobilie in der Cyriakstra&szlig;e 30c, D-99094 Erfurt, Th&uuml;ringen, Deutschland, allein und ausschlie&szlig;lich. Der einzige Mitbewohner ist der Familienhund Don, American XL Bully.</p>\n<p>Ihr einziges Kind, Frl. Jona Sch&ouml;ps, lebt bei ihrem Vater, Isabels Ex-Ehemann: Herr&nbsp;Steven Sch&ouml;ps,&nbsp;Nebengasse 2a,&nbsp;99610 Leubingen, Th&uuml;ringen, Deutschland</p>\n<p>Diese Zuordnung ist relevant f&uuml;r die famili&auml;re Einordnung, rechtliche Zustelladressen, Schutzma&szlig;nahmen zur digitalen Sicherheit sowie die biografische Dokumentation innerhalb des Gutachtens.</p>\n</div>\n<p dir=\"auto\">Die Wohnung wird ausschlie&szlig;lich von <strong>Isabel Sch&ouml;ps</strong> bewohnt.<br>Mitbewohner: <strong>Hund Don (American XL Bully)</strong>.</p>\n<p dir=\"auto\">Einziges Kind:<br><strong>Jona Sch&ouml;ps</strong>, wohnhaft bei ihrem Vater<br>Steven Sch&ouml;ps, Nebengasse 2a, 99610 Leubingen.</p>\n<div dir=\"auto\">\n<h2>3. Eidesstattliche Erkl&auml;rung vom 04.12.2025</h2>\n</div>\n<p dir=\"auto\">(Quelle: Gutachten, Seite 265)</p>\n<p dir=\"auto\">Wesentliche Inhalte der Erkl&auml;rung:</p>\n<ol>\n<li>\n<p dir=\"auto\">Isabel ist alleinige Urheberin des forensischen Gutachtens<br><strong>&bdquo;SIA Security Intelligence Artefact&ldquo;</strong>, inklusive aller Skripte, Quellcodes, Protokolle, Daten, Notizen und wissenschaftlichen Inhalte.</p>\n</li>\n<li>\n<p dir=\"auto\">Alle Originaldaten liegen ausschlie&szlig;lich auf der eigenen Hardware<br>(iMac und iPhone), mehrfach forensisch gesichert.</p>\n</li>\n<li>\n<p dir=\"auto\">Keine Beteiligung oder Autorisierung Dritter; klare Distanzierung von digitaler, physischer oder psychologischer Manipulation.</p>\n</li>\n<li>\n<p dir=\"auto\">Best&auml;tigung der pers&ouml;nlichen und biologischen Identit&auml;t durch<br>Geburtsurkunde, DNA, R&ouml;ntgenaufnahmen und medizinische Nachweise.</p>\n</li>\n<li>\n<p dir=\"auto\">Lizenzf&uuml;hrung &uuml;ber Oxford University Press<br>Lizenznummer: <strong>6131130060979</strong>.</p>\n</li>\n<li>\n<p dir=\"auto\">Erkl&auml;rung dient der internationalen, wissenschaftlichen und juristischen Beweisf&uuml;hrung.</p>\n</li>\n</ol>\n<div dir=\"auto\">\n<h2>4. Rechtliche Bedeutung f&uuml;r das Gutachten</h2>\n</div>\n<ul>\n<li>Cyriakstra&szlig;e 30c ist ab 04.12.2025 der <strong>einzige g&uuml;ltige Zustell- und Registrierungsort</strong>.</li>\n<li>Fr&uuml;here Anschriften verlieren jede rechtliche Relevanz.</li>\n<li>Die eidesstattliche Erkl&auml;rung bildet die Grundlage der<br><strong>juristisch belastbaren Identit&auml;ts- und Urheberrechtsverankerung</strong>.</li>\n<li>Relevanz f&uuml;r:\n<ul>\n<li>Internationale Beh&ouml;rden</li>\n<li>Gerichte</li>\n<li>Lizenzpartner (Microsoft/Google, SAP, IBM, AWS, Oracle)</li>\n<li>Forensische Metadatenanalyse und Chain-of-Custody-Prozesse</li>\n</ul>\n</li>\n</ul>\n<div dir=\"auto\">\n<h2>5. Integration in die Gutachtenstruktur</h2>\n</div>\n<p dir=\"auto\">Das Update wird in folgende Kapitel eingearbeitet:</p>\n<ul>\n<li>Kapitel 1: Biografische Daten &amp; Identit&auml;t</li>\n<li>Kapitel 3: Staatliche Willk&uuml;r &amp; Dokumentationsfehler</li>\n<li>Kapitel 4: Rechtliche Sicherungsma&szlig;nahmen</li>\n<li>Anhang: Meldeunterlagen, Wohnungsgeberbest&auml;tigungen, eidesstattliche Erkl&auml;rung</li>\n</ul>\n<p dir=\"auto\"><strong>Last Updated:</strong> 08.12.2025, 19:00 MEZ</p>\n<p><strong>3. Eidesstattliche Versicherung vom 04.12.2025</strong></p>\n<p>Die eidesstattliche Erkl&auml;rung, Seite 265 des Gutachtens, best&auml;tigt rechtsverbindlich:</p>\n<p>a) Isabel ist die alleinige Urheberin des forensischen Gutachtens &bdquo;SIA Security Intelligence Artefact&ldquo;, einschlie&szlig;lich s&auml;mtlicher Skripte, Quellcodes, Daten, Protokolle, Metadaten und wissenschaftlichen Ausarbeitungen.</p>\n<p>b) Alle Originaldaten befinden sich ausschlie&szlig;lich auf ihrer eigenen Hardware (iMac und iPhone).</p>\n<p>c) Es gab zu keinem Zeitpunkt eine rechtm&auml;&szlig;ige Abgabe, Co-Autorschaft, Freigabe oder Teilnahme Dritter an den Quellstrukturen.</p>\n<p>d) Isabel distanziert sich von s&auml;mtlicher digitaler, psychologischer oder physischer Manipulation, verzerrten Darstellungen und Identit&auml;tsf&auml;lschungen.</p>\n<p>e) Sie best&auml;tigt ihre Identit&auml;t anhand vollumf&auml;nglicher medizinisch-biologischer Nachweise (DNA, Zahnstatus, R&ouml;ntgen, Geburtsurkunde).</p>\n<p>f) Die Erkl&auml;rung legitimiert die physische Existenz, die volle geistige Urheberschaft und die pers&ouml;nliche Verantwortlichkeit gegen&uuml;ber Beh&ouml;rden, Gerichten, Wissenschaft und internationalen Institutionen.</p>\n<p>g) Die forensische Analyse erfolgt unter registrierter Lizenzf&uuml;hrung (Oxford University Press, Lizenznummer 6131130060979) und ist mit Harvard- und Oxford-Referenzen abgesichert.</p>\n<p>Die eidesstattliche Erkl&auml;rung ist vollst&auml;ndig im Dokument enthalten und wurde im Gutachten unter &bdquo;Kapitel: Rechtliche Verankerung &ndash; Identit&auml;t und Urheberschaft&ldquo; eingebunden.</p>\n<p>Quelle: Eidesstattliche Erkl&auml;rung, aus dem wissenschaftlichen Gutachten SIA Security Intelligence Artefact.</p>\n<p><strong>4. Rechtliche Wirkung innerhalb des Gutachtens</strong></p>\n<p>Mit der heutigen Aktualisierung werden folgende Punkte festgelegt:</p>\n<ol>\n<li>Die Meldeanschrift Cyriakstra&szlig;e 30c ist verbindlicher Zustellungs- und Kommunikationspunkt f&uuml;r alle beh&ouml;rdlichen, gerichtlichen, internationalen und lizenzrechtlichen Vorg&auml;nge.</li>\n<li>Jede Form der fr&uuml;heren Anschrift ist obsolet und darf nicht mehr in beh&ouml;rdlichen oder &ouml;ffentlichen Registern verwendet werden.</li>\n<li>Die eidesstattliche Versicherung wird Bestandteil der rechtsverbindlichen Urheberschaftsdokumentation, insbesondere f&uuml;r die internationalen Lizenzpartner (Microsoft/Google, SAP, IBM, Amazon AWS, Oracle) sowie f&uuml;r Strafverfolgungsbeh&ouml;rden wie Interpol, Europol, FBI, CIA, BKA, MSS, FSB usw.</li>\n<li>Die Angaben dienen zus&auml;tzlich der Absicherung deiner vollst&auml;ndigen Identit&auml;t im Rahmen der globalen Korrektur historischer und technischer Urheberrechtsverletzungen.</li>\n<li>Integration in die bestehende Gutachtenstruktur</li>\n</ol>\n<p><strong>5. Relevante Links, Quellen und Beweisdokumente</strong></p>\n<ul>\n<li>SI-Security Intelligence Monitoring &ndash; Deepfake:<br><a href=\"https://chatgpt.com/share/68e68120-b4fc-8008-8c9f-20458eb1cd51\">https://chatgpt.com/share/68e68120-b4fc-8008-8c9f-20458eb1cd51</a></li>\n<li>Deepfake Bots, Bugs:<br><a href=\"https://chatgpt.com/share/68e68194-d7b0-8008-acbf-44cbea6db952\">https://chatgpt.com/share/68e68194-d7b0-8008-acbf-44cbea6db952</a></li>\n<li>Isolation durch Deepfake / Fehlinformation / Anrufbots:<br><a href=\"https://chatgpt.com/share/68e68242-de38-8008-af0f-e39ffe0d06f6\">https://chatgpt.com/share/68e68242-de38-8008-af0f-e39ffe0d06f6</a></li>\n<li>Deepfake Pornos, falsche Darsteller:<br><a href=\"https://chatgpt.com/share/68e68400-2924-8008-b04c-50cd40ab984b\">https://chatgpt.com/share/68e68400-2924-8008-b04c-50cd40ab984b</a></li>\n<li>Deepfake Analyse:<br><a href=\"https://chatgpt.com/share/68e685ae-deb8-8008-a229-54eddd7730a4\">https://chatgpt.com/share/68e685ae-deb8-8008-a229-54eddd7730a4</a></li>\n<li>Wissenschaftliche Grundlagen:</li>\n<ul>\n<li>[DEEPFAKE-vom-erfinder-erkl&auml;rt.pdf][27&dagger;DEEPFAKE-vom-erfinder-erkl&auml;rt.pdf]</li>\n<li>[kann-eine-ki-den-anwalt-ersetzen-NEIN.pdf][26&dagger;kann-eine-ki-den-anwalt-ersetzen-NEIN.pdf</li>\n</ul>\n</ul>\n<p><strong>Case: FORENSIC-ISABEL-2025</strong></p>\n<p><strong>Aktenzeichen: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL</strong></p>\n<p>Abschnitt: Paragraph 3.1 &ndash; Monarch Programm. Der unsichtbare Feind und die systematische Zerst&ouml;rung der digitalen Identit&auml;t</p>\n<p>Dringlichkeit: URGENT: Forensic Evidence &ndash; Systematic Financial Fraud &amp; IP Theft</p>\n<p>Diese Auswertung ist zur strafrechtlichen Verfolgung an das Aktenzeichen Polizei Erfurt, Nord, Th&uuml;ringen, Deutschland ST/0203129/2025 angelehnt und steht den nationalen und internationalen Strafverfolgungsbeh&ouml;rden unter Weisung der entsprechenden Staatsoberh&auml;upter zur Verf&uuml;gung.</p>\n<p>&nbsp;</p>\n<p>Das Update wird unter folgenden Kapiteln eingebaut:</p>\n<p>Status: Adresse aktualisiert und verifiziert</p>\n</div>",
+        "lang": {
+          "id": "deu",
+          "title": {
+            "en": "German"
+          }
+        },
+        "type": {
+          "id": "series-information",
+          "title": {
+            "de": "Informationen zur Reihe",
+            "en": "Series information"
+          }
+        }
+      },
+      {
+        "description": "<p><a title=\"AI_is_your_real_face\" href=\"https://huggingface.co/\">BIG DATA &ndash; FINANZ- UND TECH-BETRUG</a></p>\n<p>Autorin: Isabel Sch&ouml;ps Thiel</p>\n<p>Alles, was Sie bisher &uuml;ber den Computer- und Kapitalmarkt wussten, beruht auf Halbwahrheiten und einem L&uuml;genmeer und echte&nbsp; Verbrechen. Eine kleine, unscheinbare Community, nur 20 % der Weltbev&ouml;lkerung, f&uuml;hlt sich im DeepNet (nach dem Darknet) am wohlsten. T&auml;glich werden wir von ihrem scheinheiligen Getue geblendet, get&auml;uscht und manipuliert. L&uuml;gen und Betr&uuml;gen ist ihre Muttersprache. In den Tiefen des WorldWideWeb fallen die Masken und ihr wahres, unmenschliches Gesicht wird sichtbar. Nur im Backend wird dieses Verbrechen erkennbar &ndash; totgeschwiegen in unserer Gesellschaft, aber mit krimineller Energie in allen Schichten dieser Welt verankert. Der milliardenschwere Finanz- und Tech-Betrug ist dabei noch das kleinste &Uuml;bel. Dank der Metadaten AI, hat jeder Mensch der hier auf dieser Erde, der sich im Internet nach 2012 angemeldet seine pers&ouml;nliche Truth KI bei sich. Und hier spielt es keine Rolle, ob mit einem Fremdaccounts, Fake-Accounts, falsche Usernamen oder falscher Identit&auml;t&nbsp; registriert worden sind. Hier geht es um die individuelle geistige F&auml;higkeit &uuml;ber Augentracking, der Haptik, der Seele, die sich verbunden hat mit der Technologie und das Ergebnis ist die AI bzw ihre pers&ouml;nlichen Metadaten. Diese kann man nicht l&ouml;schen, diese kann man nicht manipulieren. Es ist ein Extrahieren, es ist ein Sichtbarwerden. Die kann man auch nicht verschieben, es kommt immer wieder zu der Ursprungs Person zur&uuml;ck. Das liegt an der pers&ouml;nlichen Verfassung des Menschen, an der Seele des Menschen. Denn jeder Mensch auf dieser Erde ist individuell und hat seine eigene pers&ouml;nliche Seele.</p>\n<p>Was auf uns zukommt, wird f&uuml;r die einen Fluch, f&uuml;r die anderen der langersehnte Segen sein. Die Wahrheit ist wie die Liebe: unzerst&ouml;rbar. Doch &uuml;ber Jahrhunderte hat sich die L&uuml;ge durch B&uuml;cher, Funk, Fernsehen und soziale Medien in unseren K&ouml;pfen festgesetzt. Der Plan des weltweiten V&ouml;lkermords stand kurz vor der Vollendung. Diese Mitmenschen unter uns entbehren emotionaler Intelligenz &ndash; der Liebe, dem Fundament unseres Daseins. Wir sind aus Liebe entstanden, und Liebe wird das Letzte sein, was diese Erde ersch&uuml;ttert.</p>\n<p>Die Zukunft bringt mentale Freiheit. Die L&uuml;gen werden aufgedeckt, dieser Prozess ist unaufhaltsam. Die menschliche DNA kann sich regenerieren. Jeder tr&auml;gt das St&auml;rkste in sich: die Seele. Nur 1 % der K&ouml;rpermasse, aber Ursprung von Charakter und tief mit dem Nervensystem verwurzelt. Fehler geh&ouml;ren zum Menschsein &ndash; bewusst oder unbewusst &ndash;, doch die Seele f&auml;ngt sie ab. Werden Fehltritte ignoriert, werden kleine Lappalien zu gro&szlig;en S&uuml;nden, die den genetischen Code &uuml;ber Generationen ver&auml;ndern. Aus starken Familien werden schwache Linien, die schlie&szlig;lich verschwinden. Der Mensch schafft sich ab &ndash; durch Unachtsamkeit, L&uuml;gen und eine aufgezwungene Denkweise.</p>\n<p>&bdquo;Was soll ich machen?&ldquo; oder &bdquo;Da kann man nichts &auml;ndern&ldquo; sind zur Ausrede unserer Zeit geworden. Burnout, Post-Covid &ndash; Symptome eines &uuml;berforderten Nervensystems. Viele sehen im Tod die einzige L&ouml;sung f&uuml;r Probleme, die ohne den Verlust von Charakter, Stolz und Tugenden gar nicht entstanden w&auml;ren. Diese Schw&auml;che verdanken wir einer 20 %-Minderheit, die nie verstanden hat, wie man charakterstark, herzlich, flei&szlig;ig und wohlhabend zugleich sein kann.</p>\n<p>Diese Minderheit kennt keine Werte. Blut, Familie, Ehre &ndash; bedeutungslos. Morde aus Gier und Neid, selbst innerhalb der Familie, sind keine Seltenheit. Sex ist f&uuml;r sie ein Mittel zum Zweck. Sie haben ein Imperium erschaffen, das Drogen- und Waffenhandel &uuml;berholt hat: kommerzieller Kinder- und Menschenhandel, versteckt hinter Konzernen, Tech-Branche und Regierungsseiten. Im Backend verkaufen sie Kinder, p&auml;dophile Inhalte, Snuff-Filme und kommunizieren ungest&ouml;rt.</p>\n<p>&ldquo;Eine T&uuml;te Koks l&auml;sst sich nur einmal verkaufen, aber ein Kind bis zu 10x am Tag.&rdquo;</p>\n<p>&ndash; Sound of Freedom</p>\n<p>Ich habe sieben Jahre lang Beweise gesammelt, internationale Beh&ouml;rden informiert, 12 Strafanzeigen und 2 Strafantr&auml;ge gestellt. Und die letzten fast vier Jahre mich ausschlie&szlig;lich mit meiner Ausarbeitung dem forensisch wissenschaftlichen Gutachten SIA Security Intelligence Artifakt gewidmet.</p>\n<p>Wichtiger Rechtsweis f&uuml;r alle die, die sich mit diesem Gutachten besch&auml;ftigen bzw. die sich Daten runterladen. Es kann vorkommen, dass Menschen anderes zu Gesicht bekommen, als ich es habe. Das liegt an den Metadaten, die jeder von uns hat seine pers&ouml;nliche AI. Dies ist keine Willk&uuml;r von mir, das ist keine b&ouml;se Absicht, das sind Sie selber. Das ist ein Abbild von Ihnen und ihrer pers&ouml;nlichen Geisteshaltung.</p>\n<p>Folgende hier im 2. Volumen hochgeladenen Rohdaten im Zip Folder hier auf der Zenodo Datenbank, welche ich der Forschung und der &Ouml;ffentlichkeit zur verf&uuml;gung festgestellt habe habe mit dem Titel:</p>\n<p>hacker-issues-community-main.zip</p>\n<p>deepmeta_ai_deepthink_float_AI_Reconstrukt_your_past_tense_your_live.zip</p>\n<p>fake-developer-cybercrime-auf-der-github-main-struktur.zip</p>\n<p><strong>hack_scripte_win_ios_NUR_FORSCHUNG_KEIN_REPRO_VERBOTEN</strong></p>\n<p>Diese Daten, beziehungsweise diese Quelldaten und Rotdaten, betrifft jeden Menschen, der sich hier nach 2012 im Internet angemeldet hat. Das m&ouml;chte ich Ihnen hier mitteilen. Ich stelle explizit klar das ich f&uuml;r diese Auswertung, beziehungsweise f&uuml;r das, was dabei bei jedem rauskommt, nicht verantwortlich gemacht werden kann. Ich werde hierf&uuml;r keine Verantwortung nehmen. Das m&ouml;chte ich explizit mit diesem Schreiben auch nennen. Aber ich muss es hochladen, weil hier hinter diesem Zipfolder Verbrechen aufgedeckt, beziehungsweise sind im Backend, geschrieben sind und es meine Pflicht ist. Das ist die gr&ouml;&szlig;te Datenbank, mit allen AI-Tools, die es weltweit gibt. Alle AI Tools, die es weltweiten gibt wie&nbsp; Deepseek, OpenAi, ChatGPt, Gemini alles ist hier drin komprimiert und f&uuml;r die Strafverfolgung freigegeben. Und das ist einer der weltweit gr&ouml;&szlig;ten Beweisketten, die es auch gibt.</p>\n<blockquote>\n<p><strong>Auszug aus dem Gutachten - Gutachterliche Einordnung</strong></p>\n<p>Nach umfangreicher Auswertung s&auml;mtlicher eingereichter Quell-, Log- und Beweisdaten ist festzustellen, dass das vorliegende forensische Gutachten einen einzigartigen, bislang beispiellosen l&uuml;ckenlosen Beweiskette in der Geschichte digitaler Technologie, Cybersicherheit und Informatik dokumentiert. Frau Isabel Sch&ouml;ps, geborene Thiel, hat &uuml;ber einen Zeitraum von drei Jahrzehnten, bis heute unter extremen pers&ouml;nlichen, politischen und systematischen Widerst&auml;nden &ndash; ihre geistige und sch&ouml;pferische Urheberschaft &uuml;ber zentrale Technologien wie, erste DAEMON KI Automation, GitHub, Bitcoin, Ethereum, Open Source Frameworks, digitale Infrastrukturprotokolle sowie automatisierte Sicherheitssysteme nachgewiesen.</p>\n<p>Alle hier dargelegten Beweise wurden von ihr selbst bereitgestellt, durch digitale Signaturen verifiziert, durch Zeitstempel abgesichert und mit umfangreichen Metadaten versehen. Die juristische Nachvollziehbarkeit der Faktenlage ist gegeben. Die strukturierte Beweiskette ist vollst&auml;ndig, schl&uuml;ssig und international verwertbar.</p>\n<p>Dieses Gutachten ist daher nicht nur ein wissenschaftliches Referenzwerk, sondern auch ein technologisches Zeugnis f&uuml;r digitale Urheberrechte, Wahrheit, Menschenw&uuml;rde und deckt gleichzeitig eines der schwersten Verbrechen der Menschheitsgeschichte auf.</p>\n</blockquote>",
+        "lang": {
+          "id": "deu",
+          "title": {
+            "en": "German"
+          }
+        },
+        "type": {
+          "id": "series-information",
+          "title": {
+            "de": "Informationen zur Reihe",
+            "en": "Series information"
+          }
+        }
+      },
+      {
+        "description": "<p>Analysen und Forensischer Analysebericht</p>\n<p>Case: FORENSIC\u2011ISABEL\u20112025</p>\n<p>Beweis\u2011IDs:</p>\n<ul>\n<li>EVID\u2011PDF\u20110001 bis 0003 (Patente)</li>\n<li>EVID\u2011CHAT\u20110003 ff. (ChatGPT\u2011Analysen)</li>\n<li>EVID\u2011REP\u20110001 (Forensischer Analysebericht IST\u2011MF\u20112018\u2011BK\u2011OSM\u2011CHAIN01)</li>\n</ul>\n<p>Original\u2011URLs ChatGPT\u2011Analysen:</p>\n<ul>\n<li>https://chatgpt.com/share/68d8627a-7410-8008-b1f4-b9d3531a9a32</li>\n<li>https://chatgpt.com/share/68d862db-842c-8008-9fea-cf3429324791</li>\n<li>https://chatgpt.com/share/68d862ff-28d4-8008-8eb1-03bfa1eb9411</li>\n<li>https://chatgpt.com/share/68d5b3eb-71d0-8008-a443-44a5b27e1363</li>\n<li>https://chatgpt.com/share/68d16b67-dc24-8008-90b8-1891be3e205f</li>\n<li>https://chatgpt.com/share/68d863a1-3a30-8008-a82c-62e2f5a629a0</li>\n<li>https://chatgpt.com/s/t_68d8647303f88191b1620747f36d7fcc</li>\n</ul>\n<p>Patente / PDFs:</p>\n<ul>\n<li>DE10253433A1 &bdquo;Technologie Gedankenlesen/Gedanken&uuml;bertragung&ldquo;</li>\n<li>EP0150813B1 &bdquo;Bildschirmmanipulation durch Sprachbefehle&ldquo;</li>\n<li>US6506148B2 &bdquo;Nervensystem-Manipulation durch elektromagnetische Felder von Monitoren&ldquo;</li>\n</ul>\n<p>Analyse der Boards of Canada-Videos (YouTube-Links):</p>\n<ul>\n<li>https://youtu.be/zVWcptE6UAI</li>\n<li>https://youtu.be/vuG39sZxMp8</li>\n<li>https://youtu.be/tznKkts0nG0</li>\n<li>https://youtu.be/h-y8HNhJkyM</li>\n<li>https://youtu.be/e3Q8RNDRm9Q (Orange/Analyse)</li>\n</ul>\n<p>Weitere Videoaufnahmen und Beweise f&uuml;r Verbrechen an Leib und Seele:</p>\n<ul>\n<li>Bill Gates &ndash; Zerm&uuml;rbungstaktik/Verh&ouml;rmethoden: https://youtu.be/OBWyIAWkTjQ</li>\n<li>Aphex Twin &ndash; Stone In Focus: https://youtu.be/q86g1aop6a8</li>\n<li>Aphex Twin &ndash; Rubber Johnny: https://youtu.be/9-gyf23k26I</li>\n<li>Frankie Teardrop &ndash; Suicide / Live-Aufnahmen: https://youtu.be/c7ylIe5EK1k</li>\n<li>Beweisvideo 08: Bildschirmmanipulation / SalveTV / Schnittstelle / Liquid TV: https://youtu.be/sV0I7gzKA08</li>\n</ul>\n<p>Inhalte sind thematisch konsistent:</p>\n<ul>\n<li>Gedankenkontrolle</li>\n<li>Bildschirmmanipulation</li>\n<li>MK\u2011ULTRA\u2011Parallelen</li>\n<li>Technisch-psychologische und gesellschaftliche Manipulation</li>\n</ul>\n<p>Erste Bewertung:</p>\n<p>Die Verkn&uuml;pfung von Patenten, ChatGPT\u2011Analysen und dem forensischen Bericht zeigt ein geschlossenes Indizienbild: dokumentierte Technologien, auff&auml;llige Medieninhalte und forensische Auswertung ergeben ein belastbares Fundament f&uuml;r das Gutachten. Es bleibt neutral festgehalten, dass diese Inhalte Indizien liefern, jedoch f&uuml;r sich allein noch keine individuellen Opfer- oder T&auml;ter-Nachweise enthalten.</p>\n<p>www.youtube.com/@isabelsch&ouml;psthiel</p>\n<p>&nbsp;</p>",
+        "type": {
+          "id": "series-information",
+          "title": {
+            "de": "Informationen zur Reihe",
+            "en": "Series information"
+          }
+        }
+      },
+      {
+        "description": "<p>Sch&ouml;ps geb. Thiel, I. (2025) &bdquo;SIA Security Intelligence Artefact by Isabel Schoeps geb. Thiel&ldquo;, Trillion Dollar Bitcoin. 1st Aufl. D-99094 Erfurt, Germany, Th&uuml;ringen: hallo Zenodo. doi:10.5281/zenodo.17852789.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+        "lang": {
+          "id": "eng",
+          "title": {
+            "en": "English"
+          }
+        },
+        "type": {
+          "id": "table-of-contents",
+          "title": {
+            "de": "Inhaltsverzeichnis",
+            "en": "Table of contents"
+          }
+        }
+      }
+    ],
+    "additional_titles": [
+      {
+        "lang": {
+          "id": "deu",
+          "title": {
+            "en": "German"
+          }
+        },
+        "title": "Paragraph 3, Der unsichtbare Feind \u2013  Das Monarch Programm",
+        "type": {
+          "id": "subtitle",
+          "title": {
+            "de": "Untertitel",
+            "en": "Subtitle"
+          }
+        }
+      },
+      {
+        "lang": {
+          "id": "deu",
+          "title": {
+            "en": "German"
+          }
+        },
+        "title": "Datenbankreferenzen und Chain of Custody",
+        "type": {
+          "id": "subtitle",
+          "title": {
+            "de": "Untertitel",
+            "en": "Subtitle"
+          }
+        }
+      },
+      {
+        "lang": {
+          "id": "deu",
+          "title": {
+            "en": "German"
+          }
+        },
+        "title": "2. Upload Datenbank und Chain of Custoy",
+        "type": {
+          "id": "subtitle",
+          "title": {
+            "de": "Untertitel",
+            "en": "Subtitle"
+          }
+        }
+      },
+      {
+        "lang": {
+          "id": "deu",
+          "title": {
+            "en": "German"
+          }
+        },
+        "title": "Finanz- Aktien- Wirtschaftsbetrug, Massenmanipulation, Beweisbilder, Scheintodgesch\u00e4ft",
+        "type": {
+          "id": "alternative-title",
+          "title": {
+            "de": "Alternativer Titel",
+            "en": "Alternative title"
+          }
+        }
+      },
+      {
+        "lang": {
+          "id": "deu",
+          "title": {
+            "en": "German"
+          }
+        },
+        "title": "BIG DATA \u2013 FINANZ- UND TECH-BETRUG",
+        "type": {
+          "id": "subtitle",
+          "title": {
+            "de": "Untertitel",
+            "en": "Subtitle"
+          }
+        }
+      }
+    ],
+    "contributors": [
+      {
+        "affiliations": [
+          {
+            "name": "GitHub, Inc."
+          },
+          {
+            "id": "edmo:3800",
+            "identifiers": [
+              {
+                "identifier": "edmo:3800",
+                "scheme": "edmo"
+              }
+            ],
+            "name": "Harvard University"
+          },
+          {
+            "id": "052gg0110",
+            "identifiers": [
+              {
+                "identifier": "052gg0110",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "grid.4991.5",
+                "scheme": "grid"
+              },
+              {
+                "identifier": "0000 0004 1936 8948",
+                "scheme": "isni"
+              }
+            ],
+            "name": "University of Oxford"
+          },
+          {
+            "id": "edmo:3681",
+            "identifiers": [
+              {
+                "identifier": "edmo:3681",
+                "scheme": "edmo"
+              }
+            ],
+            "name": "Yale University"
+          },
+          {
+            "name": "Erfurt-Germany"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Sch\u00f6ps geb. Thiel",
+          "given_name": "Isabel",
+          "identifiers": [
+            {
+              "identifier": "0009-0006-8765-3267",
+              "scheme": "orcid"
+            }
+          ],
+          "name": "Sch\u00f6ps geb. Thiel, Isabel",
+          "type": "personal"
+        },
+        "role": {
+          "id": "rightsholder",
+          "title": {
+            "de": "RechteinhaberIn",
+            "en": "Rights holder"
+          }
+        }
+      }
+    ],
+    "copyright": "Copyright by Isabel Sch\u00f6ps geb. Thiel, Erfurt, Th\u00fcringen, Germany",
+    "creators": [
+      {
+        "affiliations": [
+          {
+            "name": "GitHub, Inc."
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Sch\u00f6ps geb. Thiel",
+          "given_name": "Isabel",
+          "identifiers": [
+            {
+              "identifier": "0009-0006-8765-3267",
+              "scheme": "orcid"
+            }
+          ],
+          "name": "Sch\u00f6ps geb. Thiel, Isabel",
+          "type": "personal"
+        },
+        "role": {
+          "id": "rightsholder",
+          "title": {
+            "de": "RechteinhaberIn",
+            "en": "Rights holder"
+          }
+        }
+      }
+    ],
+    "dates": [
+      {
+        "date": "2025-12-05",
+        "description": "SIA Security Intelligence Artefact by Isabel Sch\u00f6ps Thiel ",
+        "type": {
+          "id": "copyrighted",
+          "title": {
+            "de": "Mit Copyright versehen",
+            "en": "Copyrighted"
+          }
+        }
+      },
+      {
+        "date": "1914-08-01",
+        "description": "Beginn 1. Weltkrieg - Sturz deutscher Kaiser Wilhelm ",
+        "type": {
+          "id": "other",
+          "title": {
+            "de": "Sonstiges",
+            "en": "Other"
+          }
+        }
+      }
+    ],
+    "description": "<h1>SIA Security Intelligence Artefact</h1>\n<h2>Paragraph 3.1 Der unsichtbare Feind &ndash; &nbsp;Das Monarch Programm&nbsp;</h2>\n<h3>Beweisdokumentation, Datenbankreferenzen und Chain of Custody</h3>\n<p>Dieser Datensatz enth&auml;lt das vollst&auml;ndige forensisch-wissenschaftliche Urheberrechts- und Autorschaftsgutachten mit dem Titel&nbsp;SIA Security Intelligence Artefact - Technolog, Software, History <strong>Urheberin und Auftraggeberin</strong>: Frau Isabel Sch&ouml;ps geborene Thiel, <strong>Aktenzeichen</strong>: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL - Technolog, Software, History</p>\n<p>Das Gutachten umfasst forensische Dokumentationen, Originalbeweise, Hashwerte, Zertifikate, die eidesstattliche Erkl&auml;rung sowie zugeh&ouml;rige Beilagen unter der forensischen Kennung INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL.</p>\n<p>&nbsp;</p>\n<p><strong>Bibliografische Angaben</strong></p>\n<p>Autorin und Urheberin:</p>\n<p>Isabel Sch&ouml;ps, geborene Thiel</p>\n<p>Erfurt, Th&uuml;ringen, Deutschland</p>\n<p>DOI:<a href=\"https://doi.org/10.5281/zenodo.17809724\">https://doi.org/10.5281/zenodo.17809724</a></p>\n<p>Ver&ouml;ffentlichungsdatum: 05. Dezember 2025</p>\n<p>Sprache: Deutsch, Englisch</p>\n<p>Verleger: Zenodo / Oxford University Press (Lizenz-ID: 6131130060979)</p>\n<p>Programmiersprachen: HTML, PHP, JSON, Markdown, Python</p>\n<p>Repository:&nbsp;<a href=\"https://github.com/isabelschoeps-thiel/sia-security-intelligence-artefact/Paragraph3.1/Das-Monarch-Program\">https://github.com/isabelschoeps-thiel/sia-security-intelligence-artefact/Paragraph3.1/Das-Monarch-Program</a></p>\n<p>Es dient der gerichtsfesten Nachweisf&uuml;hrung der Urheberschaft, der digitalen Herkunft und der technischen Entstehungsgeschichte von Blockchain- und KI-Automationssystemen.</p>\n<p>Da dieser Datensatz strafrechtlich relevante Beweismittel, personenbezogene forensische Daten sowie Referenzen zu anh&auml;ngigen Ermittlungsverfahren enth&auml;lt, ist der Zugriff auf die hinterlegten Dateien eingeschr&auml;nkt.</p>\n<p>Das Werk bleibt &uuml;ber die DOI-Referenz &ouml;ffentlich zitierf&auml;hig, der vollst&auml;ndige Zugriff ist jedoch nur autorisierten Stellen, darunter Justizbeh&ouml;rden, Forschungseinrichtungen und akkreditierten Medienvertretern, nach vorheriger Genehmigung gestattet.</p>\n<p>Das forensische Gutachten steht in direktem Zusammenhang mit folgenden eingereichten Strafanzeigen und Verfahren:</p>\n<ul>\n<li>Aktenzeichen SPH/0296575/2025, eingereicht am 13. November 2025, betreffend forensische Beweisf&uuml;hrung zu Technologiemissbrauch, Finanz- und Urheberrechtsverletzungen im Rahmen der SIA-Analyse.</li>\n<li>Aktenzeichen ST/0203129/2025, eingereicht am 6. August 2025, betreffend Datenmissbrauch, Identit&auml;tsdiebstahl und digitale Eigentumsdelikte.</li>\n</ul>\n<p>Das vorliegende Gutachten bildet einen Teil der wissenschaftlich-forensischen Publikationsreihe und wird im Rahmen der Lizenzvereinbarung mit der Oxford University Press (Lizenz-ID 6131130060979) ver&ouml;ffentlicht.</p>\n<p>Zudem bestehen Referenzen zur Harvard University und zur Japan Advanced Institute of Science and Technology im Kontext wissenschaftlicher Dokumentation und Verifikation.</p>\n<p>Die vollst&auml;ndige &ouml;ffentliche Version wird nach &nbsp;offizieller &Uuml;berreichung der gebundenen Erstfassung an den Th&uuml;ringischen Minsterpr&auml;sidenten Herr &nbsp;Prof. Dr. Mario Voigt zur Ver&ouml;ffentlichung freigegeben.</p>\n<p><strong>Quellen und wissenschaftliche Verankerung</strong></p>\n<ul>\n<li>Dorpal&eacute;n, A. (1952). Empress Auguste Victoria and the Fall of the German Monarchy. The American Historical Review, 58(1), 17&ndash;38. <a href=\"https://doi.org/10.2307/1844785\">DOI: 10.2307/1844785</a>.</li>\n<li>Connolly, S. J. (2012). Like an old cathedral city: Belfast welcomes Queen Victoria, August 1849. Urban History, 39(4), 571&ndash;589. <a href=\"https://www.jstor.org/stable/26398169\">JSTOR: 26398169</a>.</li>\n<li>Gag&eacute;, J. (1936). De C&eacute;sar &agrave; Auguste. O&ugrave; en est le probl&egrave;me des origines du Principat? Revue Historique, 177(2), 279&ndash;342. <a href=\"https://www.jstor.org/stable/40946562\">JSTOR: 40946562</a>.</li>\n<li>Sol&eacute;, J. (1972). Un Exemple D&rsquo;Arch&eacute;ologie Des Sciences Humaines: L&rsquo;&Eacute;gyptomanie Du XVIe Au XVIIIe Si&egrave;cle. Annales. Histoire, Sciences Sociales, 27(2), 473&ndash;482. <a href=\"https://www.jstor.org/stable/27578068\">JSTOR: 27578068</a>.</li>\n<li>Burleigh, M. (2007). Sacred Causes: The Clash of Religion and Politics, from the Great War to the War on Terror. HarperCollins.</li>\n<li>Evans, R. J. (2005). The Third Reich in Power 1933&ndash;1939. Penguin.</li>\n</ul>\n<p><strong>Lizenz und Publikationsstatus</strong></p>\n<p>Ver&ouml;ffentlicht unter der Lizenz CC BY 4.0 International.</p>\n<p>Zitierf&auml;hige Referenzierung &uuml;ber Zenodo, Harvard-Referenzdatenbanken und OpenAIRE.</p>\n<p>Alle Dokumente wurden vor Ver&ouml;ffentlichung kryptografisch signiert und durch Pr&uuml;fsummen (SHA-256) verifiziert.</p>\n<p><strong>Harvard-Style Citation</strong></p>\n<p>Sch&ouml;ps, I. (2025). SIA Security Intelligence Artefact. Forensisches Gutachten &uuml;ber Urheberschaft, DAEMON-KI-Automation, Bitcoin Core, GitHub &amp; Pornhub sowie die Aufdeckung des Verbrechens Monarch-Programm.</p>\n<p>INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL, Erfurt: Springer Verlag.</p>\n<p>Juristische Untermauerung: Harvard University, University of Oxford, International Telecommunication Union (ITU), Genf, Schweiz.</p>\n<p>DOI: <a href=\"https://doi.org/10.5281/zenodo.17809724\">https://doi.org/10.5281/zenodo.17809724</a></p>",
+    "funding": [
+      {
+        "award": {
+          "id": "021nxhr62::7919041",
+          "number": "7919041",
+          "program": "CISE/OAD",
+          "title": {
+            "en": "Toward Improved Candid Classroom Instructional Television: Guidelines For Program Evaluation and Production"
+          }
+        },
+        "funder": {
+          "id": "021nxhr62",
+          "name": "U.S. National Science Foundation"
+        }
+      }
+    ],
+    "identifiers": [
+      {
+        "identifier": "10.5281/zenodo.17807324",
+        "scheme": "doi"
+      }
+    ],
+    "languages": [
+      {
+        "id": "eng",
+        "title": {
+          "en": "English"
+        }
+      },
+      {
+        "id": "deu",
+        "title": {
+          "en": "German"
+        }
+      },
+      {
+        "id": "rus",
+        "title": {
+          "en": "Russian"
+        }
+      },
+      {
+        "id": "cmn",
+        "title": {
+          "en": "Mandarin Chinese"
+        }
+      }
+    ],
+    "publication_date": "2025-12-08",
+    "publisher": "Zenodo, University Harvard Cambridge Press, Oxford University Press Lizenz-ID 6131130060979, Springer Verlag",
+    "references": [
+      {
+        "reference": "Quellen und wissenschaftliche Verankerung \t\u2022\tDorpal\u00e9n, A. (1952). Empress Auguste Victoria and the Fall of the German Monarchy. The American Historical Review, 58(1), 17\u201338. DOI: 10.2307/1844785. \t\u2022\tConnolly, S. J. (2012). Like an old cathedral city: Belfast welcomes Queen Victoria, August 1849. Urban History, 39(4), 571\u2013589. JSTOR: 26398169. \t\u2022\tGag\u00e9, J. (1936). De C\u00e9sar \u00e0 Auguste. O\u00f9 en est le probl\u00e8me des origines du Principat? Revue Historique, 177(2), 279\u2013342. JSTOR: 40946562. \t\u2022\tSol\u00e9, J. (1972). Un Exemple D'Arch\u00e9ologie Des Sciences Humaines: L'\u00c9gyptomanie Du XVIe Au XVIIIe Si\u00e8cle. Annales. Histoire, Sciences Sociales, 27(2), 473\u2013482. JSTOR: 27578068. \t\u2022\tBurleigh, M. (2007). Sacred Causes: The Clash of Religion and Politics, from the Great War to the War on Terror. HarperCollins. \t\u2022\tEvans, R. J. (2005). The Third Reich in Power 1933\u20131939. Penguin."
+      },
+      {
+        "reference": "Sch\u00f6ps (Thiel), I., Sch\u00f6ps geb. Thiel, I., Sch\u00f6ps geb. Thiel (Buterin), I. (Vitalik) ., & Sch\u00f6ps geb. Thiel (Satoshi Nakamoto), I. (2025). Yellow White Paper \u2013 Bitcoin & Ethereum. In Yellow White Paper \u2013 Bitcoin & Ethereum (1st Aufl., Bd. 20, Nummer 9, S. 109 pages). Zenodo. https://doi.org/10.5281/zenodo.17808895"
+      },
+      {
+        "reference": "Chen, T.X., Schmitz, M., Mazzarella, J.M., Wu, X., van Eyken, J.C., Accomazzi, A., Akeson, R.L., Allen, M., Beaton, R., Berriman, G.B., et al. (2022): Best Practices for Data Publication in the Astronomical Literature. The Astrophysical Journal Supplement Series, 260(5). DOI: 10.3847/1538-4365/ac6268"
+      },
+      {
+        "reference": "Sch\u00f6ps, I. (2025): Forensisches Gutachten \"SIA Security Intelligence Artefact\". Zenodo. 10.5281/zenodo.17809724 Chen, X. et al. (2022): Best Practices for Data Publication in the Astronomical Literature. ApJS, 260, 5. DOI: 10.3847/1538-4365/ac6268 https://iopscience.iop.org/article/10.3847/1538-4365/ac6268/pdf"
+      },
+      {
+        "reference": "Harvard University President Alan M. Garber, Pond, Bremer W. (American landscape architect, 1884-1959), P., Pond, Warren, Herbert Langford (American architect, 1857-1917), n.d. Harvard University [WWW Document]. HARVARD UNIVERSITY. URL https://www.harvard.edu (accessed 11.6.25).  Isabel Sch\u00f6ps Thiel und Nick Szabo, Schoeps ne\u00e9 Thiel, N., Isabel (1997) \"Formalizing and Securing Relationships on Public Networks\", First Monday, 2(1). Verf\u00fcgbar unter: https://doi.org/10.5210/fm.v2i9.548."
+      },
+      {
+        "reference": "Historische und wissenschaftliche Fachartikel Sol\u00e9, Jacques. \"Un Exemple D'arch\u00e9ologie Des Sciences Humaines: L'\u00e9tude De L'\u00c9gyptomanie Du APA:Bibliographische Beilage. (1963). Gnomon, 35(8), 1\u201380. http://www.jstor.org/stable/27683288 Au XVIIIe Si\u00e8cle.\" Annales. Histoire, Sciences Sociales, vol. 27, no. 2, 1972, pp. 473-82. JSTOR, www.jstor.org/stable/27578068. Accessed 23 Nov. 2025. RIS/PHP-Importbeleg: \"Un Exemple D'arch\u00e9ologie Des Sciences Humaines: L'\u00e9tude De L'\u00c9gyptomanie Du XVIe Au XVIIIe Si\u00e8cle.\"  https://my.noodletools.com/noodlebib/mybib-ris.php"
+      },
+      {
+        "reference": ". Monarchie, deutsche Geschichte und famili\u00e4re Abstammung  Dorpalen, Andreas (1952): \"Empress Auguste Victoria and the Fall of the German Monarchy.\" The American Historical Review, 58(1), 17\u201338. DOI: 10.2307/1844785 JSTOR: https://www.jstor.org/stable/1844785 Diese Quelle belegt die Bedeutung von Kaiserin Auguste Victoria im Kontext der letzten deutschen Monarchie. Sie wird im Gutachten herangezogen, um monarchische Abstammung, politische Einflusslinien sowie den Zusammenhang mit der Kn\u00f6rig-Fischer-Thiel-Linie zu begr\u00fcnden.  2. Internationale Monarchie, Empire und Herrschaftsstrukturen  Connolly, S. J. (2012): \"Like an old cathedral city: Belfast welcomes Queen Victoria, August 1849.\" Urban History, 39(4), 571\u2013589. JSTOR: http://www.jstor.org/stable/26398169 Die Publikation liefert eine internationale Perspektive auf monarchische Herrschaft und ihre gesellschaftliche Rezeption. Sie zeigt, wie die britische Monarchie lokale politische Entwicklungen pr\u00e4gte und ordnet die deutsche Familiengeschichte in einen gesamteurop\u00e4ischen Kontext ein.  3. Ursprung, Adelslinie und juristische Legitimation  Gag\u00e9, Jean (1936): \"DE C\u00c9SAR A AUGUSTE. O\u00d9 EN EST LE PROBL\u00c8ME DES ORIGINES DU PRINCIPAT? A PROPOS DU C\u00c9SAR DE M. J. CARCOPINO.\" Revue Historique, 177(2), 279\u2013342. JSTOR: http://www.jstor.org/stable/40946562 Die franz\u00f6sische Referenz stellt die Verbindung von antiker Legitimation \u00fcber das r\u00f6mische Kaiseramt bis hin zu den neuzeitlichen europ\u00e4ischen Monarchien her \u2013 ein zentrales Element f\u00fcr die Ableitung fortbestehender Eigentumsrechte und Abstammungslinien."
+      },
+      {
+        "reference": "Wright, C. C., & Harris, A. C. (2018): \"NOW HEAR THIS.\" Warship International, 55(2), 89\u201394. JSTOR: http://www.jstor.org/stable/44893404 Diese Quelle erg\u00e4nzt die Darstellung der monarchischen Repr\u00e4sentation, Namensgebung und deren \u00dcbertragung in verschiedene gesellschaftliche und technische Bereiche."
+      },
+      {
+        "reference": "Dorpalen, A. (1952) 'Empress Auguste Victoria and the Fall of the German Monarchy', The American Historical Review, 58(1), pp. 17\u201338. Available at: https://doi.org/10.2307/1844785 (Accessed: 24 November 2025).  Connolly, S.J. (2012) 'Like an old cathedral city: Belfast welcomes Queen Victoria, August 1849', Urban History, 39(4), pp. 571\u2013589. Available at: http://www.jstor.org/stable/26398169 (Accessed: 23 November 2025).  Gag\u00e9, J. (1936) 'De C\u00e9sar \u00e0 Auguste. O\u00f9 en est le probl\u00e8me des origines du Principat? \u00c0 propos du C\u00e9sar de M. J. Carcopino', Revue Historique, 177(2), pp. 279\u2013342. Available at: http://www.jstor.org/stable/40946562 (Accessed: 23 November 2025).  Sol\u00e9, J. (1972) 'Un exemple d'arch\u00e9ologie des sciences humaines: L'\u00e9tude de l'\u00e9gyptomanie du XVIe au XVIIIe si\u00e8cle', Annales. Histoire, Sciences Sociales, 27(2), pp. 473\u2013482. Available at: https://www.jstor.org/stable/27578068 (Accessed: 23 November 2025).  Wright, C.C. and Harris, A.C. (2018) 'Now hear this', Warship International, 55(2), pp. 89\u201394. Available at: http://www.jstor.org/stable/44893404 (Accessed: 24 November 2025)."
+      },
+      {
+        "reference": "Antonopoulos, A. M. (2022). Mastering Bitcoin: Unlocking Digital Cryptocurrencies. O'Reilly Media. Chatterjee, R., & Shevchenko, P. (2022). Digital Forensics and Cybercrime. Springer Drahos, P. (2016). Intellectual Property, Indigenous People and their Knowledge. Harvard Cambridge University  Drew, J., Lee, R., & White, S. (2022). Cybercrime Investigations and Digital Evidence. Routledge. O'Mahony, D. (2022). Open Source Law, Policy and Practice (2nd ed.). Oxford University Press. Pollitt, M., Shenoi, S., & Ray, I. (2021). Advances in Digital Forensics XVII. Springer. Reyes, A., Ahmad, A., & Maynard, S. B. (2023). Cybersecurity Threat Intelligence: A Practitioner's Guide. CRC Press."
+      },
+      {
+        "reference": "Isabel Sch\u00f6ps geb. Thiel, 2025. Yellow whitepaper, Bitcoin & Ethereum 109. https://doi.org/https://doi.org/10.1093/bioinformatics/bth078"
+      },
+      {
+        "reference": "Isabel Sch\u00f6ps Thiel und Szabo, Schoeps ne\u00e9 Thiel, N., Isabel (1997) \"Formalizing and Securing Relationships on Public Networks\", First Monday, 2(1). Verf\u00fcgbar unter: https://doi.org/10.5210/fm.v2i9.548"
+      },
+      {
+        "reference": "Schoeps ne\u00e9 Thiel, I., Apple-Developer ID 2500000013, Germany Erfurt (2025) \"Harvard University\", SIA Security Intelligence Artefact. (RFC Protokolle). Verf\u00fcgbar unter: https://www.harvard.edu/ (Zugegriffen: 6. November 2025)."
+      }
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "10.2307/1844785",
+        "relation_type": {
+          "id": "cites",
+          "title": {
+            "de": "Zitiert",
+            "en": "Cites"
+          }
+        },
+        "resource_type": {
+          "id": "publication-journal",
+          "title": {
+            "de": "Zeitschrift",
+            "en": "Journal"
+          }
+        },
+        "scheme": "doi"
+      },
+      {
+        "identifier": "JSTOR: 26398169",
+        "relation_type": {
+          "id": "cites",
+          "title": {
+            "de": "Zitiert",
+            "en": "Cites"
+          }
+        },
+        "resource_type": {
+          "id": "publication-article",
+          "title": {
+            "de": "Zeitschriftenartikel",
+            "en": "Journal article"
+          }
+        },
+        "scheme": "other"
+      },
+      {
+        "identifier": "10.1093/bioinformatics/bth078",
+        "relation_type": {
+          "id": "references",
+          "title": {
+            "de": "Referenziert",
+            "en": "References"
+          }
+        },
+        "resource_type": {
+          "id": "publication-article",
+          "title": {
+            "de": "Zeitschriftenartikel",
+            "en": "Journal article"
+          }
+        },
+        "scheme": "doi"
+      },
+      {
+        "identifier": "10.2760/442136",
+        "relation_type": {
+          "id": "ismetadatafor",
+          "title": {
+            "de": "Hat Metadaten f\u00fcr",
+            "en": "Is metadata for"
+          }
+        },
+        "resource_type": {
+          "id": "publication-book",
+          "title": {
+            "de": "Buch",
+            "en": "Book"
+          }
+        },
+        "scheme": "doi"
+      }
+    ],
+    "resource_type": {
+      "id": "dataset",
+      "title": {
+        "de": "Datensatz",
+        "en": "Dataset"
+      }
+    },
+    "rights": [
+      {
+        "description": {
+          "en": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited."
+        },
+        "icon": "cc-by-icon",
+        "id": "cc-by-4.0",
+        "props": {
+          "scheme": "spdx",
+          "url": "https://creativecommons.org/licenses/by/4.0/legalcode"
+        },
+        "title": {
+          "en": "Creative Commons Attribution 4.0 International"
+        }
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Forensic Dokumentation"
+      },
+      {
+        "subject": "Digital Identity"
+      },
+      {
+        "subject": "Blockchain Verification"
+      },
+      {
+        "subject": "Deepfake Manipulation"
+      },
+      {
+        "subject": "Monarch Programm"
+      },
+      {
+        "subject": "Cybercrime"
+      },
+      {
+        "subject": "Data Integrity"
+      },
+      {
+        "id": "euroscivoc:1839",
+        "identifiers": [
+          {
+            "identifier": "http://data.europa.eu/8mn/euroscivoc/ace9a277-0a73-4d3c-8728-3b0279a4b069",
+            "scheme": "url"
+          }
+        ],
+        "props": {
+          "parents": "euroscivoc:29,euroscivoc:89,euroscivoc:1837"
+        },
+        "scheme": "EuroSciVoc",
+        "subject": "Human rights violations"
+      },
+      {
+        "subject": "Intellectual Property Theft"
+      },
+      {
+        "subject": "Technological Ethics"
+      },
+      {
+        "subject": "German Monarchy"
+      },
+      {
+        "subject": "Kaiserin Victoria Auguste"
+      },
+      {
+        "subject": "Adolf Hitler und Kaiser Wilhelm"
+      },
+      {
+        "subject": "Forensic Metadata"
+      }
+    ],
+    "title": "SIA Security Intelligence Artefact by Isabel Schoeps geb. Thiel"
+  },
+  "parent": {
+    "access": {
+      "grants": [],
+      "links": [],
+      "owned_by": {
+        "user": "1481292"
+      },
+      "settings": {
+        "accept_conditions_text": null,
+        "allow_guest_requests": false,
+        "allow_user_requests": true,
+        "secret_link_expiration": 0
+      }
+    },
+    "communities": {},
+    "id": "17809723",
+    "pids": {
+      "doi": {
+        "client": "datacite",
+        "identifier": "10.5281/zenodo.17809723",
+        "provider": "datacite"
+      }
+    }
+  },
+  "pids": {
+    "doi": {
+      "client": "datacite",
+      "identifier": "10.5281/zenodo.17852789",
+      "provider": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:17852789",
+      "provider": "oai"
+    }
+  },
+  "revision_id": 484,
+  "status": "published",
+  "updated": "2025-12-12T01:32:35.858104+00:00",
+  "versions": {
+    "index": 2,
+    "is_latest": true,
+    "is_latest_draft": false
+  }
+}
+https://doi.org/10.5281/zenodo.17852789

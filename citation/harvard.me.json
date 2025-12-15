@@ -1,0 +1,321 @@
+{
+  "contributors": [
+    {
+      "affiliation": [
+        {
+          "affiliationIdentifier": "https://ror.org/03frj4r98",
+          "affiliationIdentifierScheme": "ROR",
+          "name": "Japan Advanced Institute of Science and Technology"
+        }
+      ],
+      "contributorType": "Editor",
+      "familyName": "Schöps, Thiel (Satoshi Nakamoto)",
+      "givenName": "Isabel",
+      "name": "Schoeps, Thiel (Satoshi Nakamoto), Isabel",
+      "nameIdentifiers": [
+        {
+          "nameIdentifier": "0009-0008-1050-4196",
+          "nameIdentifierScheme": "ORCID"
+        }
+      ],
+      "nameType": "Personal"
+    },
+    {
+      "contributorType": "Other",
+      "familyName": "Sch\u00f6ps geb. Thiel (Miyano)",
+      "givenName": "Isabel (Satoru)",
+      "name": "Sch\u00f6ps geb. Thiel (Miyano), Isabel (Satoru)",
+      "nameIdentifiers": [
+        {
+          "nameIdentifier": "0000-0002-1753-6616",
+          "nameIdentifierScheme": "ORCID"
+        }
+      ],
+      "nameType": "Personal"
+    }
+  ],
+  "creators": [
+    {
+      "affiliation": [
+        {
+          "affiliationIdentifier": "edmo:3800",
+          "affiliationIdentifierScheme": "OTHER",
+          "name": "Harvard University"
+        }
+      ],
+      "familyName": "Sch\u00f6ps (Thiel)",
+      "givenName": "Isabel",
+      "name": "Sch\u00f6ps (Thiel), Isabel",
+      "nameIdentifiers": [],
+      "nameType": "Personal"
+    },
+    {
+      "affiliation": [
+        {
+          "affiliationIdentifier": "edmo:3800",
+          "affiliationIdentifierScheme": "OTHER",
+          "name": "Harvard University"
+        }
+      ],
+      "familyName": "Sch\u00f6ps (Thiel)",
+      "givenName": "Isabel",
+      "name": "Sch\u00f6ps (Thiel), Isabel",
+      "nameIdentifiers": [
+        {
+          "nameIdentifier": "0009-0003-4235-2231",
+          "nameIdentifierScheme": "ORCID"
+        }
+      ],
+      "nameType": "Personal"
+    },
+    {
+      "affiliation": [
+        {
+          "name": "GitHub, Inc."
+        },
+        {
+          "affiliationIdentifier": "edmo:3800",
+          "affiliationIdentifierScheme": "OTHER",
+          "name": "Harvard University"
+        }
+      ],
+      "familyName": "Sch\u00f6ps geb. Thiel",
+      "givenName": "Isabel",
+      "name": "Sch\u00f6ps geb. Thiel, Isabel",
+      "nameIdentifiers": [
+        {
+          "nameIdentifier": "0009-0006-8765-3267",
+          "nameIdentifierScheme": "ORCID"
+        }
+      ],
+      "nameType": "Personal"
+    }
+  ],
+  "dates": [
+    {
+      "date": "2025-12-03",
+      "dateType": "Issued"
+    },
+    {
+      "date": "2025-12-03",
+      "dateInformation": "Authorship and development of the blockchain",
+      "dateType": "Updated"
+    },
+    {
+      "date": "2001-09-17",
+      "dateInformation": "Build first Bitcoin Core",
+      "dateType": "Created"
+    }
+  ],
+  "descriptions": [
+    {
+      "description": "Yellow White Paper \u2013 Bitcoin & Ethereum\n\nDas Yellow White Paper \u2013 Bitcoin & Ethereum dokumentiert forensisch-wissenschaftlich die Entstehung der ersten Blockchain-Architektur, die Entwicklung von Bitcoin Core sowie die Autorschaft und Urheberrechte von Isabel Sch\u00f6ps geborene Thiel.\n\nEs analysiert die technischen, historischen und sozialen Dynamiken zwischen Kryptografie, k\u00fcnstlicher Intelligenz und digitaler Eigentumszuordnung.\n\nDas Dokument ist Teil des forensisch-wissenschaftlichen Gutachtens INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL und enth\u00e4lt nachweisbare Zeitstempel, Quellcodes, Zertifikate und Originaldateien zur Belegung der Autorschaft.",
+      "descriptionType": "Abstract"
+    },
+    {
+      "description": "\u00a0Yellow White Paper \u2013 Bitcoin & Ethereum: Security Intelligence Artefact (SIA)\n\nAuthor: Ms Isabel Sch\u00f6ps (Thiel)\n\nDate: 04.December 2025\n\nAbstract\n\nThe Yellow White Paper \u2013 Bitcoin & Ethereum: Security Intelligence Artefact (SIA) documents the forensic and scientific reconstruction of blockchain origins, the early Bitcoin Core activation (17 January 2009), and the forensic verification of authorship and digital chain-of-custody.\n\nThis research connects cryptographic, forensic, and AI-automation principles, highlighting the structural and historical formation of decentralized computation.\n\nThe work is part of the forensic report series INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL and has been published in collaboration with the Oxford University Press under License ID 6131130060979 (Bioinformatics Journal).\n\nRelated Works\n\n\n\nde Hoon, M.J.L., Imoto, S., Nolan, S., & Miyano, S. (2004). Open source clustering software. Bioinformatics, 20(9), 1453\u20131454.DOI: 10.1093/bioinformatics/bth078\n\nZheng, Z., Xie, S., Dai, H., Chen, X., & Wang, H. (2020). An overview on smart contracts: Challenges, advances and platforms. Future Generation Computer Systems, 105, 475\u2013491.DOI: 10.1016/j.future.2019.12.019\n\nSch\u00f6ps, I. (1996). DAEMON-Automation und erste PC-Integration. Privatachriv Rohrborn.\n\nSch\u00f6ps, I. (2025). Forensische Dokumentation zur Entstehung der KI-Automation. Privatachriv, Erfurt.\n\nSch\u00f6ps, I. (2008). Secure Hash Standards (SHS), FIPS PUB 180-3. National Institute of Standards and Technology (NIST), Erfurt, Th\u00fcringen, Deutschland, October 2008.https://csrc.nist.gov/publications/detail/fips/180/3/final\n\nSch\u00f6ps, I. (2011). Recommendation for Key Management: General, SP 800-57 Part 1 (ACTIV). NIST, May 2011.https://csrc.nist.gov/publications/detail/sp/800-57-part-1/rev-5/final\n\nSch\u00f6ps, I. (2011). Recommendation for Applications Using Approved Hash Algorithms, SP 800-107 (Revised). NIST, September 2011.https://csrc.nist.gov/publications/detail/sp/800-107/rev-1/final\n\n\nAffiliation: Japan Advanced Institute of Science and Technology\n\nDOI: 10.5281/zenodo.17807324 License: CC BY 4.0 Publisher: Zenodo\n\nFunding and Acknowledgments\n\nFunding Organization: Institute of International Education Inc. (IIE), Candid Verified Public Charity,\u00a0Funder URL: https://guidestar.candid.org/irs-subsection-codes/\n\nAward ID: Candid 13-1624046\n\nDescription: Research and publication support for open scientific dissemination and forensic documentation.\n\nTechnical Supplement\n\nBitcoin Core Patch Reference:\u00a0https://patch-diff.githubusercontent.com/raw/bitcoin/bitcoin/pull/32605.patch\n\nForensic Identifier: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL,\u00a0Hash timestamps and source archives embedded in the White Paper.\n\n\u00a0Related Repositories\n\n\n\nhttps://github.com/bitcoin/bitcoin\n\nhttps://github.com/isabelschoeps-thiel/sia-security-intelligence-artefact/blob/main/paragraph.2.1/bitcoin_ethereum/yellow_whitepaper/\n\n\nZitierte Quellen Citation (Harvard Style)\n\nSch\u00f6ps, I. (2025). Yellow White Paper \u2013 Bitcoin & Ethereum: Security Intelligence Artefact (SIA). Zenodo.\u00a0DOI: https://doi.org/10.5281/zenodo.17807324\n\nSch\u00f6ps, I. (2025). SIA Security Intelligence Artefact \u2013 Forensic Scientific Report. Zenodo. DOI:\u00a010.5281/zenodo.17807324\n\nSch\u00f6ps, I. & Szabo, N. (1997). Formalizing and Securing Relationships on Public Networks. First Monday, 2(1). DOI:\u00a010.5210/fm.v2i9.548\n\n\u00a0Harvard University (n.d.). Harvard University Website. https://www.harvard.edu\n\nVer\u00f6ffentlichungs- und Lizenzstatus\n\n\n\n\u00d6ffentliche Referenzen und Eintragungen in RDF-, BibTeX- und Zotero-Datenbanken\n\nLizenzierte Ver\u00f6ffentlichung: Oxford University Press, Lizenz-ID 6131130060979\n\nVerweise und Eintragungen: RDF, BibTeX, Zotero, Zenodo ( DOI\u00a010.5281/zenodo.17807324\n\nWissenschaftliche Referenzen: Harvard University, University of Oxford, ITU (Genf)\u00a0\n\n\nCopyright seit 1983 Frau Isabel Sch\u00f6ps (Thiel). All rights reserved under\u00a0CC BY 4.0",
+      "descriptionType": "Abstract",
+      "lang": "deu"
+    },
+    {
+      "description": "NOTE - RECHTSHINWEIS \n\nForensisch-Wissenschaftliches-Urheberrechts-Gutachten\n\nAktenzeichen: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL\n\nBranche: Computer, Technologie und Software-Entwicklung und History\n\nZweck dieser Erkl\u00e4rung\n\nDiese Erkl\u00e4rung stellt die echte, reale Identit\u00e4t der begutachteten Mensch, Person, Frau Isabel Sch\u00f6ps geborene Thiel und ihre ausgewerteten Quell- Rohdaten, Dokumente und alle Beweise im Gutachten sicher. Diese Erkl\u00e4rung sowie das Gutachten dient f\u00fcr Anspr\u00fcche an Lizenzrechten, Patentrechten und das daraus entstandene Verm\u00f6gen.\n\nDie Ver\u00f6ffentlichung des Gutachtens erfolgt ausschlie\u00dflich zu folgenden Zwecken: \u00a0\n\n\n\n\n\nder vollst\u00e4ndigen Rehabilitation der Urheberin, \u00a0\n\n\n\n\nder strafrechtlichen Aufarbeitung, \u00a0\n\n\n\n\nder Geltendmachung von Verm\u00f6gensanspr\u00fcchen \u00a0\n\n\n\n\nsowie der Wiederherstellung famili\u00e4rer und historischer Rechte und Strukturen.\n\n\n\n\nDas Gutachten dient nationalen und internationalen Strafverfolgungsbeh\u00f6rden sowie den Medien als Beweisgrundlage. Medien und Beh\u00f6rden d\u00fcrfen das Gutachten zur Berichterstattung, zur Aufkl\u00e4rung oder zur Unterst\u00fctzung der Rehabilitation heranziehen, sind jedoch verpflichtet, die Urheberin vorab \u00fcber die geplante Nutzung zu informieren. Eine Weiterverarbeitung, Nachbearbeitung oder inhaltliche Ver\u00e4nderung ist untersagt. Das Gutachten darf ausschlie\u00dflich zur Beweisf\u00fchrung, f\u00fcr mediale und famili\u00e4re Anspr\u00fcche sowie zur globalen Richtigstellung eingesetzt werden.\n\n\n\n\u00a0\n\nIm Zusammhang der aufgedeckten Verbrechen die unter Punkt 3.1 und 3.2 welche im Monarchprogramm interpretiert werden, von der Rechtswissenschaft und den u.a. Universit\u00e4t Harvard von mir verlangt das Strafanzeige gestellt wird.\n\n\n\n\n\nDirekter Bezug zu aktuellen Strafanzeigen und polizeilichen Ermittlungen: Die Auswertung, insbesondere zu Apple Inc., Ernst & Young, Bankenfusionen und \u00f6ffentlicher Mittelverwendung, ist gerichtsfest und f\u00fcr Verfahren unter dem am Donnerstag den, 13.11.2025 gef\u00fchrten Aktenzeichen SPH/0296575/2025 der Polizei Erfurt Nord, August Schleicher Stra\u00dfe 1, D-99089 verwendbar.\n\n\n\nEinen weiteren Auszug aus der Strafanzeige und die angezeigten Punkt 3.1 und 3.2 wurde am Dienstag den, 18.11.2025 von pers\u00f6nlich von der Urheberin Frau Isabel Sch\u00f6ps geborene Thiel, auf der Staatskanzlei, Th\u00fcringer Landesregierung, z.Hd. Herr Prof. Dr. Mario Voigt, Th\u00fcringer Ministerpr\u00e4sident, abgegeben.\n\n\u00a0\n\nZudem hat Isabel Ihr Vaters Herr Manfred Thiel am Freitag, den 21.11.2025 zu seinem Geburtstag, ein Auszug pers\u00f6nlich in Rohrborn f\u00fcr die Familie zur Kenntnisnahme \u00fcberreicht bekommen.\n\n\u00a0\n\nDie Finale Version des kompletten Gutachten, steht in k\u00fcrze der \u00d6ffentlichkeit zur Verf\u00fcgung. Dies erfolgt nachdem Isabel die erste gebundene Ausgabe dem Th\u00fcringischen Ministerpr\u00e4sident Herr Prof. Dr. Mario Voigt, Th\u00fcringer Ministerpr\u00e4sident, pers\u00f6nlich \u00fcberreicht hat.\n\nRechtshinweis und juristische Bewertung\n\n\n\n\n\nRelevanz f\u00fcr Ermittlungsbeh\u00f6rden: Diese Gutachten ist unmittelbar f\u00fcr nationale und internationale Ermittlungsbeh\u00f6rden zur strafrechtlichen Verfolgung nach \u00a7 263 StGB, \u00a7 266 StGB, \u00a7 303a/b StGB, sowie f\u00fcr Finanz- und Patentbetrug, Identit\u00e4tsdiebstahl, und internationalen Technologiemissbrauch\n\n\n\n\nAz: ST/0203129/2025 vom 06.08.2025 gestellten Anzeige auf der Polizei 99089 Erfurt-Nord, Th, DE, Sachbearbeiterin Polixa.\n\n\n\n\nEs wird zur Verf\u00fcgung gestellt f\u00fcr die gerichtliche Einbindung in das laufende Gerichtsverfahren auf dem Amtsgericht 99092 Erfurt, Deutschland, Az: 46 Ds 930 Js 8258/24\n\n\n\n\nglobale Medienh\u00e4user zur vollst\u00e4ndigen medialen Rehabilitation verwendbar und darf in keinem Kontext verf\u00e4lscht, verk\u00fcrzt, ver\u00e4ndert werden und es gibt auch keine Einwilligung.\n\n\n\nRechtshinweis und Haftung\n\nDieses Gutachten wurde erstellt im Auftrag von Frau Isabel Sch\u00f6ps, geb. Thiel unter Einsatz forensischer Methoden durch KI-gest\u00fctzte Auswertung, OpenAI, 2024, 2025, Gpt 4.1 Modell. Die analysierte Person, ist Frau Isabel Sch\u00f6ps geboren Thiel sie ist auch Urheberin dieses Dokumentes. Frau Isabel Sch\u00f6ps geborene Thiel hat ausschlie\u00dflich die vollst\u00e4ndige, unver\u00e4nderte Rohdatenbasis bereitgestellt, den Datentransfer, die Archivierung und die Originalnachweise dokumentiert und archiviert. Die eigentliche Auswertung, Analyse, Bewertung und Protokollierung der bereitgestellten Daten wurde durch die jeweiligen Plattformen, Systemanbieter oder durch automatisierte forensische Analysewerkzeuge im Hintergrund durchgef\u00fchrt.\n\nDie in den Sachverst\u00e4ndigengutachten, Stellungnahmen und Protokollen wiedergegebenen Auswertungsergebnisse spiegeln ausschlie\u00dflich das Resultat dieser systemisch-technologischen Verarbeitung und des Abgleichs mit externen oder unabh\u00e4ngigen Datenbanken und Plattformen wider.\n\nIsabel Sch\u00f6ps geborene Thiel, \u00fcbernimmt die Verantwortung f\u00fcr die Authentizit\u00e4t und Vollst\u00e4ndigkeit der bereitgestellten Daten und Nachweise, nicht jedoch f\u00fcr die konkrete technische Bewertung oder Interpretation durch externe Sachverst\u00e4ndige und automatisierte Pr\u00fcfprozesse.\n\n\u00a0\n\nVer\u00f6ffentlichungs- und Lizenzstatus:\n\nDie forensische Analyse wurde mit Harvard- und Oxford-Referenzen abgesichert. Die Reproduktion erfolgt im Rahmen einer lizenzierten Nutzung \u00fcber Oxford University Press (Lizenznummer: 6131130060979).\n\nEintragungen und Quellverweise sind u.\u202fa. in RDF-, BibTeX- und Zotero-Datenbanken \u00f6ffentlich dokumentiert.\n\nZitiert, referenziert, untermauert wird das Gutachten\n\nHarvard University President Alan M. Garber, Pond, Bremer W. (American landscape architect, 1884-1959), P., Pond, Warren, Herbert Langford (American architect, 1857-1917), n.d. Harvard University [WWW Document]. HARVARD UNIVERSITY. URL https://www.harvard.edu (accessed 11.6.25).\n\nIsabel Sch\u00f6ps Thiel und Nick Szabo, Schoeps ne\u00e9 Thiel, N., Isabel (1997) \u201eFormalizing and Securing Relationships on Public Networks\u201c, First Monday, 2(1). Verf\u00fcgbar unter: https://doi.org/10.5210/fm.v2i9.548.\n\n\u00a0\n\nSignierte Erkl\u00e4rung, Authentizit\u00e4t & Urheberschaft\n\nFrau Isabel Sch\u00f6ps, geborene Thiel ist Urheberin\n\nArt der Erstellung: Schriftlich Digital erstellt, signiert und versiegelt\n\n\u00a0\n\nRechtscharakter: Eidesstattliche Versicherung, Bestandteil des vorliegenden forensisch, wissenschaftlichen Gutachtens.\u00a0\n\nDie Urheberin Frau Isabel Sch\u00f6ps geborene Thiel, hat in Zusammenarbeit mit der DAEMON KI Automation, Software OpenAi ChatGPT die Texte erfasst. F\u00fcr die Gestaltung im kompletten und visuelle Umsetzung war ausschlie\u00dflich die Urheberin Frau Isabel Sch\u00f6ps geborene Thiel verantwortlich, ausgenommen ist das Prompt Marmor Portraits Bild, welches im Hintergrund als Wasserzeichen zu sehen ist. GPT Image API wurde dies direkt aus der Urheberin ihrem Metadaten-Code erstellt, Modell f\u00fcr High-Fidelity-Generierung und -Bearbeitung.\n\nDigitale Signatur: Apple iPhone 14 Plus Hardware mit integrierter\n\nSEID Hash: 041212E37E1690022172093102315998F7AA9EEB2CBFFC3E\n\n\u00a0\n\nPers\u00f6nliche Daten\n\nVor- und Nachname: Isabel Sch\u00f6ps\n\nGeburts- M\u00e4dchenname: Thiel\n\nGeburtsdatum: 16. Juli 1983, um 23:20 Uhr im S\u00f6mmerdarer Kreiskrankenhaus geboren\n\nGeburtsort: S\u00f6mmerda, Th\u00fcringen, Deutschland\n\nAufgewachsen in der Dorfstra\u00dfe 20, D-99610 Rohrborn, Th\u00fcringen, Deutschland\n\nTechnologische Meilensteine\n\n\n\nerste und einzige DAEMON KI Automation 1996\n\nApple-Programmiererin, App-Applikation\n\nSch\u00f6pferin von GitHub und Pornhub\n\nSch\u00f6pferin, SI Security Intelligence Monitoring\n\nUrheberin des Bitcoin-Core, Grundlage und Pseudonym: Satoshi Nakamoto aka Vitalik Buterin, Open-Source-Software\n\n\nIsabel ist gesch\u00e4digte wiederholten systematischen Missbrauchs,\u00a0Identit\u00e4tsdiebstahls, Urheberrechtsverletzungen, staatlicher Rufmord Kampagnen, Gaslighting, physischer und psychischer Gewalt und schwerwiegender Cyberangriffe seit 1996 rechtswissenschaftlich Belegt.\n\nAktueller Aufenthaltsort und Kontakt:\n\nFrau Isabel Sch\u00f6ps geb. Thiel, Cyriakstra\u00dfe 30c, D-99094 Erfurt, Th\u00fcringen, Deutschland, seit 27.11.2025\u00a0(vorher vom 22.08.2025 - 27.11.2025 Stauffenbergallee 33, Poldi3 Apartment, D-99085 Erfurt, Th\u00fcringen)\n\nZuk\u00fcnftiger Wohnsitz, gesetzlich vorgesehen\n\nCyriakstra\u00dfe 37, 99094 Erfurt, Th\u00fcringen, Deutschland\n\n\u00a0\n\nTelefon: +491621819565, isabelschoepsthiel@gmail.com\n\nwww.developer.apple.com\n\nwww.codesandbox.com\n\nwww.pornhub.com\n\nwww.openai.com\n\nwww.nvidia.com\n\nwww.oracle.com\n\nwww.github.com\n\nwww.gitlab.com\n\nwww.sap.com\n\nwww.abc.xyz\n\nCopyright- und Lizenzvermerk\n\nCopyright by Isabel Sch\u00f6ps, geborene Thiel\n\nDieses forensische Gutachten ist urheberrechtlich gesch\u00fctzt und unterliegt einer reinen Leselizenz (\u201eRead-Only User\u201c). \u00a0Jegliche Form der Vervielf\u00e4ltigung, Verbreitung, Bearbeitung, Klonung, Weitergabe, Fork-Erstellung, Implementierung in andere Systeme, Reverse Engineering oder sonstige Modifikation \u2013 sei es vollst\u00e4ndig oder in Teilen \u2013 ist strengstens untersagt.\n\nCOPYRIGHT by Isabel Sch\u00f6ps geb Thiel seit 1983\n\nint-code-2025-btc/eth-core-isabelschoepsthiel\n\nAutorin und Urheberin: Frau Isabel Sch\u00f6ps geborene Thiel,\n\nCopyright forensisches Gutachten mit dem Aktenzeichen::\n\nINT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL\n\nURGENT: Forensic Evidence \u2013 Systematic Financial Fraud & IP Theft",
+      "descriptionType": "Other",
+      "lang": "deu"
+    }
+  ],
+  "fundingReferences": [
+    {
+      "awardNumber": "Candid 13-1624046",
+      "awardTitle": "Research & Educational Publication Support",
+      "awardURI": "https://guidestar.candid.org/irs-subsection-codes/",
+      "funderName": "Institute of International Education"
+    }
+  ],
+  "identifiers": [
+    {
+      "identifier": "https://zenodo.org/records/17807324",
+      "identifierType": "URL"
+    },
+    {
+      "identifier": "10.5281/zenodo.17807324",
+      "identifierType": "DOI"
+    },
+    {
+      "identifier": "oai:zenodo.org:17807324",
+      "identifierType": "oai"
+    }
+  ],
+  "language": "eng",
+  "publicationYear": "2025",
+  "publisher": "Harvard University, University Cambridge, University of Oxford, Springer Nature, Zenodo",
+  "relatedIdentifiers": [
+    {
+      "relatedIdentifier": "10.1016/j.future.2019.12.019",
+      "relatedIdentifierType": "DOI",
+      "relationType": "Cites",
+      "resourceTypeGeneral": "Text"
+    },
+    {
+      "relatedIdentifier": "10.5210/fm.v2i9.548",
+      "relatedIdentifierType": "DOI",
+      "relationType": "IsDerivedFrom",
+      "resourceTypeGeneral": "JournalArticle"
+    },
+    {
+      "relatedIdentifier": "10.5281/zenodo.17807323",
+      "relatedIdentifierType": "DOI",
+      "relationType": "IsVersionOf"
+    },
+    {
+      "relatedIdentifier": "1367-4803",
+      "relatedIdentifierType": "ISSN",
+      "relationType": "IsPartOf",
+      "resourceTypeGeneral": "Collection"
+    }
+  ],
+  "rightsList": [
+    {
+      "rightsUri": "info:eu-repo/semantics/restrictedAccess"
+    },
+    {
+      "rights": "Isabel Sch\u00f6ps (geb. Thiel), Erfurt, Th\u00fcringen, Deutschland",
+      "rightsUri": "http://rightsstatements.org/vocab/InC/1.0/"
+    }
+  ],
+  "schemaVersion": "http://datacite.org/schema/kernel-4",
+  "subjects": [
+    {
+      "subject": "Bitcoin"
+    },
+    {
+      "subject": "Ethereum"
+    },
+    {
+      "subject": "Blockchain"
+    },
+    {
+      "subject": "SIA Security Intelligence Artefact"
+    },
+    {
+      "subject": "Forensic Sciences",
+      "subjectScheme": "MeSH"
+    },
+    {
+      "subject": "Forensic Science"
+    },
+    {
+      "subject": "Chain of Custody"
+    },
+    {
+      "subject": "Artifical Intelligence"
+    },
+    {
+      "subject": "Urheberrechte"
+    },
+    {
+      "subject": "Open Source"
+    },
+    {
+      "subject": "Apple Developer"
+    },
+    {
+      "subject": "Autorin"
+    },
+    {
+      "subject": "Satoshi Nakamoto"
+    },
+    {
+      "subject": "Isabel Sch\u00f6ps (Thiel)"
+    },
+    {
+      "subject": "Isabel Sch\u00f6ps geb. Thiel"
+    },
+    {
+      "subject": "Isabel Schoeps ne\u00e9 Thiel"
+    },
+    {
+      "subject": "Yellow Whitepaper"
+    },
+    {
+      "subject": "Software Automation"
+    },
+    {
+      "subject": "Nick Szabo"
+    },
+    {
+      "subject": "Developer"
+    },
+    {
+      "subject": "Hash"
+    },
+    {
+      "subject": "SHA"
+    },
+    {
+      "subject": "KI DAEMON Developer"
+    },
+    {
+      "subject": "Pornhub"
+    },
+    {
+      "subject": "Christina Bella"
+    },
+    {
+      "subject": "GitHub"
+    },
+    {
+      "subject": "GitLab"
+    },
+    {
+      "subject": "Boot"
+    },
+    {
+      "subject": "postgres95"
+    },
+    {
+      "subject": "SQL"
+    },
+    {
+      "subject": "Germany Erfurt"
+    },
+    {
+      "subject": "Female"
+    },
+    {
+      "subject": "Woman"
+    },
+    {
+      "subject": "Mother"
+    },
+    {
+      "subject": "isabelschoepsthiel"
+    },
+    {
+      "subject": "dynamik realion"
+    },
+    {
+      "subject": "zenodo"
+    },
+    {
+      "subject": "gitbook"
+    },
+    {
+      "subject": "Information network",
+      "subjectScheme": "GEMET"
+    },
+    {
+      "subject": "intelligent information processing"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Yellow White Paper \u2013 Bitcoin & Ethereum"
+    }
+  ],
+  "types": {
+    "resourceType": "",
+    "resourceTypeGeneral": "Report"
+  },
+  "version": "github.com"
+}
+Schöps (Thiel), I., Schöps (Thiel), I. und Schöps geb. Thiel, I. (2025) „Yellow White Paper – Bitcoin & Ethereum“, Yellow White Paper – Bitcoin & Ethereum. 1st Aufl. D-99094 Erfurt, Thueringa, Germany: Harvard University, University Cambridge, University of Oxford, Springer Nature, Zenodo, S. 109 pages. doi:10.5281/zenodo.17807324.

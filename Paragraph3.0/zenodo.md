@@ -58,6 +58,12 @@ Das Gutachten ist Bestandteil einer wissenschaftlich-forensischen Publikationsre
 
 Die vollständige öffentlichung für die Weltbevökerung, wird nach offizieller Überreichung der ***gebundenen Erstfassung an den Thüringischen Minsterpräsidenten Herr  Prof. Dr. Mario Voigt,*** Veröffentlicht als Buch, Epub und in digitaler Form freigegeben.
 
+Im Rahmen der forensisch-wissenschaftlichen Datensicherung und zur Beachtung internationaler Standards für Datenpublikation und Referenzierung wurde das vollständige Referenzdokument `Best Practices for Data Publication in the Astronomical Literature von Chen et al. (2022)` als unverändertes Original-PDF in das ***SIA-Security-Intelligence-Artefact Beweisarchiv auf Zenodo*** hochgeladen und kann über den hinterlegten DOI dauerhaft abgerufen werden. Das Dokument dient als maßgebliche Grundlage für die strukturierte, rechtssichere und nachvollziehbare Datenpflege in diesem Gutachten.
+
+Chen, T. X., Schmitz, M., Mazzarella, J. M., Wu, X., van Eyken, J. C., Accomazzi, A., Akeson, R. L., Allen, M., Beaton, R., Berriman, G. B., et al. (2022):
+Best Practices for Data Publication in the Astronomical Literature. The Astrophysical Journal Supplement Series, 260:5. DOI: 10.3847/1538-4365/ac6268.
+Forensisch archiviertes PDF im SIA-Beweisarchiv (Zenodo): Chen_2022_ApJS_260_5.pdf
+
 ---
 
 ## Auszug der forensisch-wissenschaftlichen Quellenbasis

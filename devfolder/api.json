@@ -1,4 +1,4 @@
-@domain: 'http://www.schema.*',
+@domain: 'homepage', `website`
 @type_username_name: "Person", 'gender',
 @Place_Name_Time_Signatur: 'NameCity, Country, Time'
 @timestemp: 'date', 'Time':

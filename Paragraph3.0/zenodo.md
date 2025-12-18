@@ -77,10 +77,32 @@ Forensisch archiviertes PDF im SIA-Beweisarchiv (Zenodo): Chen_2022_ApJS_260_5.p
 
 ## Auszug der forensisch-wissenschaftlichen Quellenbasis
 
+Die folgenden Auszüge aus Citationrn und Referenzen dokumentieren, wie Technologie Urheberschaft, monarchische, juristische und familienhistorische Linien auf Basis aktuellen Forschungliteratur, importierter Metadaten (RIS/BibTeX), und nachweislich geprüfter Provenienz belegt werden. Damit wird ein lückenloser forensischer Nachweis für nationale und internationale Rechtsverfahren, universitäre Gutachten sowie wissenschaftliche Archive erbracht.
+
+### 1. Monarchie, deutsche Geschichte und familiäre Abstammung
+- Larisch, V. (2003) Behind the Scenes with the Kaiser 1888 to 1922. Kessinger Publishing. Verfügbar unter: [google.de/book Isabel Schöps geb. Thiel](https://books.google.de/books?id) (Zugriff: Dezember 2025).
+- *Van der Kiste, J. (2017)* The End of the German Monarchy: The Decline and Fall of the Hohenzollerns. Fonthill Media. Verfügbar unter: [End of the German Monarchy](https://books.google.de/books?id=A)J (Zugriff: Dezember 2025).
+- *Dorpalen, Andreas (1952)*: “Empress Auguste Victoria and the Fall of the German Monarchy.” The American Historical Review, 58(1), 17–38 [DOI: 10.2307/1844785](https://www.jstor.org/stable/1844785)
+[JSTOR:](https://www.jstor.org)
+Diese Quelle belegt die **Bedeutung von Kaiserin Auguste Victoria im Erbkontext von Isabel Schöps geb. Thiel und der letzten deutschen Monarchie.** und wird im Gutachten herangezogen um politische willkürliche, Einflusslinien und parallen  sowie den Zusammenhang der versuchten Zerstörung der **Monarchie und Isabels Familienlinie Knörig(Fischer)-Thiel-Schöps  aus Rohrborn/Sömmerda, Weimar(Talborn), Leubingen/Sömmerda, Thüringen, Deutschland wissenschaftlich zu begründen.**
+
+2. Internationale Monarchie, Empire und Herrschaftsstrukturen
+Connolly, S. J. (2012): “Like an old cathedral city: Belfast welcomes Queen Victoria, August 1849.”
+Urban History, 39(4), 571–589.
+JSTOR: http://www.jstor.org/stable/26398169
+Die Publikation liefert eine internationale Perspektive auf monarchische Herrschaft und ihre gesellschaftliche Rezeption. Sie zeigt, wie die britische Monarchie lokale politische Entwicklungen prägte und ordnet die deutsche Familiengeschichte in einen gesamteuropäischen Kontext ein.
+
+3. Ursprung, Adelslinie und juristische Legitimation
+Gagé, Jean (1936): “DE CÉSAR A AUGUSTE. OÙ EN EST LE PROBLÈME DES ORIGINES DU PRINCIPAT? A PROPOS DU CÉSAR DE M. J. CARCOPINO.”
+Revue Historique, 177(2), 279–342.
+JSTOR: http://www.jstor.org/stable/40946562
+Die französische Referenz stellt die Verbindung von antiker Legitimation über das römische Kaiseramt bis hin zu den neuzeitlichen europäischen Monarchien her – ein zentrales Element für die Ableitung fortbestehender Eigentumsrechte und Abstammungslinien.
+
 - Dorpalén, A. (1952). *Empress Auguste Victoria and the Fall of the German Monarchy*. The American Historical Review, 58(1), 17–38. DOI: 10.2307/1844785  
 - Connolly, S. J. (2012). *Like an old cathedral city: Belfast welcomes Queen Victoria, August 1849*. Urban History, 39(4), 571–589. JSTOR: 26398169  
 - Gagé, J. (1936). *De César à Auguste*. Revue Historique, 177(2), 279–342. JSTOR: 40946562  
-- Solé, J. (1972). *L’Égyptomanie du XVIe au XVIIIe siècle*. Annales, 27(2), 473–482  
+- Solé, J. (1972). *L’Égyptomanie du XVIe au XVIIIe siècle*. Annales, 27(2), 473–482
+  
 - Burleigh, M. (2007). *Sacred Causes*. HarperCollins  
 - Evans, R. J. (2005). *The Third Reich in Power 1933–1939*. Penguin
 - Rodrigo, C., Cruz, P., Aguilar, J.F., et al. 2024; [harvard.edu](https://arxiv.org/pdf/2406.03310)

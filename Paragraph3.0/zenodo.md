@@ -10,37 +10,33 @@ Es ist die längste lückenlose Beweiskette, die von einer einzigen Person, mir 
 Dieser Datensatz enthält das vollständige forensisch-wissenschaftliche Urheberrechts- und Autorschaftsgutachten mit dem Titel  
 **SIA Security Intelligence Artefact – Technology, Software, History**.
 
-Urheberin und Auftraggeberin ist Frau Isabel Schöps, geborene Thiel.  
+### Urheberin und Auftraggeberin ist Frau Isabel Schöps, geborene Thiel.  
 Aktenzeichen: **INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL**
 
-Das Gutachten umfasst forensische Dokumentationen, Originalbeweise, Hashwerte, Zertifikate, die eidesstattliche Erklärung sowie sämtliche zugehörigen Beilagen.  
-Alle Bestandteile sind unter der forensischen Kennung **INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL** geführt und archiviert.
+Das Gutachten umfasst forensische Dokumentationen, Originalbeweise, Hashwerte, Zertifikate, die eidesstattliche Erklärung sowie sämtliche zugehörigen Beilagen. Alle Bestandteile sind unter der forensischen Kennung **INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL** geführt und archiviert.
 
 ---
 
-## Autorin und Urheberin
-
-Frau Isabel Schöps, geborene Thiel, geboren am 16.07.1983 um 23:20 Uhr im Kreiskrankenhaus Sömmerda, Thüringen, Deutschland.  
-Aktuelle Melde- und Wohnanschrift: Cyriakstrasse 30c, D-99094 Erfurt, Thüringen, Deutschland.
+## Autorin, Urheberin, Auftraggeberin:
+Frau Isabel Schöps, geborene Thiel, geboren am 16.07.1983 um 23:20 Uhr im Kreiskrankenhaus Sömmerda, Thüringen, Deutschland. 
+**Aktuelle Melde- und Wohnanschrift:** Cyriakstrasse 30c, D-99094 Erfurt, Thüringen, Deutschland.
 
 ---
 
-*DOI:* https://doi.org/10.5281/zenodo.17809724  
-*Veröffentlichungsdatum:* 05. Dezember 2025  
+*DOI:* [https://doi.org/10.5281/zenodo.17809724](https://doi.org/10.5281/zenodo.17809724)  
+*Veröffentlichungsdatum:* 05. Dezember 2025, letztes Update: 18.12.2025. 
+
 *Sprache:* Deutsch, Englisch  
-*Verleger:* Zenodo / Oxford University Press (Lizenz-ID 6131130060979)  
-*Programmiersprachen:* HTML, PHP, JSON, Markdown, Python  
-*Repository:* https://github.com/isabelschoeps-thiel/sia-security-intelligence-artefact/Paragraph3.1/Das-Monarch-Program
+*Verleger:* Zenodo.org, Oxford University Press, **Lizenz-ID 6131130060979**, Springer Nature
+*Programmiersprachen:* HTML, PHP, JSON, Markdown, Python
+*Repository:* https://github.com/isabelschoeps-thiel/
 
 ---
 
 ## Zweck und rechtlicher Status
+Diese wissenschaftliche Aussarbeitung dient der gerichtsfesten Nachweisführung der Urheberschaft, der digitalen Herkunft sowie der technischen Entstehungsgeschichte von Blockchain- und KI-Automationssystemen, der **Autorin, Urheberin, Auftraggeberin Frau Isabel Schöps, geborene Thiel.**
 
-Das Artefakt dient der gerichtsfesten Nachweisführung der Urheberschaft, der digitalen Herkunft sowie der technischen Entstehungsgeschichte von Blockchain- und KI-Automationssystemen.
-
-Da der Datensatz strafrechtlich relevante Beweismittel, personenbezogene forensische Daten sowie Referenzen zu anhängigen Ermittlungsverfahren enthält, ist der Zugriff auf die hinterlegten Dateien eingeschränkt.
-
-Die DOI-Referenz bleibt öffentlich zitierfähig. Der vollständige Zugriff ist ausschließlich autorisierten Stellen, darunter Justizbehörden, Forschungseinrichtungen und akkreditierte Medienvertreter, nach vorheriger Genehmigung gestattet.
+***Da der Datensatz strafrechtlich relevante Beweismittel, personenbezogene forensische Daten sowie Referenzen zu anhängigen Ermittlungsverfahren enthält, ist der Zugriff auf die hinterlegten Dateien eingeschränkt. Weiter informationen zur Verwndung, siehe Rechtshinweis.***
 
 ---
 
@@ -48,18 +44,16 @@ Die DOI-Referenz bleibt öffentlich zitierfähig. Der vollständige Zugriff ist 
 
 Das forensische Gutachten steht in direktem Zusammenhang mit folgenden eingereichten Strafanzeigen:
 
-- **SPH/0296575/2025**, eingereicht am 13. November 2025  
-  Forensische Beweisführung zu Technologiemissbrauch, Finanz- und Urheberrechtsverletzungen im Rahmen der SIA-Analyse
+- **SPH/0296575/2025**, gestellt am 13. November 2025, Forensische Beweisführung zu Technologiemissbrauch, Finanz- und Urheberrechtsverletzungen im Rahmen der SIA-Analyse
 
-- **ST/0203129/2025**, eingereicht am 6. August 2025  
-  Datenmissbrauch, Identitätsdiebstahl und digitale Eigentumsdelikte
+- **ST/0203129/2025**, gestellt am 6.August 2025, Strafantrag und umfasender Nachtrag, persönlich am 21.August 2025 von der Autorin, Urheberin, Auftraggeberin, Frau Isabel Schöps geb. Thiel eingereicht. ThielDatenmissbrauch, Identitätsdiebstahl und digitale Eigentumsdelikte
 
-Diese Anzeigen wurden 2025 bei der Polizeidienststelle Erfurt Nord, August Schleicher Strasse 1, D-99092 Erfurt, Thüringen, Deutschland, gestellt und sind Teil einer zusammenhängenden Serie von insgesamt fünfzehn Verfahren.
+Diese Anzeigen wurden 2025 bei der Polizeidienststelle Erfurt Nord, August Schleicher Strasse 1, D-99092 Erfurt, Thüringen, Deutschland, persönlich von der Autorin, Urheberin und Auftraggeberin
+Frau Isabel Schöps, geborene Thiel angezeigt und sind Teil einer zusammenhängenden Serie von insgesamt fünfzehn Verfahren - Strafanzeigen. 
 
 ---
 
 ## Wissenschaftliche Einordnung und Referenzierung
-
 Das Gutachten ist Bestandteil einer wissenschaftlich-forensischen Publikationsreihe und wird im Rahmen der Lizenzvereinbarung mit der Oxford University Press (Lizenz-ID 6131130060979) veröffentlicht.
 
 Es wurde unter anderem von der Harvard University (USA) sowie dem Japan Advanced Institute of Science and Technology im Kontext wissenschaftlicher Dokumentation und Verifikation referenziert.

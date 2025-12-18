@@ -75,8 +75,7 @@ Forensisch archiviertes PDF im SIA-Beweisarchiv (Zenodo): Chen_2022_ApJS_260_5.p
 
 ---
 
-## Auszug der forensisch-wissenschaftlichen Quellenbasis
-
+### Auszug der forensisch-wissenschaftlichen Quellenbasis
 Die folgenden Auszüge aus Citationrn und Referenzen dokumentieren, wie Technologie Urheberschaft, monarchische, juristische und familienhistorische Linien auf Basis aktuellen Forschungliteratur, importierter Metadaten (RIS/BibTeX), und nachweislich geprüfter Provenienz belegt werden. Damit wird ein lückenloser forensischer Nachweis für nationale und internationale Rechtsverfahren, universitäre Gutachten sowie wissenschaftliche Archive erbracht.
 
 ### 1. Monarchie, deutsche Geschichte und familiäre Abstammung
@@ -105,7 +104,7 @@ Die französische Referenz stellt die Verbindung zur antiker Legitimation über 
 - *Burleigh, M. (2007)*. ***Sacred Causes***. HarperCollins
 - *Evans, R. J. (2005)*. ***The Third Reich in Power 1933–1939***. Penguin
 
-## International Urheberschaft, Technologie, Software, KI Entwicklung
+### 4. International Urheberschaft, Technologie, Software, KI Entwicklung
 - *Rodrigo, C., Cruz, P., Aguilar, J.F., et al. 2024*; [harvard.edu](https://arxiv.org/pdf/2406.03310)
 - *The SVO Filter Profile Service. Ai Building, Metaanalyse
 - *Rodrigo, C., Solano, E., Bayo, A.*, 2012; [harvard.edu/1015R/abstract](https://ui.adsabs.harvard.edu/abs/2012ivoa.rept.1015R/abstract) The SVO Filter Profile Forensic Service.
@@ -115,15 +114,12 @@ Die französische Referenz stellt die Verbindung zur antiker Legitimation über 
 ---
 
 ## Lizenz und Verifikation
-
 *Lizenz:* Creative Commons Attribution 4.0 International (CC BY 4.0)  
 *Zitierfähigkeit:* Zenodo, Harvard-Referenzdatenbanken, OpenAIRE  
 *Integrität:* Kryptografisch signiert, SHA-256-verifiziert
 
 ---
 
-## Harvard-Style Citation
-
-Schöps, I. (2025). *SIA Security Intelligence Artefact. Forensisches Gutachten über Urheberschaft, DAEMON-KI-Automation, Bitcoin Core, GitHub und Pornhub sowie die Aufdeckung des Verbrechens Monarch-Programm*.  
-INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL. Erfurt: Springer Verlag.  
-DOI: https://doi.org/10.5281/zenodo.17809724
+## Harvard Citation
+- *Schöps, I. (2025).* ***SIA Security Intelligence Artefact.** Forensisches Gutachten über Urheberschaft, DAEMON-KI-Automation, Bitcoin Core, GitHub und Pornhub sowie die Aufdeckung des Verbrechens Monarch-Programm*.  
+INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL. Erfurt, Thüringen, Deutschland. DOI:[zenodo.doi.17809724](https://doi.org/10.5281/zenodo.17809724)

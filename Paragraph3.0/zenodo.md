@@ -5,10 +5,10 @@ Im Rahmen des forensisch-wissenschaftlichen Gutachtens
 SIA Security Intelligence Artefact - Technolog, Software, History
 Urheberin und Auftraggeberin: Frau Isabel Schöps geborene Thiel
 Aktenzeichen: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL
-*OrcID: [0009-0003-4235-2231](https://orcid.org/0009-0003-4235-2231/print) Isabel Schöps Thiel*
-*OrcID: [0009-0006-8765-3267](https://orcid.org/0009-0006-8765-3267/print) SI-IST Isabel Schöps
-Veröffentlicher Name: Isabel Schöps Thiel* (Satoshi Nakamoto)
-*Username Zenodo: isabelschoepsthiel*
+- *OrcID: [0009-0003-4235-2231](https://orcid.org/0009-0003-4235-2231/print) Isabel Schöps Thiel*
+- *OrcID: [0009-0006-8765-3267](https://orcid.org/0009-0006-8765-3267/print) SI-IST Isabel Schöps
+- *Veröffentlicher Name: Isabel Schöps Thiel* (Satoshi Nakamoto)
+- *Username Zenodo: isabelschoepsthiel*
 
 ***Dies ist das 1. Volumen aus einer Serie aus insgesammt fünf veröffentlichten Datenbanken auf der [Zenodo.org](https://zenodo.org) Platzform. Und ist Hauptbestandteil aus meinem wissenschaftlichen Gutachten, mit dem Titel SIA Security Intelligence Artefact und dient der Beweisdokumentation, meiner Urherberschaft in Technologie, Software, Erbliene zur Deutschen Monarchie und Kaiserin Victoria Auguste und Otto von Bismarck und Adolf Hitler.
 Es ist die längste lückenlose Beweiskette, die von einer einzigen Person, mir - Frau Isabel Schöps geb. Thiel zur Verfügung gestellt wurde und deckt im Zusammenhan ein Verbrechen auf was im Monarch-Programm interpretiert wird - Chain of Custody.***

@@ -26,10 +26,10 @@ Frau Isabel Schöps, geborene Thiel, geboren am 16.07.1983 um 23:20 Uhr im Kreis
 *DOI:* [https://doi.org/10.5281/zenodo.17809724](https://doi.org/10.5281/zenodo.17809724)  
 *Veröffentlichungsdatum:* 05. Dezember 2025, letztes Update: 18.12.2025. 
 
-*Sprache:* Deutsch, Englisch  
-*Verleger:* Zenodo.org, Oxford University Press, **Lizenz-ID 6131130060979**, Springer Nature
-*Programmiersprachen:* HTML, PHP, JSON, Markdown, Python
-*Repository:* https://github.com/isabelschoeps-thiel/
+***Sprache:*** Deutsch, Englisch  
+***Verleger:*** Zenodo.org, Oxford University Press, **Lizenz-ID 6131130060979**, Springer Nature
+***Programmiersprachen:*** HTML, PHP, JSON, Markdown, Python
+***Repository:*** https://github.com/isabelschoeps-thiel/
 
 ---
 
@@ -54,11 +54,9 @@ Frau Isabel Schöps, geborene Thiel angezeigt und sind Teil einer zusammenhänge
 ---
 
 ## Wissenschaftliche Einordnung und Referenzierung
-Das Gutachten ist Bestandteil einer wissenschaftlich-forensischen Publikationsreihe und wird im Rahmen der Lizenzvereinbarung mit der Oxford University Press (Lizenz-ID 6131130060979) veröffentlicht.
+Das Gutachten ist Bestandteil einer wissenschaftlich-forensischen Publikationsreihe und wird von der[ US Harvard University](https://www.harvard.edu/), [Universität Cambridge](https://www.cam.ac.uk/), [Japan Advanced Institute of Science and Technology](https://www.jaist.ac.jp/english/), [University Oxford](https://www.ox.ac.uk/) und im [Springer Verlag](https://www.springernature.com/de) im Kontext wissenschaftlicher Dokumentation und Verifikation veröffentlicht. 
 
-Es wurde unter anderem von der Harvard University (USA) sowie dem Japan Advanced Institute of Science and Technology im Kontext wissenschaftlicher Dokumentation und Verifikation referenziert.
-
-Die vollständige öffentliche Version wird nach offizieller Überreichung der gebundenen Erstfassung an den Thüringischen Ministerpräsidenten Prof. Dr. Mario Voigt zur Veröffentlichung als Buch, EPUB und digitale Edition freigegeben.
+Die vollständige öffentlichung für die Weltbevökerung, wird nach offizieller Überreichung der ***gebundenen Erstfassung an den Thüringischen Minsterpräsidenten Herr  Prof. Dr. Mario Voigt,*** Veröffentlicht als Buch, Epub und in digitaler Form freigegeben.
 
 ---
 

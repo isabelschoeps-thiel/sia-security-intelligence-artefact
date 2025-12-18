@@ -2,7 +2,7 @@
 ## Paragraph 3.0 - Der unsichtbare Feind – Das Monarch Programm
 
 Im Rahmen des forensisch-wissenschaftlichen Gutachtens
-SIA Security Intelligence Artefact - Technolog, Software, History
+SIA Security Intelligence Artefact - Technologie, Software, History
 Urheberin und Auftraggeberin: Frau Isabel Schöps geborene Thiel
 Aktenzeichen: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL
 - *OrcID: [0009-0003-4235-2231](https://orcid.org/0009-0003-4235-2231/print) Isabel Schöps Thiel*
@@ -83,11 +83,12 @@ Forensisch archiviertes PDF im SIA-Beweisarchiv (Zenodo): Chen_2022_ApJS_260_5.p
 - Solé, J. (1972). *L’Égyptomanie du XVIe au XVIIIe siècle*. Annales, 27(2), 473–482  
 - Burleigh, M. (2007). *Sacred Causes*. HarperCollins  
 - Evans, R. J. (2005). *The Third Reich in Power 1933–1939*. Penguin
-- Rodrigo, C., Cruz, P., Aguilar, J.F., et al. 2024; [https://ui.adsabs.harvard.edu/abs/2024A%26A...689A..93R/abstract](https://arxiv.org/pdf/2406.03310)
-The SVO Filter Profile Service. Rodrigo, C., Solano, E., Bayo, A., 2012; https://ui.adsabs.harvard.edu/abs/2012ivoa.rept.1015R/abstract
-The SVO Filter Profile Service. Rodrigo, C., Solano, E., 2020; https://ui.adsabs.harvard.edu/abs/2020sea..confE.182R/abstract
-**19 pages, 18 figures,** published in A&A; A&A 689, A93 (2024);
-  [doi:10.1051/0004-6361/202449998](https://www.aanda.org/articles/aa/full_html/2025/04/aa54660e-25/aa54660e-25.html) https://www.aanda.org/articles/aa/full_html/2025/04/aa54660e-25/aa54660e-25.html
+- Rodrigo, C., Cruz, P., Aguilar, J.F., et al. 2024; [harvard.edu](https://arxiv.org/pdf/2406.03310)
+- The SVO Filter Profile Service. Rodrigo, C., Solano, E., Bayo, A., 2012; [harvard.edu/1015R/abstract](https://ui.adsabs.harvard.edu/abs/2012ivoa.rept.1015R/abstract)
+- The SVO Filter Profile Service. Rodrigo, C., Solano, E., 2020; [harvard.edu/confE.182R/abstract](https://ui.adsabs.harvard.edu/abs/2020sea..confE.182R/abstract)
+- **19 pages, 18 figures,** published in A&A; A&A 689, A93 (2024);
+  [doi:10.1051/0004-6361/202449998](https://www.aanda.org/articles/aa/full_html/2025/04/aa54660e-25/aa54660e-25.html)
+
 ---
 
 ## Lizenz und Verifikation

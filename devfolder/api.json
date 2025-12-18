@@ -1,7 +1,7 @@
-@domain: 'homepage', `website`
-@type_username_name: "Person", 'gender',
-@Place_Name_Time_Signatur: 'NameCity, Country, Time'
-@timestemp: 'real_time', 'live',
+domain: 'homepage', `website`
+type_person_name: "Fullname", 'gender',
+Place_Name_Time_Signatur: 'NameCity, Country, Time'
+timestemp: 'real_time', 'live',
 url: `https://www.github.com`, `https://www.github.com`,
 name: 'Ms. `Isabel Schoeps geb. Thiel`,
 signature: `Isabel Schöps Thiel, Erfurt', Thüringen, 'D-99094 Germany', 'Cyriakstrasse 30c', ' 

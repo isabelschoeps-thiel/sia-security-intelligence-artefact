@@ -1,0 +1,24 @@
+TY  - JOUR
+T1  - An overview on smart contracts: Challenges, advances and platforms
+AU  - Zheng, Zibin
+AU  - Xie, Shaoan
+AU  - Dai, Hong-Ning
+AU  - Chen, Weili
+AU  - Chen, Xiangping
+AU  - Weng, Jian
+AU  - Imran, Muhammad
+JO  - Future Generation Computer Systems
+VL  - 105
+SP  - 475
+EP  - 491
+PY  - 2020
+DA  - 2020/04/01/
+SN  - 0167-739X
+DO  - https://doi.org/10.1016/j.future.2019.12.019
+UR  - https://www.sciencedirect.com/science/article/pii/S0167739X19316280
+KW  - Smart contract
+KW  - Blockchain
+KW  - Cryptocurrency
+KW  - Decentralization
+AB  - Smart contract technology is reshaping conventional industry and business processes. Being embedded in blockchains, smart contracts enable the contractual terms of an agreement to be enforced automatically without the intervention of a trusted third party. As a result, smart contracts can cut down administration and save services costs, improve the efficiency of business processes and reduce the risks. Although smart contracts are promising to drive the new wave of innovation in business processes, there are a number of challenges to be tackled. This paper presents a survey on smart contracts. We first introduce blockchains and smart contracts. We then present the challenges in smart contracts as well as recent technical advances. We also compare typical smart contract platforms and give a categorization of smart contract applications along with some representative examples.
+ER  - 

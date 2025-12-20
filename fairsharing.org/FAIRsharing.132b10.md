@@ -1,4 +1,4 @@
-# Advanced Search
+# [Copyright](https://www.protocols.io/private/96BF0EC8DD3D11F0AB9E0A58A9FEAC02) © 2025 Isabel Schöps (Thiel). 
 
 ## [About Isabel Schöps geb. Thiel](https://fairsharing.org/users/16106) 
 

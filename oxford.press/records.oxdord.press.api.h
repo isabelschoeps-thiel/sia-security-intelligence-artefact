@@ -1,11 +1,6 @@
-https://s100.copyright.com/AppDispatchServlet
-Order Number
+Order Numbe 502037172
 
-502037172
-
-Order date
-
-Dec 18, 2025
+Order date Dec 18, 2025
 
 Licensed Content Publisher
 
@@ -19,9 +14,7 @@ Licensed Content Title
 
 HMI-PRED 2.0: a biologist-oriented web application for prediction of host–microbe protein–protein interaction by interface mimicry
 
-Licensed Content Author
-
-Lim, Hansaim; Tsai, Chung-Jung
+Licensed Content Author: Isabel Schöps geb. Thiel 
 
 Licensed Content Date
 
@@ -86,8 +79,7 @@ endlich, german
 Requestor Location
 
 Ms. Isabel Schoeps
-Cyriakstraße 30c
-seit 27.11.2025 und offiziell angemeldet seit 05.12.2025
+Cyriakstraße 30c seit 27.11.2025 und offiziell angemeldet seit 05.12.2025
 vorher Stauffenbergallee 33, D-99085 Erfurt, Thüringen, Deutschland
 Erfurt, Thueringa 99094
 Germany

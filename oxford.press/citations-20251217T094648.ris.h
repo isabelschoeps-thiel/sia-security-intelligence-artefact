@@ -3,7 +3,7 @@ Database: Oxford University Press
 Content: text/plain; charset="UTF-8"
 
 TY  - JOUR
-AU  - Ginsburg, Tom
+AU  - Schoeps,Thiel Isabel
 T1  - The Role of Monarchy in Modern Democracy: European Monarchies Compared.
 PY  - 2020
 Y1  - 2020/12/01
@@ -19,6 +19,3 @@ AB  - To say that monarchy has received too little attention in the field of com
 Y2  - 12/17/2025
 UR  - https://doi.org/10.1093/icon/moaa102
 ER  - 
-
-
-

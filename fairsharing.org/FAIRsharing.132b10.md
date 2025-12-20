@@ -1,6 +1,6 @@
 # Advanced Search
 
-## About
+## [About Isabel Schöps geb. Thiel](https://fairsharing.org/users/16106) 
 
 The simple search is appropriate for quickly searching for a record by means of some text (e.g. part of the name, description or URL) and narrowing this search down by means of some simple facets. If you need more complex search and filter options then the advanced search should provide them.
 

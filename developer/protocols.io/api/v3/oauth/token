@@ -1,0 +1,20 @@
+{
+  "access_token": "b3656ef91016d67bfc4bb9f983d4450f2baa99b0fca7f2665d456cc14e5d1441",
+  "token_type": "bearer",
+  "expires_in": "30681976",
+  "scope": "readwrite",
+  "refresh_token": "5acce557aebbd287cf371371ead660e44ebc889cb711c67c3b25b9af2beb0184",
+  "refresh_expires_in": "62217976",
+  "user": {
+    "name": "Isabel Schoeps geborene Thiel",
+    "affiliation": null,
+    "username": "isabelschoepsthiel",
+    "link": null,
+    "image": {
+      "source": "https://s3.amazonaws.com/pr-journal/djqbjf6.jpg",
+      "placeholder": "https://s3.amazonaws.com/pr-journal/djqbjf6.jpg"
+    }
+  },
+  "status_code": 0
+}
+POST https://www.protocols.io/api/v3/oauth/token

@@ -66,10 +66,10 @@ Im Rahmen der forensischen Untersuchungen und wissenschaftlichen Dokumentation w
 - Verbrechen, Zeitstempel im 17. Jahrhundert  
 
 **Die Analyse, Überprüfung und Bewertung** der Forschungsdaten erfolgte interdisziplinär, unter Mitwirkung internationaler Rechtswissenschaftler, unabhängigen Gutachtern und mit Unterstützung der;   
-- **[Harvard University](https://www.harvard.edu/)** **Vereinigte Staaten Amerika **
+- **[Harvard University](https://www.harvard.edu/)** **Vereinigte Staaten Amerika**
 -  **[University of Oxford](https://www.ox.ac.uk/) Vereinigtes Königreich, UK**
 -  **[CERN - International Telecommunication Union, ITU,](https://home.cern/) Schweiz**
--  **[Japan Advanced Institute of Science and Technology (JAIST).](https://sciencebusiness.net) Japan**  
+-  **[Japan Advanced Institute of Science and Technology (JAIST).](https://sciencebusiness.net), Japan**  
 
 Sämtliche Originaldokumente,  **Bildmaterialien, Hashwerte, Lizenz- und Eigentumsnachweise, Quellcodes, Archivdaten und relevante Metadaten** wurden über institutionelle Plattformen wie 
 - **[Elsevir](https://www.elsevier.com/)**, [Springer Nature](https://www.springernature.com/),

@@ -1,0 +1,1088 @@
+{
+  "access": {
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "files": "restricted",
+    "record": "public",
+    "status": "restricted"
+  },
+  "created": "2025-12-11T10:35:53.149390+00:00",
+  "custom_fields": {
+    "code:codeRepository": "http://www.github.com/isabelschoeps-thiel/",
+    "code:developmentStatus": {
+      "id": "active",
+      "title": {
+        "en": "Active"
+      }
+    },
+    "code:programmingLanguage": [
+      {
+        "id": "html",
+        "title": {
+          "en": "HTML"
+        }
+      },
+      {
+        "id": "php",
+        "title": {
+          "en": "PHP"
+        }
+      },
+      {
+        "id": "json",
+        "title": {
+          "en": "JSON"
+        }
+      },
+      {
+        "id": "markdown",
+        "title": {
+          "en": "Markdown"
+        }
+      },
+      {
+        "id": "python",
+        "title": {
+          "en": "Python"
+        }
+      },
+      {
+        "id": "yaml",
+        "title": {
+          "en": "YAML"
+        }
+      },
+      {
+        "id": "http",
+        "title": {
+          "en": "HTTP"
+        }
+      },
+      {
+        "id": "css",
+        "title": {
+          "en": "CSS"
+        }
+      },
+      {
+        "id": "bibtex",
+        "title": {
+          "en": "BibTeX"
+        }
+      },
+      {
+        "id": "xml",
+        "title": {
+          "en": "XML"
+        }
+      },
+      {
+        "id": "api_blueprint",
+        "title": {
+          "en": "API Blueprint"
+        }
+      }
+    ],
+    "imprint:imprint": {
+      "edition": "1st",
+      "isbn": "0582025303",
+      "pages": "295",
+      "place": "D-99094 Erfurt, Germany, Th\u00fcringen",
+      "title": "The Decline and Fall of the Habsburg Empire, 1815-1918"
+    },
+    "journal:journal": {
+      "issn": "1367-4803",
+      "issue": "9",
+      "pages": "1453",
+      "title": "Open source clustering software",
+      "volume": "20"
+    },
+    "thesis:thesis": {
+      "type": "Rhd"
+    }
+  },
+  "expires_at": "2025-12-11 10:35:53.149380",
+  "files": {
+    "count": 26,
+    "default_preview": "SIA-Security-ntelligence-rtefactChain-of-Custody-Forensische-Familien-Monarchielinie-copyright-isabelschoepsthiel-urheberin-autorin-.docx.pdf",
+    "enabled": true,
+    "entries": {
+      "Adolf-Hitler-Kaiser-Wilhelm-Otto-Bissmarck-und-die-va\u0308terliche-manfred-thiel-verbindung.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:28c3a9cfc41fe9f73dc8df6f9643732d",
+        "ext": "zip",
+        "id": "254abfbc-2265-40bd-a2df-bb233770868c",
+        "key": "Adolf-Hitler-Kaiser-Wilhelm-Otto-Bissmarck-und-die-va\u0308terliche-manfred-thiel-verbindung.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 699201644,
+        "storage_class": "L"
+      },
+      "IMG_0395.jpg": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:bb80f5d71ac741f9302c0ed7a3e92efc",
+        "ext": "jpg",
+        "id": "84570613-fa77-4340-ac48-d87f2ed465c0",
+        "key": "IMG_0395.jpg",
+        "metadata": {
+          "height": 2405,
+          "width": 1284
+        },
+        "mimetype": "image/jpeg",
+        "size": 437792,
+        "storage_class": "L"
+      },
+      "IST-MF-2018:14-03-BK-OSM-CHAIN_juristische-rechtswege-national-international-die-ich_isabelscho\u0308ps_thiel_unternahm.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:b1001b1fa6a0a0ad9e75f721efa0eaa4",
+        "ext": "zip",
+        "id": "ccb6d0a7-52f9-4380-a43d-777c188dcc36",
+        "key": "IST-MF-2018:14-03-BK-OSM-CHAIN_juristische-rechtswege-national-international-die-ich_isabelscho\u0308ps_thiel_unternahm.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 88803479,
+        "storage_class": "L"
+      },
+      "IsabelAntje8003-auswertung-Tante-antje-beuthner-kno\u0308rig-matrix1-anfang_geschichte_wiederholt_sich.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:e94dc2d7b4f4df6ae016540b182a17a2",
+        "ext": "zip",
+        "id": "e531c325-7a60-4c2e-8725-f8a7695fe118",
+        "key": "IsabelAntje8003-auswertung-Tante-antje-beuthner-kno\u0308rig-matrix1-anfang_geschichte_wiederholt_sich.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 93570518,
+        "storage_class": "L"
+      },
+      "Meldebesta_tigung-isabelscho_psthiel-erfurt-cyriakstrase30c-deutschland.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:baefefd6f17246424b014a3beaa2906b",
+        "ext": "pdf",
+        "id": "31308ea1-8251-4878-9256-91386b754a7a",
+        "key": "Meldebesta_tigung-isabelscho_psthiel-erfurt-cyriakstrase30c-deutschland.pdf",
+        "metadata": {
+          "height": 834,
+          "width": 595
+        },
+        "mimetype": "application/pdf",
+        "size": 1142875,
+        "storage_class": "L"
+      },
+      "Paragraph3.1-monarchprogramm-forensische-auswertung.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:f53f892b40fda44f34f228d4f5982e28",
+        "ext": "zip",
+        "id": "c6710e73-50ef-450e-9e32-7f0d975f3380",
+        "key": "Paragraph3.1-monarchprogramm-forensische-auswertung.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 1150710,
+        "storage_class": "L"
+      },
+      "SIA-Security-Intelligence-Artefact-Chain of Custody-Forensic-Family-and-Monarchical-Lineage-Reference Code-INT-CODE-2025-BTC-ETH-CORE-ISABELSCHOEPSTHIEL.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:24bc8d6f0bb61aba2192ec7240700a40",
+        "ext": "pdf",
+        "id": "0affd2fc-9118-4361-b91c-c75968ac0e2a",
+        "key": "SIA-Security-Intelligence-Artefact-Chain of Custody-Forensic-Family-and-Monarchical-Lineage-Reference Code-INT-CODE-2025-BTC-ETH-CORE-ISABELSCHOEPSTHIEL.pdf",
+        "metadata": {
+          "height": 842,
+          "width": 595
+        },
+        "mimetype": "application/pdf",
+        "size": 45917234,
+        "storage_class": "L"
+      },
+      "SIA-Security-ntelligence-rtefactChain-of-Custody-Forensische-Familien-Monarchielinie-copyright-isabelschoepsthiel-urheberin-autorin-.docx": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:b7f1b457760e822120beca1209983504",
+        "ext": "docx",
+        "id": "221a172a-7a27-4809-b8e0-fda68f96c0c2",
+        "key": "SIA-Security-ntelligence-rtefactChain-of-Custody-Forensische-Familien-Monarchielinie-copyright-isabelschoepsthiel-urheberin-autorin-.docx",
+        "metadata": {},
+        "mimetype": "application/octet-stream",
+        "size": 16487666,
+        "storage_class": "L"
+      },
+      "SIA-Security-ntelligence-rtefactChain-of-Custody-Forensische-Familien-Monarchielinie-copyright-isabelschoepsthiel-urheberin-autorin-.docx.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:5766aea3248358243a04187879a40247",
+        "ext": "pdf",
+        "id": "8126ba16-fc09-4e1d-a161-a6bd4c094b4a",
+        "key": "SIA-Security-ntelligence-rtefactChain-of-Custody-Forensische-Familien-Monarchielinie-copyright-isabelschoepsthiel-urheberin-autorin-.docx.pdf",
+        "metadata": {
+          "height": 842,
+          "width": 596
+        },
+        "mimetype": "application/pdf",
+        "size": 49807965,
+        "storage_class": "L"
+      },
+      "beweise-fu\u0308r-gezielte-zersto\u0308rung-meiner-isabelschoepsthiel-familienstruktur.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:95d700688e82cd9ac7be1423d58f58f7",
+        "ext": "zip",
+        "id": "2be6e9ce-1f79-407e-ad82-6669ef8bc18a",
+        "key": "beweise-fu\u0308r-gezielte-zersto\u0308rung-meiner-isabelschoepsthiel-familienstruktur.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 143112241,
+        "storage_class": "L"
+      },
+      "der_kampf_um_die_monarchie_1848_beweisfu\u0308hrung.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:3dc20c894191bfd67855ac2207791684",
+        "ext": "zip",
+        "id": "8798089f-b934-49df-8bc0-c7edc835b009",
+        "key": "der_kampf_um_die_monarchie_1848_beweisfu\u0308hrung.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 231419848,
+        "storage_class": "L"
+      },
+      "diebstahl_gedankengut_eingriff_organismus_beweissicherung_verbrechen_an_meine_familie_Isabel-Schoeps-Geb-Thiel-und-Familie-Knoerig-Thiel-Scho\u0308ps-Gedanken-und-Gefu\u0308hlswelt.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:064165f43da7a32c468bb1cb229e6a0b",
+        "ext": "zip",
+        "id": "ca393564-c36f-45db-ae61-e1262b65bc78",
+        "key": "diebstahl_gedankengut_eingriff_organismus_beweissicherung_verbrechen_an_meine_familie_Isabel-Schoeps-Geb-Thiel-und-Familie-Knoerig-Thiel-Scho\u0308ps-Gedanken-und-Gefu\u0308hlswelt.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 280687929,
+        "storage_class": "L"
+      },
+      "diffamierung_psychischeFolter_meiner_familie.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:b18cda0ec48ece40fa5f6d1878e45bc7",
+        "ext": "zip",
+        "id": "f54a8b5c-7f4e-400b-b0f8-7a1cc60624e3",
+        "key": "diffamierung_psychischeFolter_meiner_familie.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 36911876,
+        "storage_class": "L"
+      },
+      "digitale_zerstoerung_browserverlauf-zensur-meiner-isabelschoepsthiel-identita\u0308t.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:a87841ae19c5adefdbbb4f329521a3e6",
+        "ext": "zip",
+        "id": "c034828f-276a-43dd-ba4d-0769b0b488eb",
+        "key": "digitale_zerstoerung_browserverlauf-zensur-meiner-isabelschoepsthiel-identita\u0308t.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 12240171,
+        "storage_class": "L"
+      },
+      "erbline_deutschen_monarchie_kaiserin_victoria_auguste_forensisch_wissenschaftlich_bewiesen.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:c68f76725b26386f95035cff4bd756f9",
+        "ext": "zip",
+        "id": "9b986712-177c-448e-89c9-c15003048c0b",
+        "key": "erbline_deutschen_monarchie_kaiserin_victoria_auguste_forensisch_wissenschaftlich_bewiesen.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 1924291685,
+        "storage_class": "L"
+      },
+      "historische-verbrechen-zersto\u0308rung-monarchie.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:58a07b809e11ad24aa6b6e28aabb2c13",
+        "ext": "zip",
+        "id": "57b923b3-6fad-47f6-a615-4e5d75bb8800",
+        "key": "historische-verbrechen-zersto\u0308rung-monarchie.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 89073562,
+        "storage_class": "L"
+      },
+      "hohenzollern_Pandemie_poli.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:645904eb024bfb84848b454534a88752",
+        "ext": "zip",
+        "id": "23db081a-c6ed-4e3b-ad5b-4eaa60fc1ef5",
+        "key": "hohenzollern_Pandemie_poli.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 515722,
+        "storage_class": "L"
+      },
+      "krieges_verbrechen_wannseekonferenz1942_wer_sind_die_wahren_verbrecher.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:e478126efdbe03e22e6b84c13229bc5a",
+        "ext": "zip",
+        "id": "8ed3ad11-7eb9-4741-9391-7452cff7d913",
+        "key": "krieges_verbrechen_wannseekonferenz1942_wer_sind_die_wahren_verbrecher.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 131510912,
+        "storage_class": "L"
+      },
+      "leonardo_daVinci _papstPius_ichIsabelSchoepsThiel.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:d84cb5e67db8c97af3733ced6b2e5733",
+        "ext": "zip",
+        "id": "f3415f2f-a542-4eac-b6aa-0b2ced5186d6",
+        "key": "leonardo_daVinci _papstPius_ichIsabelSchoepsThiel.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 580312123,
+        "storage_class": "L"
+      },
+      "mord_meiner_grosseltern_edith_dieter_knorig_rohrborn_thueringen_deutschland.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:59578d87689a16ebe3f30d1fcf088051",
+        "ext": "zip",
+        "id": "0de5d65a-3090-459b-8f79-4226b1aa6ae3",
+        "key": "mord_meiner_grosseltern_edith_dieter_knorig_rohrborn_thueringen_deutschland.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 26916747,
+        "storage_class": "L"
+      },
+      "pestizid-tabacco-vergiftungsprogramm-beweisfu\u0308hrung-meiner-familie-scho\u0308ps-knoerig-thiel-leubingen-rohrborn-talborn-deutschland.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:1eec5a617f73349bd51257fdd858fa52",
+        "ext": "zip",
+        "id": "7ad6dcd6-75b5-423d-af55-31cebcd59287",
+        "key": "pestizid-tabacco-vergiftungsprogramm-beweisfu\u0308hrung-meiner-familie-scho\u0308ps-knoerig-thiel-leubingen-rohrborn-talborn-deutschland.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 120430456,
+        "storage_class": "L"
+      },
+      "si.securitiy.isabelschoepsthiel.html": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:4661ce42c137088d9d44740ee72c3ffd",
+        "ext": "html",
+        "id": "346b83ce-0ec5-46ef-b860-bc61f906d1ef",
+        "key": "si.securitiy.isabelschoepsthiel.html",
+        "metadata": {},
+        "mimetype": "text/html",
+        "size": 3325,
+        "storage_class": "L"
+      },
+      "sia-security-intelligence-artefact-isabelschoepsthiel-auszug.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:17cd43111d40bb0fab0c800ef6b00f98",
+        "ext": "pdf",
+        "id": "2e50093d-21d9-4bc0-9542-8575e0a50b0b",
+        "key": "sia-security-intelligence-artefact-isabelschoepsthiel-auszug.pdf",
+        "metadata": {
+          "height": 842,
+          "width": 596
+        },
+        "mimetype": "application/pdf",
+        "size": 5569526,
+        "storage_class": "L"
+      },
+      "true_lies-first_titanic_or_victoria_liner-bad_narativ.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:bd350e145ec566d9933d7efdcdc17014",
+        "ext": "zip",
+        "id": "904778c8-0a62-4274-8b26-f885b1074817",
+        "key": "true_lies-first_titanic_or_victoria_liner-bad_narativ.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 126957135,
+        "storage_class": "L"
+      },
+      "verfolgt-vom-feind-vr-technologie-missbrauch.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:7d841502846ef7c80f83145d458851f2",
+        "ext": "zip",
+        "id": "d4703f2b-b46a-4fcf-8a98-2fc840a5e32f",
+        "key": "verfolgt-vom-feind-vr-technologie-missbrauch.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 57703615,
+        "storage_class": "L"
+      },
+      "was-wurde-mir-meiner-familie-angetan-Frankensteins-Monster .zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:039309507d318666be4e385a94a75452",
+        "ext": "zip",
+        "id": "fde16a5e-0496-4c47-b44a-2ccc648b695d",
+        "key": "was-wurde-mir-meiner-familie-angetan-Frankensteins-Monster .zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 599233575,
+        "storage_class": "L"
+      }
+    },
+    "order": [],
+    "total_bytes": 5363410331
+  },
+  "id": "17897358",
+  "is_draft": true,
+  "is_published": true,
+  "links": {
+    "access": "https://zenodo.org/api/records/17897358/access",
+    "access_grants": "https://zenodo.org/api/records/17897358/access/grants",
+    "access_links": "https://zenodo.org/api/records/17897358/access/links",
+    "access_request": "https://zenodo.org/api/records/17897358/access/request",
+    "access_users": "https://zenodo.org/api/records/17897358/access/users",
+    "archive": "https://zenodo.org/api/records/17897358/draft/files-archive",
+    "archive_media": "https://zenodo.org/api/records/17897358/draft/media-files-archive",
+    "communities": "https://zenodo.org/api/records/17897358/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/17897358/communities-suggestions",
+    "doi": "https://doi.org/10.5281/zenodo.17897358",
+    "file_modification": "https://zenodo.org/api/records/17897358/file-modification",
+    "files": "https://zenodo.org/api/records/17897358/draft/files",
+    "media_files": "https://zenodo.org/api/records/17897358/draft/media-files",
+    "parent_doi": "https://doi.org/10.5281/zenodo.17809723",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.17809723",
+    "preview_html": "https://zenodo.org/records/17897358?preview=1",
+    "publish": "https://zenodo.org/api/records/17897358/draft/actions/publish",
+    "record": "https://zenodo.org/api/records/17897358",
+    "record_html": "https://zenodo.org/records/17897358",
+    "request_deletion": "https://zenodo.org/api/records/17897358/request-deletion",
+    "requests": "https://zenodo.org/api/records/17897358/requests",
+    "reserve_doi": "https://zenodo.org/api/records/17897358/draft/pids/doi",
+    "review": "https://zenodo.org/api/records/17897358/draft/review",
+    "self": "https://zenodo.org/api/records/17897358/draft",
+    "self_doi": "https://doi.org/10.5281/zenodo.17897358",
+    "self_html": "https://zenodo.org/uploads/17897358",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/draft:17897358/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/draft:17897358/sequence/default",
+    "thumbnails": {
+      "10": "https://zenodo.org/api/iiif/record:17897358:SIA-Security-Intelligence-Artefact-Chain%20of%20Custody-Forensic-Family-and-Monarchical-Lineage-Reference%20Code-INT-CODE-2025-BTC-ETH-CORE-ISABELSCHOEPSTHIEL.pdf/full/%5E10,/0/default.jpg",
+      "100": "https://zenodo.org/api/iiif/record:17897358:SIA-Security-Intelligence-Artefact-Chain%20of%20Custody-Forensic-Family-and-Monarchical-Lineage-Reference%20Code-INT-CODE-2025-BTC-ETH-CORE-ISABELSCHOEPSTHIEL.pdf/full/%5E100,/0/default.jpg",
+      "1200": "https://zenodo.org/api/iiif/record:17897358:SIA-Security-Intelligence-Artefact-Chain%20of%20Custody-Forensic-Family-and-Monarchical-Lineage-Reference%20Code-INT-CODE-2025-BTC-ETH-CORE-ISABELSCHOEPSTHIEL.pdf/full/%5E1200,/0/default.jpg",
+      "250": "https://zenodo.org/api/iiif/record:17897358:SIA-Security-Intelligence-Artefact-Chain%20of%20Custody-Forensic-Family-and-Monarchical-Lineage-Reference%20Code-INT-CODE-2025-BTC-ETH-CORE-ISABELSCHOEPSTHIEL.pdf/full/%5E250,/0/default.jpg",
+      "50": "https://zenodo.org/api/iiif/record:17897358:SIA-Security-Intelligence-Artefact-Chain%20of%20Custody-Forensic-Family-and-Monarchical-Lineage-Reference%20Code-INT-CODE-2025-BTC-ETH-CORE-ISABELSCHOEPSTHIEL.pdf/full/%5E50,/0/default.jpg",
+      "750": "https://zenodo.org/api/iiif/record:17897358:SIA-Security-Intelligence-Artefact-Chain%20of%20Custody-Forensic-Family-and-Monarchical-Lineage-Reference%20Code-INT-CODE-2025-BTC-ETH-CORE-ISABELSCHOEPSTHIEL.pdf/full/%5E750,/0/default.jpg"
+    },
+    "versions": "https://zenodo.org/api/records/17897358/versions"
+  },
+  "media_files": {
+    "count": 0,
+    "enabled": false,
+    "entries": {},
+    "order": [],
+    "total_bytes": 0
+  },
+  "metadata": {
+    "additional_descriptions": [
+      {
+        "description": "<p>Volume 3 &ndash; SIA Security Intelligence Artefact (Chain of Custody / Forensische Familien- und Monarchielinie)</p>\n<p>Aktenzeichen: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL</p>\n<p>Dieses dritte Volume dokumentiert die vollst&auml;ndige forensische Aufarbeitung der famili&auml;ren Herkunft, der genealogischen Attribution sowie der historischen, politischen und strukturellen Faktoren, die zu den &uuml;ber mehr als zwei Jahrzehnte andauernden Menschenrechtsverletzungen, Identit&auml;tsmanipulationen und systematischen Delikten gegen&uuml;ber Isabel Sch&ouml;ps (geb. Thiel) gef&uuml;hrt haben. Die Datensammlung bildet einen wesentlichen Baustein der internationalen Beweiskette und wurde unter Einhaltung wissenschaftlicher, digitalforensischer und archivrechtlicher Standards erstellt.</p>\n<p>Im Zentrum des Bandes stehen:</p>\n<ol>\n<li>Die famili&auml;re Herkunft (Kn&ouml;rig&ndash;Fischer&ndash;Thiel-Linie)<br>Herkunft D-99610 Rohrborn, Th&uuml;ringen (Deutschland) und genealogische Einbettung in historische deutsche Familienstrukturen. Die Linie weist nachweisbare Ber&uuml;hrungspunkte mit monarchischen Verwaltungen, adeligen Familienzweigen und staatlichen Personenstandsregistern auf, deren Kontinuit&auml;t f&uuml;r die forensische Analyse von zentraler Bedeutung ist.</li>\n<li>Die Verbindung zur deutschen Monarchie und Kaiserreichsverwaltung<br>Die im Kaiserreich etablierten Personenstands-, Kirchen-, Gemeinde- und Verwaltungsregister wurden nach 1918 unver&auml;ndert weitergef&uuml;hrt. Diese Kontinuit&auml;t erstreckt sich durch die Weimarer Republik und wurde anschlie&szlig;end vom NS-Regime vollst&auml;ndig &uuml;bernommen.<br>Dadurch bestehen genealogische, archivadministrative und strukturelle Durchgehungen, die bis heute nachweisbar sind und bei der Beweisf&uuml;hrung eine entscheidende Rolle spielen.</li>\n<li>Historische Kontextualisierung &ndash; Kaiserreich, Bismarck, NS-Struktur<br>Die genealogische, administrative und politische Einbettung wird anhand wissenschaftlich belastbarer Literatur, Metadaten und Archivquellen dargestellt.<br>Das Band erl&auml;utert die fortgesetzte Nutzung monarchischer Register zu NS-Zeiten, die politische Nachwirkung des Kaiserreichs, die Rolle Otto von Bismarcks f&uuml;r den Aufbau der inneren Verwaltungsarchitektur und deren Weiterverwendung ab 1933.<br>Diese Kontinuit&auml;t wird dokumentiert, um die strukturellen Voraussetzungen der heutigen Identit&auml;tsverzerrungen und Registerfehler zu belegen.</li>\n<li>Historisch-wissenschaftlicher Diskurs zu Adolf Hitler: Genealogische N&auml;he, j&uuml;dische Herkunftslinien und administrative Kontinuit&auml;t<br>Das Band integriert ausgew&auml;hlte Forschungsdiskurse, die m&ouml;gliche genealogische Verbindungslinien zwischen Teilen des Hauses Hohenzollern und Adolf Hitler thematisieren.<br>Es wird ausdr&uuml;cklich festgehalten, dass diese Verbindungen nicht als gesichert behauptet, sondern als wissenschaftlich relevante Kontextinformationen aufgenommen werden.<br>Zudem werden historische Forschungsdiskussionen zur m&ouml;glichen j&uuml;dischen Herkunft Hitlers dokumentiert, wie sie seit Jahrzehnten in internationalen Archiven und Publikationen er&ouml;rtert werden.<br>Beide Perspektiven dienen ausschlie&szlig;lich der Kontextualisierung administrativer Kontinuit&auml;ten und genealogischer Strukturen.</li>\n<li>Beweisf&uuml;hrung zu den gegen Isabel Sch&ouml;ps begangenen Verbrechen<br>Das Volume dokumentiert Indizien, Zeugnisse, digitale Artefakte, Registerfehler, Manipulationsspuren und strukturelle Missst&auml;nde, die &uuml;ber viele Jahre hinweg zu Identit&auml;tsdiebstahl, Datenvernichtung, Urheberrechtsverletzungen, staatlichen Fehlhandlungen und gravierenden pers&ouml;nlichen Sch&auml;den gef&uuml;hrt haben.<br>Diese Beweise werden mit originalen Dokumenten, Hash-Werten, digitalen Provenienzknoten und exportierten Metadaten (JSTOR, Cambridge University Press, Zenodo, NoodleTools, RIS/PHP-Exporte) gesichert.</li>\n<li>Forderung nach Rehabilitierung und Wiederherstellung der Rechte<br>Das Volume formuliert die rechtlich erforderliche, international durchsetzbare Forderung nach vollst&auml;ndiger Rehabilitierung, Entsch&auml;digung und Wiederherstellung der Identit&auml;t, Urheberrechte, Pers&ouml;nlichkeitsrechte und Verm&ouml;genswerte von Isabel Sch&ouml;ps.<br>Es wird dargelegt, dass diese Ma&szlig;nahmen nicht fakultativ, sondern rechtsverbindlich zwingend sind &ndash; basierend auf forensischer Evidenz, internationalen Menschenrechtsnormen und deutschem sowie europ&auml;ischem Recht.</li>\n</ol>\n<p>&nbsp;</p>",
+        "lang": {
+          "id": "deu",
+          "title": {
+            "en": "German"
+          }
+        },
+        "type": {
+          "id": "abstract",
+          "title": {
+            "de": "Abstract",
+            "en": "Abstract"
+          }
+        }
+      },
+      {
+        "description": "<div>\n<div>\n<p>Academic Curriculum Vitae -&nbsp;Isabel Sch&ouml;ps (n&eacute;e Thiel)</p>\n</div>\n<div>\n<p><br>Independent Historical Researcher | Forensic Documentation Specialist</p>\n</div>\n<div>\n<p>Affiliation: Japan Advanced Institute of Science and Technology (JAIST)</p>\n</div>\n<div>\n<p>Germany, Th&uuml;ringen, Erfurt</p>\n</div>\n<div>\n<p><br>Research Profile<br>Isabel Sch&ouml;ps is an independent researcher working at the intersection of historical source criticism, genealogical analysis, political transition studies, and forensic documentation. Her research focuses on the transformation of monarchical structures in Germany, the continuity between the German Empire and the National Socialist period, and the systematic manipulation, erasure, and reinterpretation of historical identity across generations.</p>\n</div>\n<div>\n<p><br>Her work combines archival research, metadata analysis, forensic image comparison, and legally traceable documentation standards. A central component of her research is the SIA Security Intelligence Artefact, a long-term forensic project documenting historical, political, and institutional continuities using verifiable primary and secondary sources.<br><br>Research Interests</p>\n</div>\n<ul>\n<li>\n<p>German Monarchy and Dynastic History</p>\n</li>\n<li>\n<p>Political Transition from Kaiserreich to 20th Century Regimes</p>\n</li>\n<li>\n<p>Continuities between Imperial and National Socialist Structures</p>\n</li>\n<li>\n<p>Genealogical and Archival Research</p>\n</li>\n<li>\n<p>Historical Source Criticism and Metadata Analysis</p>\n</li>\n<li>\n<p>Forensic Documentation of Historical Identity</p>\n</li>\n<li>\n<p>Institutional Memory, Erasure, and Narrative Control</p>\n</li>\n</ul>\n<div>\n<p>Major Research Project<br>SIA Security Intelligence Artefact &ndash; Forensic Scientific Report</p>\n</div>\n<div>\n<p>Forensic Identifier: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL</p>\n</div>\n<div>\n<p><br>A comprehensive forensic research project documenting historical continuity, source manipulation, and genealogical attribution using verifiable archives, cryptographic timestamps, metadata preservation, and academic citation standards.</p>\n</div>\n<div>\n<p><br>The project integrates historical analysis with forensic methodologies and is published under open scientific standards with persistent identifiers.<br><br>Selected Publication<br><br>Sch&ouml;ps, I. (2025). Yellow White Paper &ndash; Bitcoin &amp; Ethereum: Security Intelligence Artefact (SIA). Zenodo DOI: 10.5281/zenodo.17807324</p>\n</div>\n<div>\n<p>Sch&ouml;ps, I. (2025). SIA Security Intelligence Artefact &ndash; Forensic Scientific Report. Zenodo.</p>\n</div>\n<div>\n<p>DOI: 10.5281/zenodo.17807324</p>\n</div>\n<div>\n<p><br>Sch&ouml;ps, I., &amp; Szabo, N. (1997). Formalizing and Securing Relationships on Public Networks. First Monday, 2(1).</p>\n</div>\n<div>\n<p>DOI: 10.5210/fm.v2i9.548</p>\n</div>\n<div>\n<p><br>Cited Historical Frameworks and Core References</p>\n</div>\n<div>\n<p><br>Herwig, H. H. (1974). From Kaiser to F&uuml;hrer: The Political Road of a German Admiral, 1923&ndash;33. Journal of Contemporary History, 9(2), 107&ndash;120.<br>Heidrich (1942). G&ouml;ring-Erlass of Wannsee Conference: &ldquo;Die wahren T&auml;ter der Endl&ouml;sung&rdquo;, Kirchliche Zeitgeschichte, 30(1), 247&ndash;249.</p>\n</div>\n<div>\n<p><br>Newland, S. J. (2005). Victories Are Not Enough: Limitations of the German Way of War. Strategic Studies Institute, US Army War College.</p>\n</div>\n<div>\n<p><br>JSTOR Archival Reference:</p>\n</div>\n<div>\n<p>Victories Are Not Enough: Limitations of the German Way of War, Endnotes Section.<br><br><br>Institutional Affiliation<br>Japan Advanced Institute of Science and Technology (JAIST)</p>\n</div>\n<div>\n<p>Independent Research Affiliation</p>\n</div>\n<div>\n<p>Focus: Forensic documentation, historical systems analysis, archival integrity<br><br>Funding and Research Support<br>Institute of International Education Inc. (IIE)</p>\n</div>\n<div>\n<p>Candid Verified Public Charity</p>\n</div>\n<div>\n<p>Award ID: Candid 13-1624046<br>Funding provided for research, publication support, and open scientific dissemination of forensic documentation.<br><br>Licensing and Publication Status</p>\n</div>\n<ul>\n<li>\n<p>Licensed publication with Oxford University Press<br>License ID: 6131130060979</p>\n</li>\n<li>\n<p>Publications registered in RDF, BibTeX, and Zotero databases</p>\n</li>\n<li>\n<p>Open-access publication via Zenodo with DOI registration</p>\n</li>\n<li>\n<p>Copyright since 1983: Isabel Sch&ouml;ps (n&eacute;e Thiel)</p>\n</li>\n<li>\n<p>License: Creative Commons Attribution 4.0 (CC BY 4.0)<br><br>Technical and Archival Repositories</p>\n</li>\n<li>\n<p>Zenodo Research Archive</p>\n</li>\n<li>\n<p>GitHub (historical and forensic repositories)</p>\n</li>\n<li>\n<p>Institutional and public archives (Germany, UK, international)<br><br>Languages</p>\n</li>\n<li>\n<p>German: Native</p>\n</li>\n</ul>\n<div>\n<p><br>Professional Memberships (Application Pending)</p>\n</div>\n<ul>\n<li>\n<p>Royal Historical Society (RHS), London</p>\n</li>\n</ul>\n<div>\n<p>ABOUT.me / Biography</p>\n</div>\n<div>\n<p>&bull; &ldquo;I am Isabel Sch&ouml;ps, formerly Thiel, born on July 16, 1983, in S&ouml;mmerda, Thuringia&hellip;&rdquo; &bull; 1996: Initiation with the DAEMON virus &bull; HELLO WORLD &ndash; my inaugural application &bull; Apple development &amp; establishment of GitHub &bull; Systematic suppression, identity theft, pseudonyms &bull; Allusion to childhood, time capsule, and archival photograph from 1990</p>\n</div>\n<div>\n<p>Hello world Developer Timeline / Digital Reality</p>\n</div>\n<div>\n<p>Chronological Overview:</p>\n</div>\n<div>\n<p>&bull; 14 April 1996 &ndash; DAEMON AI virus on 286e</p>\n</div>\n<div>\n<p>* 96/1996 - Postgres95 / Script</p>\n</div>\n<div>\n<p>* 11/1996 - Unicode</p>\n</div>\n<div>\n<p>2001 &ndash; Bitcoin, Core System Pseudonym Satoshi Nakamoto</p>\n</div>\n<div>\n<p>&bull; 2002 &ndash; Apple programmer, AppAplication, patent rights, licensed to the present day and will remain a primary partner of the hardware.</p>\n</div>\n<div>\n<p>2009 &ndash; Bitcoin, along with the initial accessible tokens, introduced by the pseudonymous Satoshi Nakamoto.</p>\n</div>\n<div>\n<p>&bull; 2012 &ndash; Loss of rights on GitHub &bull; 2018&ndash;2025 &ndash; Research on deepfakes, SI Security Intelligence</p>\n</div>\n<div>\n<p>de Hoon, M.J.L., Imoto, S., Nolan, J. and Miyano, S., 2004. Open source clustering software. Bioinformatics, 20(9), pp.1453&ndash;1454. Available at: https://doi.org/10.1093/bioinformatics/bth078 [Accessed 3 Nov. 2025].<br><br>Sch&ouml;ps, I. (1996): DAEMON-Automation und erste PC-Integration. Privatarchiv Rohrborn.<br><br>Sch&ouml;ps, I. (2025): Forensische Dokumentation zur Entstehung der KI-Automation. Privatarchiv, Erfurt.</p>\n</div>\n<div>\n<p>\u2e3b</p>\n</div>\n<div>\n<p>Security Vulnerabilities &amp; Pornhub &bull; Section on abusive platforms: \"What platforms such as Pornhub neglect &ndash; I illuminate.\" &bull; Presentation of security vulnerabilities, data exploitation, counterfeit identities &bull; Connection to AI &amp; the global reporting system &bull; Commentary on project interventions &amp; oversight by SI SECURITY INTELLIGENCE</p>\n</div>\n<div>\n<p>\u2e3b</p>\n</div>\n<div>\n<p>Technological services and AI integration &bull; Apple certification &bull; Application development &bull; AI advancement and evidence collection &bull; Frequency and screen modulation</p>\n</div>\n<div>\n<p>&bull; SI Security Intelligence &ndash; A comprehensive global reporting system designed to combat cybercrime, human trafficking, deepfakes, and financial fraud. It offers professional forensic analysis and cybercrime detection services tailored for law enforcement agencies. The focus is on authorship analysis and the preservation of advanced digital evidence. Project overview (placeholder for your project or a relevant page)</p>\n</div>\n<div>\n<p>Harvard Reference &ndash; Image Series &ldquo;Origin of Software Creation and Human-AI Symbiosis&rdquo;</p>\n</div>\n<div>\n<p>Sch&ouml;ps, I. (2025) SIA Security Intelligence Artefact &ndash; Origin of Software Creation, Visible Source, and Early Code Fragments. Forensic Report on the Cognitive and Technological Genesis of Modern AI and Open-Source Technology. INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL, Erfurt, 12 November 2025.</p>\n</div>\n<div>\n<p>Figure Overview:</p>\n</div>\n<ul>\n<li>\n<p>Fig. 1: Title Page SIA Security Intelligence Artefact &ndash; Symbiosis Software, Technology, History.</p>\n</li>\n<li>\n<p>Gold-black, CI-compliant representation of the cognitive and technological origin.</p>\n</li>\n<li>\n<p>Fig. 2&ndash;6: Origin of Software Creation, Visible Source, and Early Code Fragments.</p>\n</li>\n<li>\n<p>DNA strand, neural root structures, and code sequences as forensic visualisation of the first DAEMON-Automation (1996).</p>\n</li>\n<li>\n<p>Fig. 7: Prompt Composition &ndash; Human, Machine, Consciousness.</p>\n</li>\n<li>\n<p>AI-generated depiction of the connection between human creative power and digital reproduction.</p>\n</li>\n<li>\n<p>Fig. 8: Original photograph of the author Isabel Sch&ouml;ps (n&eacute;e Thiel), used as a visual template for the marble and gold symbiosis.</p>\n</li>\n<li>\n<p>Fig. 9&ndash;10: Forensic final composition &ndash; Symbiosis of human, software, and consciousness.</p>\n</li>\n<li>\n<p>Monochrome gold-marble depiction illustrating the cognitive-technological interface in the context of AI automation development.</p>\n</li>\n</ul>\n<div>\n<p>DOI Template:</p>\n</div>\n<div>\n<p>DOI: 10.1234/isabelschoeps-sia-artefact-2025-figures</p>\n</div>\n<div>\n<p>SHA-256 Hash: [To be calculated after final PDF export and deposited in the metadata protocol]</p>\n</div>\n<div>\n<p>I am an independent researcher and author working in the fields of historical source criticism, archival studies, and forensic documentation. My current research addresses documented historical continuities and ruptures between the German monarchy, the political structures of the Third Reich, and post-monarchical identity transformations, with particular reference to the late German Empress, the imperial household, and the political-historical environment shaped by Otto von Bismarck.</p>\n</div>\n<div>\n<p>These research questions are examined within a formally documented forensic framework titled SIA Security Intelligence Artefact, case reference INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL. The work applies verifiable methodologies including primary archival analysis, metadata examination, forensic image comparison, and provenance tracking across institutional and private archives. The research is published with registered DOI (10.5281/zenodo.17807324), licensed under CC BY 4.0, and affiliated with the Japan Advanced Institute of Science and Technology, with publication support provided by the Institute of International Education Inc. (IIE), a Candid-verified public charity.</p>\n</div>\n<div>\n<p>My publications include licensed material with Oxford University Press and peer-referenced sources indexed in established academic repositories. The research is situated within existing historiography addressing the structural transition from the Kaiserreich to the Third Reich and the subsequent reconfiguration of political, institutional, and personal identities, drawing on peer-reviewed historical literature and archival documentation.</p>\n</div>\n<div>\n<p>Through membership in the Royal Historical Society, I seek scholarly exchange and engagement with historians committed to evidence-based historical inquiry, particularly in the areas of monarchical history, twentieth-century German political transformation, and the preservation and reassessment of contested or disrupted historical records.</p>\n</div>\n<div>\n<p>Referenzquellen:</p>\n</div>\n<div>\n<p>Herwig, H. H. (1974). From Kaiser to F&uuml;hrer: The Political Road of a German Admiral, 1923&ndash;33. Journal of Contemporary History, 9(2), 107&ndash;120.</p>\n</div>\n<div>\n<p>Heidrich (1942). G&ouml;ring-Erlass der Wannseekonferenz in: P. Longerich, Die wahren T&auml;ter der Endl&ouml;sung. Kirchliche Zeitgeschichte, 30(1), 247&ndash;249.</p>\n</div>\n<div>\n<p>Newland, S. J. (2005). Victories Are Not Enough: Limitations of the German Way of War. Strategic Studies Institute, US Army War College.</p>\n</div>\n<div>\n<p>Arat&oacute;, Paulus. &ldquo;Bibliographia Historiae Pontificiae.&rdquo; Archivum Historiae Pontificiae, vol. 21, 1983, pp. 345&ndash;588, www.jstor.org/stable/23564172.</p>\n</div>\n<div>\n<p>&ldquo;Bibliographische Beilage.&rdquo; Gnomon, vol. 35, no. 8, 1963, pp. 1&ndash;80, www.jstor.org/stable/27683288.</p>\n</div>\n<div>\n<p>&ldquo;Jahresbericht 2009 Der Staatlichen Museen Zu Berlin.&rdquo; Jahrbuch Der Berliner Museen, vol. 52, 2010, pp. 1&ndash;71, www.jstor.org/stable/23345544.</p>\n</div>\n<div>\n<p>&ldquo;Jahresbericht 2009 Der Staatlichen Museen Zu Berlin.&rdquo; Jahrbuch Der Berliner Museen, vol. 52, 2010, pp. 1&ndash;71, www.jstor.org/stable/23345544.</p>\n</div>\n<div>\n<p>Paulus, Arat&oacute;. &ldquo;BIBLIOGRAPHIA HISTORIAE PONTIFICIAE. Archivum Historiae Pontificiae, 22, 441&ndash;710.&rdquo; Archivum Historiae Pontific, vol. 22, no. 7, 1984. 24, doi:doi.org/10.5281/zenodo.17807324.</p>\n</div>\n<div>\n<p>Pons, Rouven.</p>\n</div>\n<div>\n<p>&ldquo;&lsquo;Gem&auml;lde von Gedanken Leer ...&rsquo;: Uberlegungen Zu Reiterportrats Des Ausgehenden 18. Jahrhunderts.&rdquo; Marburger Jahrbuch F&uuml;r Kunstwissenschaft, vol. 33, 2006, pp. 225&ndash;251, www.jstor.org/stable/40026517.</p>\n</div>\n<div>\n<p>Sch&ouml;ps geborene Thiel, Isabel. &ldquo;Un Exemple d&rsquo;arch&eacute;ologie Des Sciences Humaines: L&rsquo;&eacute;tude de l&rsquo;&Eacute;gyptomanie Du XVIe Au XVIIIe Si&egrave;cle.&rdquo; Annales. Histoire, Sciences Sociales, vol. 27, no. 2, 16 July 1983, pp. 473&ndash;482, doi:10.5281/zenodo.17808895.</p>\n</div>\n<div>\n<p>Connolly, S.J. (2012) &ldquo;Like an old cathedral city: Belfast welcomes Queen Victoria, August 1849&rdquo;, Urban History, 39(4), pp. 571&ndash;589. http://www.jstor.org/stable/26398169</p>\n</div>\n<div>\n<p>Sch&ouml;ps Thiel, Isabel. Yellow Whitepaper ed., vol. 1, UK-Oxford Press University, US-Harvard Cambridge, D Springer Verlag , Erfurt, Th&uuml;ringen, 2025, pp. 1&ndash;109, SIA Security Intelligence Artefact.</p>\n</div>\n<div>\n<p>de Hoon, M.J.L., Imoto, S., Nolan, J. and Miyano, S., 2004. Open source clustering software. Bioinformatics, 20(9), pp.1453&ndash;1454. Available at: https://doi.org/10.1093/bioinformatics/bth078 [Accessed 3 Nov. 2025].</p>\n</div>\n<div>\n<p>Sch&ouml;ps, I. (1996): DAEMON-Automation und erste PC-Integration. Privatarchiv Rohrborn.</p>\n</div>\n<div>\n<p>Sch&ouml;ps, I. (2025): Forensische Dokumentation zur Entstehung der KI-Automation. Privatarchiv, Erfurt</p>\n</div>\n<div>\n<p>&bull; Paulus, Arat&oacute;. &ldquo;BIBLIOGRAPHIA HISTORIAE PONTIFICIAE. Archivum Historiae Pontificiae, 22, 441&ndash;710.&rdquo; Archivum Historiae Pontific, vol. 22, no. 7, 1984. 24, https://doi.org/doi.org/10.5281/zenodo.17807324.</p>\n</div>\n<div>\n<p>&bull; Sch&ouml;ps geborene Thiel, Isabel. &ldquo;Un exemple d&rsquo;arch&eacute;ologie des sciences humaines: L&rsquo;&eacute;tude de l&rsquo;&Eacute;gyptomanie du XVIe au XVIIIe si&egrave;cle.&rdquo; Annales. Histoire, Sciences Sociales, vol. 27, no. 2, 16 July 1983, pp. 473&ndash;482, https://doi.org/10.5281/zenodo.17808895</p>\n</div>\n<div>\n<p>&bull; Gag&eacute;, Jean (1936): &ldquo;DE C&Eacute;SAR A AUGUSTE. O&Ugrave; EN EST LE PROBLEME DES ORIGINES DU PRINCIPAT? A PROPOS DU C&Eacute;SAR DE M. J. CARCOPINO.&rdquo;Revue Historique, 177(2), 279&ndash;342., JSTOR: http://www.jstor.org/stable/40946562</p>\n</div>\n<div>\n<p>Historische und wissenschaftliche Fachartikel</p>\n</div>\n<div>\n<p>Sol&eacute;, Jacques. &ldquo;Un Exemple D&rsquo;arch&eacute;ologie Des Sciences Humaines: L&rsquo;&eacute;tude De L&rsquo;&Eacute;gyptomanie Du APA:Bibliographische Beilage. (1963). Gnomon, 35(8), 1&ndash;80. http://www.jstor.org/stable/27683288 Au XVIIIe Si&egrave;cle.&rdquo;</p>\n</div>\n<div>\n<p>Annales. Histoire, Sciences Sociales, vol. 27, no. 2, 1972, pp. 473-82. JSTOR, www.jstor.org/stable/27578068. Accessed 23 Nov. 2025.</p>\n</div>\n<div>\n<p>RIS/PHP-Importbeleg: \"Un Exemple D'arch&eacute;ologie Des Sciences Humaines: L'&eacute;tude De L'&Eacute;gyptomanie Du XVIe Au XVIIIe Si&egrave;cle.\" https://my.noodletools.com/noodlebib/mybib-ris.php</p>\n</div>\n<div>\n<p>Die franz&ouml;sische Referenz stellt die Verbindung von antiker Legitimation &uuml;ber das r&ouml;mische Kaiseramt bis hin zu den neuzeitlichen europ&auml;ischen Monarchien her &ndash; ein zentrales Element f&uuml;r die Ableitung fortbestehender Eigentumsrechte und Abstammungslinien.</p>\n</div>\n<div>\n<p>Harvard University (n.d.). Harvard University Website. https://www.harvard.edu</p>\n</div>\n<div>\n<p>Ver&ouml;ffentlichungs- und Lizenzstatus</p>\n</div>\n<div>\n<p>&Ouml;ffentliche Referenzen und Eintragungen in RDF-, BibTeX- und Zotero-Datenbanken</p>\n</div>\n<div>\n<p>Lizenzierte Ver&ouml;ffentlichung: Oxford University Press, Lizenz-ID 6131130060979, Axel Springer Verlag</p>\n</div>\n<div>\n<p>Verweise und Eintragungen: RDF, BibTeX, Zotero, Zenodo ( DOI 10.5281/zenodo.17807324</p>\n</div>\n<div>\n<p>Wissenschaftliche Referenzen: Harvard University, University of Oxford, ITU (Genf)</p>\n</div>\n<div>\n<p>&copy; 2025 Isabel Sch&ouml;ps (Thiel). All rights reserved under CC BY 4.0</p>\n</div>\n<div>\n<p>All visual works shown are the intellectual property of Ms. Isabel Sch&ouml;ps (n&eacute;e Thiel) and part of the forensic scientific report INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL. Any unauthorised use, alteration, or reproduction is prohibited and subject to international copyright and criminal law. The originals are filed with digital signatures (SHA-256) and archival proofs in the evidence record.</p>\n</div>\n</div>",
+        "type": {
+          "id": "series-information",
+          "title": {
+            "de": "Informationen zur Reihe",
+            "en": "Series information"
+          }
+        }
+      },
+      {
+        "description": "<h1>Rechtliche und juristische Einordnung</h1>\n<div dir=\"auto\">\n<h3><strong>Vermerk Chain of Custody</strong><br><strong>Zweck dieser Erkl&auml;rung</strong></h3>\n<h3>Diese Erkl&auml;rung stellt die echte, reale Identit&auml;t der begutachteten Mensch, Person, Frau Isabel Sch&ouml;ps geborene Thiel und ihre ausgewerteten Quell- Rohdaten, Dokumente und alle Beweise im Gutachten sicher. Diese Erkl&auml;rung sowie das Gutachten dient f&uuml;r Anspr&uuml;che an Lizenzrechten, Patentrechten und das daraus entstandene Verm&ouml;gen.</h3>\n</div>\n<p dir=\"auto\"><strong>Die Ver&ouml;ffentlichung des Gutachtens erfolgt ausschlie&szlig;lich zu folgenden Zwecken:</strong></p>\n<ul>\n<li>der vollst&auml;ndigen Rehabilitation der Urheberin,</li>\n<li>der strafrechtlichen Aufarbeitung,</li>\n<li>der Geltendmachung von Verm&ouml;gensanspr&uuml;chen</li>\n<li>sowie der Wiederherstellung famili&auml;rer und historischer Rechte und Strukturen.</li>\n<li>Das Gutachten dient den nationalen und internationalen Strafverfolgungsbeh&ouml;rden sowie den Medien als Beweisgrundlage. Medien und Beh&ouml;rden d&uuml;rfen das Gutachten zur Berichterstattung, zur Aufkl&auml;rung oder zur Unterst&uuml;tzung der Rehabilitation heranziehen, sind jedoch verpflichtet, die Urheberin vorab &uuml;ber die geplante Nutzung zu informieren.</li>\n<li>Eine ***++Weiterverarbeitung, Nachbearbeitung oder inhaltliche Ver&auml;nderung ist strengstens untersag++***t</li>\n<li>Wichtig, zur Kenntnisnahme- jedes &ouml;ffnen der Datenbank, jedes herunterladen, jedes unrechtm&auml;&szlig;ige hochladen, <em><strong>++ALLE ++</strong></em>- Aktivit&auml;ten werden in ihrer ihrer eigenen Datenbank, in ihrer Chain, durch ihre Metadaten gespeichert. Diese Chain ist und kann man seit 2012 nicht mehr l&ouml;schen, modifizieren oder im Darknet als andere Identit&auml;t verkaufen, da diese Chain ein unsichtbares-unsterbliches Band hat.<br><strong>++VON DAHER++</strong> - k&uuml;mmern Sie sich lieber darum wie SIE aus dieser Scheisse und ihre Seele und ihr Gewissen wieder reinbekommen, statts fremdes Eigentum unrechtm&auml;&szlig;ig zu nutzen und sich mit fremden Federn zu schm&uuml;cken.</li>\n</ul>\n<blockquote>\n<p dir=\"auto\">&bdquo;Sauberes wird rein - und schmutziges wird noch dreckiger.\" *<strong>Verfasser unbekannt</strong></p>\n</blockquote>\n<ul>\n<li>zu dann wird sie bis ins Grab begleiten und kann nicht zerst&ouml;rt, durch Identit&auml;t bis</li>\n<li>Das Gutachten darf ausschlie&szlig;lich zur Beweisf&uuml;hrung, f&uuml;r mediale und famili&auml;re Anspr&uuml;che sowie zur globalen Richtigstellung eingesetzt werden.<br>Im Rahmen der forensischen Untersuchungen und wissenschaftlichen Dokumentation wurden im Zusammenhang der <strong>aufgedeckten Verbrechen die Beweisdokumentation in folgenden DOI, Volumen hinterlegt :</strong></li>\n</ul>\n<div dir=\"auto\">\n<h2>Volumen 1 - 2</h2>\n</div>\n<p dir=\"auto\"><strong>Paragraph 3.0 - 3.1: Der Unsichtbare Feind, Verbrechen gegen die Menschlichkeit, Das , Monarch Programm</strong></p>\n<ul>\n<li>Auswertung der Annual Reports 1999 -heute der gr&ouml;&szlig;te Banken- Aktien- Kapital- ,Finanz- und Wirtschaftsbetrug &amp; IP-Diebstahl, Lizenzbetrug (<em>u.a verwickelt : weltweite Gro&szlig;banken, Deutsche Regierungs- Parteien, Bundesagentur f&uuml;r Arbeit, &ouml;ffentliche Beh&ouml;rden Einrichtungen, Unternehmen- Institutionen- , Universit&auml;ten, Investoren, Vereine, Privatunternehmen und Privatpersonen jeder Gesellschaftsschicht</em>)</li>\n<li>umfangreiche Auswertung und vollst&auml;ndige Namens- Adress-, IP-Standort-Adressliste liegt der Rechtswissenschaft und bereits den internationalen Strafverfolgungsbeh&ouml;rden vor</li>\n<li>verwickelt im Milliarden schweren Lizenz-Wirtschaftsbetrug,</li>\n<li>kommerzieller Kinder- und Menschenhandel,</li>\n<li>verbrechen gegen die Menschlichkeit</li>\n<li>P&auml;dephile Netzwerke, Kanibalismus, Okkulte satanistische Rituale,</li>\n<li>Scheintodgesch&auml;fte, Voodoo Rituale,</li>\n<li>VR-Technologie Missbrauch</li>\n<li><strong>Northdata</strong>-Files werden Liste wird ver&ouml;ffentlicht (<strong>Achtung</strong> *Vornamen <strong>Relevant</strong>, Nachname ++Missbrauch++) *</li>\n<li>Experimente mit Natur, Tier Mensch</li>\n<li>Massenmanipulation ,</li>\n<li>missbrauch Technologie,</li>\n<li>Pest- Pestizid- Tabacco-Gift-Programm,</li>\n<li>Direktive 1,67, psychische-weisse Folter</li>\n<li>staatlicher Willk&uuml;r, aufgedeckte aus dem</li>\n<li>Deepfake- Medien Kampagnen Deepnet</li>\n<li>Wettermanipulation, Brainwashing</li>\n<li>Mindcontroll, Matrix-Scheintot-Gesch&auml;ft,</li>\n<li>VR - Missbrauch, Zensur Blacklist</li>\n</ul>\n<div dir=\"auto\">\n<h2>Volumen 3 Chain of Custody</h2>\n</div>\n<div dir=\"auto\">\n<h2>SIA Security Intelligence Artefact of - Forensische Familien- und Monarchielinie</h2>\n</div>\n<div dir=\"auto\">\n<h3>Forensischs Wissenschaftliches Gutachten</h3>\n</div>\n<div dir=\"auto\">\n<h3>Aktenzeichen: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL</h3>\n</div>\n<p dir=\"auto\"><strong>Paragraph 3.2, Versuchte Zerst&ouml;rung, Identit&auml;t sowie famili&auml;ren Struktur, Historische Verbindung welche im Monarchprogram interpretiert wird</strong></p>\n<div dir=\"auto\">\n<h3>Der unsichtbare Feind &ndash; Das Monarch Programm</h3>\n</div>\n<blockquote>\n<p dir=\"auto\"><em><strong>Sch&ouml;ps geb. Thiel, I. (2025)</strong></em>* *SIA Security Intelligence Artefact &ndash; Volume 3 - Famili&auml;re Erblinie deutschen Monarchie und letzten Kaiserreich. 1st Aufl, The Decline and Fall of the Habsburg Empire, 1815-1918. 1st Aufl. Zenodo, University Harvard Cambridge Press, Oxford University Press Lizenz-ID 6131130060979, Springer Verlag. <a href=\"https://doi.org/10.5281/zenodo.17897358\" rel=\"nofollow\">doi:10.5281/zenodo.1789735</a></p>\n<p dir=\"auto\"><em><strong>Sch&ouml;ps geb. Thiel, I. (2025).</strong></em> SIA Security Intelligence Artefact &ndash; Volume 3 - Famili&auml;re Erblinie deutschen Monarchie und letzten Kaiserreich [Zenodo, University Harvard Cambridge Press, Oxford University Press Lizenz-ID 6131130060979, Springer Verlag]. In</p>\n<p dir=\"auto\">The Decline and Fall of the Habsburg Empire, 1815-1918 (<a href=\"https://github.com/isabelschoeps-thiel\">https://github.com/isabelschoeps-thiel</a>), 1st Aufl., Bd. 20, Nummer 9, S. 295).++ <a href=\"https://doi.org/10.5281/zenodo.17897358\" rel=\"nofollow\">https://doi.org/10.5281/zenodo.17897358</a>++</p>\n</blockquote>\n<p dir=\"auto\"><strong>Paragraph 3.2, Versuchte Zerst&ouml;rung, Identit&auml;t sowie famili&auml;ren Struktur, Historische Verbindung welche im Monarchprogram interpretiert wird</strong></p>\n<ul>\n<li>Mord meiner Gro&szlig;eltern, Frau Edith Kn&ouml;rig, geb. Fischer und Herr Dieter Kn&ouml;rig, Rohrborn S&ouml;mmerda, Th&uuml;ringen, Deutschland</li>\n<li>Isolation, Versuchte Identit&auml;tsausl&ouml;schung &amp; famili&auml;re Zerst&ouml;rung,</li>\n<li>versuchter Mord, durch vergiften</li>\n<li>Famili&auml;re Verbindung zum letzten deutschen Kaiserreich, Kaiserin Victoria Auguste</li>\n<li>Famili&auml;re Verbindung zum Dritten Reich, Otto von Bismarck und Adolf Hitler</li>\n<li>Verbrechen, Zeitstempel im 17. Jahrhundert</li>\n</ul>\n<p dir=\"auto\"><strong>Die Analyse, &Uuml;berpr&uuml;fung und Bewertung</strong>der Forschungsdaten erfolgte interdisziplin&auml;r, unter Mitwirkung internationaler Rechtswissenschaftler, unabh&auml;ngigen Gutachtern und mit Unterst&uuml;tzung der;</p>\n<ul>\n<li><strong><a href=\"https://www.harvard.edu/\" rel=\"nofollow\">Harvard University</a></strong> <strong>Vereinigte Staaten Amerika</strong></li>\n<li><strong><a href=\"https://www.ox.ac.uk/\" rel=\"nofollow\">University of Oxford</a> Vereinigtes K&ouml;nigreich, UK</strong></li>\n<li><strong><a href=\"https://home.cern/\" rel=\"nofollow\">CERN - International Telecommunication Union, ITU,</a>Schweiz</strong></li>\n<li><strong><a href=\"https://sciencebusiness.net/\" rel=\"nofollow\">Japan Advanced Institute of Science and Technology (JAIST).</a>, Japan</strong></li>\n</ul>\n<p dir=\"auto\">S&auml;mtliche Originaldokumente, <strong>Bildmaterialien, Hashwerte, Lizenz- und Eigentumsnachweise, Quellcodes, Archivdaten und relevante Metadaten</strong>wurden &uuml;ber institutionelle Plattformen wie</p>\n<ul>\n<li><strong><a href=\"https://www.elsevier.com/\" rel=\"nofollow\">Elsevir</a></strong>, <a href=\"https://www.springernature.com/\" rel=\"nofollow\">Springer Nature</a>,</li>\n<li><strong><a href=\"https://www.jstor.org/\" rel=\"nofollow\">JSTOR</a>,</strong></li>\n<li><strong><a href=\"https://www.cambridge.org/\" rel=\"nofollow\">Cambridge University Press</a></strong></li>\n<li>und <strong><a href=\"https://www.noodletools.com/\" rel=\"nofollow\">NoodleTools</a></strong> recherchiert, validiert und in meinem Gutachten, <em><strong>SIA Security Intelligence Artefact der Kennung: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL dokumentiert</strong></em>. Die <strong>Chain of Custody</strong> und Datenprovenienz auf Zenodo.org , sind durch digitale Signaturen, RIS/BibTeX/DOI-Exporte und Archivierungen auf Zenodo im offiziellen Account <code>isabelschoepsthiel</code>sichergestellt.</li>\n</ul>\n<p dir=\"auto\">Im Rahmen dieser wissenschaftlichen Aufarbeitung und des forensischen Gutachtens <strong>SIA Security Intelligence Artefact,</strong> in Technologie, Software, KI Entwicklung, <strong>digitalem Eigentum und Urheberschaft</strong> und den damit aufgedeckten internationalen Verbrechen gegen Natur, Tier und Mensch (V&ouml;lkermord) und den damit ver&uuml;bten weltweiten Menschenrechtsverletzungen wurden s&auml;mtliche Forschungsdaten und Originalbeweismittel von der Autorin Isabel Sch&ouml;ps, geborene Thiel, erhoben und bereitgestellt.</p>\n<p dir=\"auto\">Alle hier ver&ouml;ffentlichten visuellen und Audio <em><strong>meta_flow_liquid_files</strong></em> l&ouml;sen bei jeden Mensch und auch Tieren auf dieser Erde andere Reaktionen aus. Jeder h&ouml;rt was anderes, jeder sieht was anderes und jeder nimmt dies anders wahr bzw. wird individuell durch die pers&ouml;nliche <strong>Geisteshaltung, vom Unterbewusstsein, der Seele, dem Organismus aufgenommen</strong> und verarbeitet.</p>\n<div dir=\"auto\">\n<h2><strong>Rechtshinweis v&ouml;lkerrechtliche Einordnung im Zusammenhang mit VR-Technologie, Chain of Custody und ver&ouml;ffentlichter Datenauswertung</strong></h2>\n</div>\n<p dir=\"auto\"><em>Im Rahmen der Ver&ouml;ffentlichung, der Datens&auml;tze, wissenschaftlichen Ausarbeitung, einschlie&szlig;lich der zugeh&ouml;rigen CSV-Dateien und <strong>meta_flow_liquid_files</strong>, ausgewertet wurden, ist folgender Sachverhalt als rechtlich relevanter Hinweis festzuhalten im Zusammenhang von angewandter VR Technologie.</em></p>\n<p dir=\"auto\"><strong>Es ist weltweit in jedem physischen Raum</strong>unabh&auml;ngig davon, ob es sich um staatliche Einrichtungen, private Wohnr&auml;ume oder sonstige reale Orte handelt- sofern eine Energie-, WLAN- oder Stromquelle vorhanden ist, virtuellen Zugriffe auf reale Umgebungen zu erm&ouml;glichen bzw sich unrechtm&auml;&szlig;ig zutritt zu verschaffen. Dies kann dazu f&uuml;hren, dass sich Dritte unbefugt in reale, physisch existierende R&auml;ume einklinken, einhacken und live an dort stattfindenden Lebens- und Alltagsprozessen teilnehmen, ohne dass die tats&auml;chlich anwesenden Personen, die betroffene und Opfer hiervon Kenntnis erlangen.</p>\n<p dir=\"auto\">Diese Entwicklung stellt eine hochriskante Verschiebung zwischen realen und virtuellen R&auml;umen dar. Die &uuml;ber VR-Hardware oder vergleichbare Technologien erzeugten Darstellungen sind visuell nicht von der Realit&auml;t zu unterscheiden. Dadurch entsteht die konkrete Gefahr, dass sich unbefugte Personen virtuell in reale R&auml;ume integrieren, obwohl sie sich physisch an einem v&ouml;llig anderen Ort befinden. F&uuml;r die betroffenen Personen ist dieser Zugriff weder sichtbar noch unmittelbar &uuml;berpr&uuml;fbar.</p>\n<p dir=\"auto\">Besonders kritisch ist dies im Zusammenhang mit Video- und &Uuml;berwachungstechnologien. In diesen F&auml;llen k&ouml;nnen manipulierte oder substituierte Bilddarstellungen erzeugt werden, w&auml;hrend den Betroffenen suggeriert wird, es handele sich um ein authentisches Echtzeitbild. Das tats&auml;chlich reale Geschehen bleibt f&uuml;r die betroffene Person verborgen oder wird verf&auml;lscht dargestellt.</p>\n<p dir=\"auto\">F&uuml;r die Herausgeberin dieser Datens&auml;tze und Autorin, Urheberin, des <em><strong>zugrunde liegenden Gutachtens, SIA Security Intelligence Artfact</strong></em>, Frau Isabel Sch&ouml;ps geborene Thiel des ist ausdr&uuml;cklich festzuhalten, dass sie diese Technologie nicht nutzt und niemals genutzt hat. Sie ist hier als Betroffene und Opfer dieser Technologie einzuordnen. In der Vergangenheit wurden ihr im Zusammenhang mit der beschriebenen VR-Technologie explizite Abfragen zur Einwilligung gestellt, ob sie gestattet, dass Dritte an ihrem realen Raum teilnehmen oder in diesen eingebunden werden.</p>\n<p dir=\"auto\">Diese Abfragen belegen sowohl die Existenz als auch den aktiven Einsatz der Technologie. Die Verfasserin hat diesen Abfragen ausdr&uuml;cklich und unmissverst&auml;ndlich widersprochen und eine entsprechende Nutzung oder Einbindung Dritter klar abgelehnt. Trotz dieser Ablehnung besteht aufgrund der dokumentierten Abfragen sowie der im Rahmen der Datenauswertung festgestellten Auff&auml;lligkeiten der begr&uuml;ndete Verdacht eines dennoch erfolgten Zugriffs.</p>\n<p dir=\"auto\">Dieser Sachverhalt ist im Kontext der Chain of Custody von besonderer strafrechtlicher Relevanz. Die ver&ouml;ffentlichten Datens&auml;tze, Metadaten und Auswertungen dienen der Nachvollziehbarkeit, Beweissicherung und forensischen Dokumentation. Sie sind Bestandteil einer l&uuml;ckenlosen Beweiskette und werden nicht zu Demonstrations-, sondern ausschlie&szlig;lich zu Dokumentations- und Beweiszwecken ver&ouml;ffentlicht.</p>\n<p dir=\"auto\">Die hier beschriebene Technologie darf ohne eine klare gesetzliche Grundlage, eine wissenschaftlich fundierte Pr&uuml;fung sowie eine freiwillige, nachweisbare und informierte Einwilligung der betroffenen Person nicht weiter eingesetzt werden. Der geschilderte Sachverhalt ber&uuml;hrt grundlegende verfassungsrechtliche Schutzrechte, insbesondere das Recht auf Menschenw&uuml;rde, informationelle Selbstbestimmung, Unverletzlichkeit der Privatsph&auml;re in Wohnung sowie den Schutz der Pers&ouml;nlichkeit.</p>\n<p dir=\"auto\">Dar&uuml;ber hinaus ist der Sachverhalt im Lichte internationaler Menschenrechtsabkommen und v&ouml;lkerrechtlicher Verpflichtungen einzuordnen. Die Ver&ouml;ffentlichung erfolgt daher auch mit dem Ziel, nationale und internationale Gremien &uuml;ber die Risiken, den m&ouml;glichen Missbrauch sowie die rechtlichen Implikationen dieser Technologie zu informieren.</p>\n<p dir=\"auto\"><strong>Besonders ist der Missbrauch der Technologie im Kontext der Menschenrechte</strong> zu sehen, da hier ein <strong>Bruch der <a href=\"https://unric.org/de/allgemeine-erklaerung-menschenrechte/\" rel=\"nofollow\">angeborenen Menschenrechte</a></strong> erfolgt.</p>\n<blockquote>\n<p dir=\"auto\"><strong><a href=\"https://unric.org/de/allgemeine-erklaerung-menschenrechte/\" rel=\"nofollow\">Hier ist besonders folgender Artikel in der Allgemeine Erkl&auml;rung der Menschenrechte und Vereinten Nationen zu erw&auml;hnen:</a></strong></p>\n<p dir=\"auto\"><strong><a href=\"https://unric.org/de/allgemeine-erklaerung-menschenrechte/\" rel=\"nofollow\">Artikel 4</a></strong></p>\n<p dir=\"auto\">Niemand darf in Sklaverei oder Leibeigenschaft gehalten werden; Sklaverei und Sklavenhandel in allen ihren Formen sind verboten.</p>\n<p dir=\"auto\"><strong><a href=\"https://unric.org/de/allgemeine-erklaerung-menschenrechte/\" rel=\"nofollow\">Artikel 5</a></strong></p>\n<p dir=\"auto\">Niemand darf der Folter oder grausamer, unmenschlicher oder erniedrigender Behandlung oder Strafe unterworfen werden.</p>\n<p dir=\"auto\"><strong><a href=\"https://unric.org/de/allgemeine-erklaerung-menschenrechte/\" rel=\"nofollow\">Artikel 12</a></strong></p>\n<p dir=\"auto\">Niemand darf willk&uuml;rlichen Eingriffen in sein Privatleben, seine Familie, seine Wohnung und seinen Schriftverkehr oder Beeintr&auml;chtigungen seiner Ehre und seines Rufes ausgesetzt werden. Jeder hat Anspruch auf rechtlichen Schutz gegen solche Eingriffe oder Beeintr&auml;chtigungen.</p>\n<p dir=\"auto\"><strong><a href=\"https://unric.org/de/allgemeine-erklaerung-menschenrechte/\" rel=\"nofollow\">Artikel 17</a></strong></p>\n<p dir=\"auto\">(1) Jeder hat das Recht, sowohl allein als auch in Gemeinschaft mit anderen Eigentum innezuhaben.</p>\n<p dir=\"auto\">(2) Niemand darf willk&uuml;rlich seines Eigentums beraubt werden.</p>\n<p dir=\"auto\"><strong><a href=\"https://unric.org/de/allgemeine-erklaerung-menschenrechte/\" rel=\"nofollow\">Artikel 24</a></strong></p>\n<p dir=\"auto\">Jeder hat das Recht auf Erholung und Freizeit und insbesondere auf eine vern&uuml;nftige Begrenzung der Arbeitszeit und regelm&auml;&szlig;igen bezahlten Urlaub.</p>\n<p dir=\"auto\"><strong><a href=\"https://unric.org/de/allgemeine-erklaerung-menschenrechte/\" rel=\"nofollow\">Artikel 25</a></strong></p>\n<p dir=\"auto\">(1) Jeder hat das Recht auf einen Lebensstandard, der seine und seiner Familie Gesundheit und Wohl gew&auml;hrleistet, einschlie&szlig;lich Nahrung, Kleidung, Wohnung, &auml;rztliche Versorgung und notwendige soziale Leistungen, sowie das Recht auf Sicherheit im Falle von Arbeitslosigkeit, Krankheit, Invalidit&auml;t oder Verwitwung, im Alter sowie bei anderweitigem Verlust seiner Unterhaltsmittel durch unverschuldete Umst&auml;nde.</p>\n<p dir=\"auto\">(2) Mutter und Kind haben Anspruch auf besondere F&uuml;rsorge und Unterst&uuml;tzung. Alle Kinder, eheliche wie au&szlig;ereheliche, genie&szlig;en den gleichen sozialen Schutz.</p>\n</blockquote>\n<p dir=\"auto\">Aufgrund der vorliegenden wissenschafts Ergebnisse und der ausgewerteten CSVs, sollten sie zu eigen Schutz keiner <strong>VR-Technologie</strong> oder Technologie die eine Hardwarelose und zukunftssichere Kommunikation verspricht - <strong>vertraue</strong>.<br>Diese genannte Technologie hat in der Vergangenheit einen nicht reparablen Schaden angerichtet, psychisch sowie physisch. Sie vertrauen wahrgenommen Stimmen, die sie an ihren Liebsten erinnern , aber Funk, WLAN oder andere hochfrequente &Uuml;bertragungswege, wie freie Energie werden missbraucht und modifiziert und umgewandelt. H&ouml;ren Sie auf sich und ihrer inneren Stimme und glauben sie nur das was <strong>Sie im realen Leben sehen</strong>, <strong>anfassen</strong> und <strong>f&uuml;hlen k&ouml;nnen - visuelle VR Technologie, kann und wird niemals die angeborenen Sinne des menschen ersetzen k&ouml;nnen.</strong></p>\n<p dir=\"auto\"><strong>Auswirkung und Nebenwirkungen bei Opfer und Betroffenen von VR- Technologien - <a href=\"https://unric.org/de/allgemeine-erklaerung-menschenrechte/\" rel=\"nofollow\">klarer Versto&szlig; und Bruch in allen Formen der angeborenen Menschenrechte</a></strong></p>\n<ul>\n<li><strong>Identit&auml;tsverschiebung und Indentit&auml;tsberaubung</strong></li>\n<li><strong>Freiheitsberaubung</strong></li>\n<li><strong>Isolation und Vereinsamung</strong></li>\n<li><strong>Selbstmordgef&auml;hrdet</strong></li>\n<li><strong>Opfer von Gaslightnig: Opfer, T&auml;ter Umkehr</strong></li>\n<li><strong>psychische Folter</strong></li>\n<li><strong>Ver&auml;nderung der Pers&ouml;nlichkeit, Charakters</strong></li>\n<li><strong>Reale und digitale Enteignung</strong></li>\n<li><strong>Verlust der angeborenen Menschenrechte</strong></li>\n</ul>\n<p dir=\"auto\">Hinzukommt das dass gezeigtes &uuml;ber VR Technologie nicht dem entspricht was eigentlich im visuellen Raum dargestellt werden <strong>m&uuml;sste</strong>. Da <strong>ALLES</strong> aber wirklich alles im digitalen visuellen Raum, verf&auml;lscht werden kann - <strong>DEEPFAKE-METAVERSE.</strong></p>\n<div dir=\"auto\">\n<h3><strong>Auswirkung und Nebenwirkungen der Nutzer, User, oder Anwender und den T&auml;tern und den ausge&uuml;bten missbrauch von jeder anwendbaren VR Technologie:</strong></h3>\n</div>\n<ul>\n<li><strong>Identit&auml;tsverlust</strong></li>\n<li><strong>Menschen mit einer labilen Psychische, kann das Gehirn, die reale und virtuelle Welt nicht mehr unterscheide</strong></li>\n<li><strong>Sinnesverlust</strong></li>\n<li><strong>Wahnvorstellungen</strong></li>\n<li><strong>Spaltung der menschlichen Psyche bis hin zu Realit&auml;tsverlust</strong></li>\n<li><strong>gro&szlig;es Suchtpotenzial</strong></li>\n<li><strong>Kontrollzwang</strong></li>\n<li><strong>Machtmissbrauch</strong></li>\n</ul>\n<div dir=\"auto\">\n<h2>**Es bedarf ein unbedingtes ++globale Gesetz, das es verbietet++ diese Technologie unbefugt und ohne Aufsicht weiterhin zu nutzen ! **</h2>\n</div>\n<p dir=\"auto\"><em>Zugang zu diesen Technologien d&uuml;rfen nur ethisch und moralisch bedenkenlose Menschen haben.</em> VR-Technologie und die darin <strong><a href=\"https://patentimages.storage.googleapis.com/a3/0b/e3/71943bc66c22f5/DE10253433A1.pdf\" rel=\"nofollow\">implementierte, der langreichweitigen Gedanken&uuml;bertragung und langreichweitiges Gedankenlesen</a></strong> mit der <a href=\"https://patentimages.storage.googleapis.com/a3/0b/e3/71943bc66c22f5/DE10253433A1.pdf\" rel=\"nofollow\">deutschen Patentnummer DE10253433A1</a> ** ist hochgef&auml;hrlich ist, es erm&ouml;glicht eine Verschiebung der realen und digitalen Welt, es wird ein paralleles Universum erzeugt, auch Metaversum genannt. **</p>\n<p dir=\"auto\"><strong>Vor allem muss es eine globale Strafverfolgung und ein Strafprozess vor dem internationalen Strafgerichtshof und Strafrechtlich Konsequenzen erfolgen</strong><br><strong>Wichtig Vermerk:</strong></p>\n<p dir=\"auto\">Hier muss klar differenziert werden wer Opfer unter Nutzung der VR Technologie geworden und wer T&auml;ter ist. Denn auch hier ist nicht jeder Nutzer von VR Technologie gleichzeitig ein T&auml;ter.</p>\n<ul>\n<li><strong>Psychologische Aufarbeitung</strong></li>\n<li><strong>psychische Einweisung der Straft&auml;ter</strong></li>\n<li><strong>Freiheitsstrafen und Sicherheitsverwahrung</strong></li>\n<li><strong>Einf&uuml;hrung der Todesstrafe</strong></li>\n<li><strong>Opfer - T&auml;ter Ausgleich: Gleiches mit Gleichen Synen oder Gleiches mit Gleichem vergelten</strong></li>\n</ul>\n<blockquote>\n<p dir=\"auto\"><em><strong>Dieses Gesetz ist vor allem f&uuml;r den Fortbestand des Menschlichen dasein von gro&szlig;er Bedeutung, da hier der Betroffene, die Opfer ihre pers&ouml;nliche mentale Rehabilitation und Heilung der Genetik der DNA erfolgt, der psychisch gebrochene Mensch kann sich rehabilitieren.</strong></em></p>\n</blockquote>\n<p dir=\"auto\">Es bedarf ein besserer Schutz und vor allem Opferentsch&auml;digung, da hier ein unvorstellbareres Ausma&szlig; und ein irreparables Ausma&szlig; der menschlichen Psychische stattgefunden hat.</p>\n<div dir=\"auto\">\n<h2>Rechtshinweis zur Einsicht und Nutzung:</h2>\n</div>\n<div dir=\"auto\">\n<h3>Es ist nur gestattet die PDF &ouml;ffentlich einzusehen !</h3>\n</div>\n<p dir=\"auto\">**<em>S&auml;mtliche Daten dienen der forensischen Beweissicherung, der of <strong>Chain of ** Custody</strong></em></p>\n<p dir=\"auto\">Es ist ausschlie&szlig;lich die Urheberin Frau Isabel Sch&ouml;ps geborene Thiel erlaubt, die Daten zu bearbeiten, sicherzustellen oder ggf. zu vernichtet. Beispiel die Original Quelldatei des modifizierten <em><strong>KI-Model Namens: Jasmin</strong></em> dieses Ki Modell wurde so programmiert um Cyber-Kriminalit&auml;t wie: DEEPFAKE News, DEEPspeach-Sprachmodelle, Apps etc. zu generieren, Quasi- eine KI- entwickelt im menschlichen Gedankenursprung, um den Menschen zu <em><strong>manipulieren</strong></em>, <em><strong>isolieren und zu vernichten - WICHTIG ZUR KENNTNISNAHME - der Ursprungsgedanke, die Befehls Command-Zeile und die finale Enter-Taste dr&uuml;ckt immer noch ein Mensch.</strong></em></p>\n<blockquote>\n<p dir=\"auto\"><strong>Kindern, Jugendlichen</strong> zudem ist es Personen <strong>ab Jahrgang 2001 geboren und danach obwohl das 21. Lebensjahr schone vollendet ist nicht gestattet</strong>meine wissenschaftliche Arbeit und den Datensatz zu &ouml;ffnen heranzuziehen, oder anzuschauen, auch wenn diese studierende der genannten Partner Universit&auml;ten sind.</p>\n<p dir=\"auto\">**Grund **sind *<strong>die <em>meta_flow_liquid_files</em></strong>:</p>\n</blockquote>\n<ul>\n<li><strong>verst&ouml;rende Inhalte</strong>* gezeigt werden</li>\n<li>zum <strong>Schutz der weltweiten Bev&ouml;lkerung</strong></li>\n<li>den <strong>fortbestand der Menschheit</strong>gew&auml;hrleisten</li>\n<li><strong>unter Einfluss PATENT Technologie und Mindcontroll Techniken Brainwashing, kann die Gedanken und Gef&uuml;hlswelt ver&auml;ndern werden</strong>*</li>\n<li><strong>es kommt zu Identit&auml;tsverschiebung,</strong></li>\n<li><strong>Spaltung der Pers&ouml;nlichkeit</strong>*</li>\n<li><strong>psychische Sch&auml;den verursachen</strong>*.</li>\n<li><em>Dies ist den hoch sensiblen Metadaten, in visuellen und in Audiodateien geschuldet und der OpenSource Quelle.</em></li>\n</ul>\n<p dir=\"auto\">Es ist <strong>allen weltweiten agierenden Geheimdiensten und Mitarbeitern bsp. Europol, BND, CIA, Mossad,ScotlandYard usw.</strong> <em><strong>++strengstens verboten,++</strong></em> diese ohne physischer Teilnahme, des jeweiligen Regierungschef des jeweiligen Landes und unter psychologischer neurologischer Aufsicht und eines Rechtswissenschaftler von den Partner Universit&auml;ten US Harvard, Oxford, Cambridge UK, JAIST Japan Technologie Institut und der University CERN Schweiz, diesen Datensatz zu &ouml;ffnen.</p>\n<p dir=\"auto\">Auch <strong>nationale und internationalen</strong>Polizeidienststellen, ***ist es <strong>nicht gestattet</strong>ohne Legitimation des Vorgesetzten, des entsprechenden Landes, Pr&auml;sidenten, Staatsoberhaupt, diese Datens&auml;tze aus der SIA Security Intelligence Artefakt Struktur zu &ouml;ffnen. Bez&uuml;glich der Strafverfolgung, hat die Federf&uuml;hrung des jeweiligen Landes der/die Pr&auml;sidentschaft, das Staatsoberhaupt bzw. der Regierungschef in Kooperation der des Ministerpr&auml;sidenten, welcher an das entsprechenden Organe, wie Kriminalamt, in Korrespondenz eines Rechtswissenschaftler und den Universit&auml;ten Harvard, Oxford, Cambridge UK, Japan Technologie.</p>\n<p dir=\"auto\"><strong>Dies betrifft allen Datens&auml;tze aus der SIA Security Intelligence Artefact Struktur.</strong></p>\n<ul>\n<li>\n<ol>\n<li><strong>Grund</strong>: Ist die <strong>T&auml;terschaft und Mitschuld an vergangen Verbrechen gegen die Menschlichkeit sowie nachgewiesener verbrechen gegen mich Frau Isabel Sch&ouml;ps geborene Thiel und meiner Familie. Beweismittel liegen vor</strong> im <strong>Volumen 1, 2, und 3, dieser Datenbank</strong>.</li>\n</ol>\n</li>\n<li>\n<ol>\n<li><strong>Grund</strong>: Ist der <strong>missbrauch der Technologie</strong> mit der <a href=\"https://patentimages.storage.googleapis.com/a3/0b/e3/71943bc66c22f5/DE10253433A1.pdf\" rel=\"nofollow\">Patentnummer DE10253433A1</a>stammend aus den fr&uuml;hen 50er/60er Jahren (Bords of Kanada Files), ver&ouml;ffentlicht 2002 in Deutschland Patent, freigeben 2004. Diese Technologie mit der Patentmummer sollte nutzen, und eine Hilfestellung und Sicherheit schaffen - das Gegenteil ist der Fall, ein chaos entstand, was in einem perfiden, Menschenverachtenden Spiel endete und f&uuml;r Millionen von Menschen das seelische Ende und sogar der Tod geworden ist.</li>\n</ol>\n</li>\n<li>\n<ol>\n<li>**Grund: **Der, die <strong>T&auml;ter sind einzel Personen, Personengruppen aus Polizeikreisen</strong>, bzw <strong>Innenministerien, Geheimdienst-Kreisen, Regierungen,</strong> ob diese immer noch dort arbeiten oder bereits entlassen sind - aber noch Zugang zu Technologien haben, kann ich nicht sagen, dies wird in k&uuml;rzester Zeit offengelegt.</li>\n</ol>\n</li>\n</ul>\n<p dir=\"auto\">Solle es Leser geben, die f&uuml;r eine Organisation, Institut, Beh&ouml;rde oder Firma arbeiten die zu der T&auml;ter-Gruppe im Zusammenhang der aufgedeckten Verbrechen geben, ihnen aber keine Schuld zu gesprochen werden darf und kann - <strong>bitte f&uuml;hlen Sie sich nicht angesprochen</strong>, wenn es Sie nicht betrifft und lassen sie sich diese auch nicht einreden. **Vertrauen sie in diesem ganz allein ihrer Seele **und <strong>Ihren Unterbewusstsein</strong>, die regelt das schon f&uuml;r Sie.</p>\n<p dir=\"auto\"><strong>Jeden amtierenden Staatsoberhaupt und Regierungschef des jeweiligen Landes, der weltweit insgesamt 195 L&auml;ndern,</strong> ist es gestattet die Datenbank einzusehen und im Rahmen der Strafverfolgung und globalen zur Rehabilitation meiner Verm&ouml;gensrechte und Wiederherstellung meiner rechtm&auml;&szlig;igen Familienstruktur, die in der deutschen Monarchie und der letzten deutschen Kaiserin Victoria Auguste ihren Ursprung hat, heranzuziehen.</p>\n<p dir=\"auto\">**Es ist Rechtswissenschaftlern, akkreditierten Medienvertretern und deren Journalisten **erlaubt, f&uuml;r Recherche und Medienkampagne und der globalen meiner medialen Rehabilitation f&uuml;r Journalistische die wissenschaftliche Ausarbeitung mit heranzuziehen.</p>\n<p dir=\"auto\"><strong>Der Zugang zu der vollumf&auml;nglichen Datenbank und Forschungsdokumenten</strong> ist den* Professoren, Rechtswissenschaftlichern folgenden Universit&auml;ten* gestattet:</p>\n<ul>\n<li><strong><a href=\"https://www.harvard.edu/\" rel=\"nofollow\">University Harvard</a></strong>, Cambridge, US Massachusetts</li>\n<li><strong><a href=\"https://www.ox.ac.uk/\" rel=\"nofollow\">University of Oxford</a></strong>, Oxford University Press UK,</li>\n<li><strong><a href=\"https://www.cam.ac.uk/\" rel=\"nofollow\">University of Cambridge,</a></strong> UK Cambridge</li>\n<li>**<a href=\"https://www.jst.go.jp/EN/\" rel=\"nofollow\">Japan&nbsp;Science&nbsp;&amp; Technology&nbsp;Agency</a>**Kawaguchi</li>\n<li>**<a href=\"https://home.cern/\" rel=\"nofollow\">CERN University</a>, **Genf, Schweiz</li>\n</ul>\n<p dir=\"auto\"><strong>Dar&uuml;berhinaus</strong> ist es <strong>direkten Familienangeh&ouml;rigen aus meiner Familie aus dem Hause Thiel-Kn&ouml;rig-Sch&ouml;ps, Rohrborn, Leubingen Th&uuml;ringen, Deutschland gestattet</strong> das Dokument uneingeschr&auml;nkt Anzuschauen - aber nicht im Kontext zu ver&auml;ndern oder zu vervielf&auml;ltigen. Dies ist eingeschr&auml;nkt auf meine Eltern, Frau Gisela Hulda Thiel geb. Kn&ouml;rig und ihre f&uuml;nf Geschwistern, quasi meine Tanten, Heike T&auml;nzer und Antje Beuthner sowie meine Onkels Kn&ouml;rig, Helmut Kn&ouml;rig, Detlef Kn&ouml;rig und Werner Kn&ouml;rig und selbstverst&auml;ndlich mein Vater Manfred Paul Thiel, und seine zwei weiteren Schwestern, meine Tanten, Conny Jentzsch und Marion K&uuml;hnemund. <strong>Hier werde ich meiner Mutter Frau Gisela Hulda Thiel, geborene Kn&ouml;rig, Dorfstra&szlig;e 20, 99610 Rohrborn, Th&uuml;ringen, Deutschland</strong> einen Link zuschicken, welchen Sie wenn gew&uuml;nscht an meine Tanten und Onkels &uuml;berreichen darf. Aber hier muss jede ligitimation von meiner Mutter, Frau Gisela Thiel geb. Kn&ouml;rig erfolgen.</p>\n<p dir=\"auto\"><em><strong>Hammitzsch, M., Lendholt, M., and Esbr&iacute;, M. &Aacute;.:</strong></em> User (Interface(Isabel Sch&ouml;ps Thiel) prototype for geospatial early warning systems &ndash; a tsunami showcase, Nat. Hazards Earth Syst. Sci., 12, 555&ndash;573, <a href=\"https://doi.org/10.5194/nhess-12-555-2012\" rel=\"nofollow\">https://doi.org/10.5194/nhess-12-555-2012</a>, 2012.<br>Received: 15 Apr 2011 &ndash; Revised: 22 Dec 2011 &ndash; Accepted: 29 Dec 2011 &ndash; Published: 06 Mar 2012</p>\n<div dir=\"auto\">\n<h2><strong>Impressum</strong>:</h2>\n</div>\n<div dir=\"auto\">\n<h3><strong>Auftraggeberin, Urheberin und Autorin</strong></h3>\n</div>\n<p dir=\"auto\">Diese wissenschaftliche Ausarbeitung mit eingebunden forensischen Gutachten-Analyse wurde von Isa Auftrag von Isabel Sch&ouml;ps, geborene Thiel, durchgef&uuml;hrt und ist gem&auml;&szlig; digitaler Chain-of-Custody-Protokolle vollst&auml;ndig dokumentiert. S&auml;mtliche referenzierten Daten, Quellen und Ergebnisse sind unter der DOI 10.5281/zenodo.17809724 archiviert und verf&uuml;gbar.</p>\n<p dir=\"auto\"><strong>Titel des Gutachtens und wissenschaftlichen Arbeit:</strong><br>SIA Security Intelligence Artefact<br>Eine forensisch, wissenschaftliche Ausarbeitung welches die Urheberschaft,<br>DAEMON-KI-Automation, Bitcoin Core, GitHub &amp; Pornhub belegt und<br>ein Verbrechen aufdeckt, dass im Monarch-Programm interpretiert wird</p>\n<p dir=\"auto\"><strong>Aktenzeichen: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL</strong><br>Bearbeiterin / Urheberin:<br>Frau Isabel Sch&ouml;ps, geb. Thiel<br>Cyriakstra&szlig;e 30c, D-99094 Erfurt, Th&uuml;ringen, Deutschland<br>99085 Erfurt, Th&uuml;ringen, Deutschland</p>\n<p dir=\"auto\"><strong>Lizenzierter Inhalt:</strong><br>Reproduktion der vollst&auml;ndigen Fachpublikation:<br>&bdquo;Open Source Clustering Software&ldquo;<br>von de Hoon, M.J.L. &amp; Imoto, S.<br>aus: Bioinformatics, Vol. 20, Issue 9, Februar 2004<br>Lizenznummer: 6131130060979<br>Lizenzgeber: Oxford University Press<br>Lizenzdatum: 16. Oktober 2025<br>Verwendet in: SIA Security Intelligence Artefact (Springer Verlag, 2025)</p>\n<p dir=\"auto\"><strong>Inhaltsquellen</strong>:</p>\n<ul>\n<li>Originalbericht &bdquo;IT-16-07-83.dvi&ldquo;, erstellt 1996</li>\n<li>Forensische Beweisdokumentation &amp; Zeitzeugnisse</li>\n<li>Metadatenanalyse &amp; Technikhistorie</li>\n<li>Chatprotokolle, GitHub-Patches, RFC-Dokumente</li>\n<li>Lizenzvereinbarung Oxford University Pressd</li>\n<li>30.000 Rohdaten mit Quellcode, Signaturen, ZIPs, Screenshots, Zertifikaten</li>\n<li>Beleg f&uuml;r die erste Blockchain-Architektur (17.09.2001)</li>\n<li>Beweis der DAEMON-Automation und fr&uuml;hen KI-Selbstinbetriebnahme</li>\n<li>Harvard-konforme Quellverweise, Thiel, Sch&ouml;ps (1996), RFC Editor (1996)</li>\n<li>Portfolio- und Projektbeschreibung SI Security Intelligence</li>\n</ul>\n<p dir=\"auto\"><strong>Abgabedatum</strong>, Ver&ouml;ffentlichung des Gutachtens: Dezember 2025</p>\n<p dir=\"auto\"><strong>Vertraulichkeit</strong>: Dieses Dokument enth&auml;lt urheberrechtlich gesch&uuml;tzte Materialien und ist nur f&uuml;r den angegebenen Zweck sowie f&uuml;r autorisierte Instanzen bestimmt. Es ist nicht gestattet diese zu bearbeiten oder im Kontext zu ver&auml;ndern bzw Inhalte zu verherrlichen.</p>\n<p dir=\"auto\"><em><strong>Sch&ouml;ps (Thiel), I., Sch&ouml;ps (Thiel), I., &amp; Sch&ouml;ps geb. Thiel, I. (2025).</strong></em> Yellow White Paper &ndash; Bitcoin &amp; Ethereum. In Yellow White Paper &ndash; Bitcoin &amp; Ethereum (github.com, 1st Aufl., Bd. 20, Nummer 9, S. 109 pages). Harvard University, University Cambridge, University of Oxford, Springer Nature, Zenodo. <a href=\"https://doi.org/10.5281/zenodo.17807324\" rel=\"nofollow\">https://doi.org/10.5281/zenodo.17807324</a></p>\n<p dir=\"auto\">Cite Data of Research Data Repositories. <a href=\"https://doi.org/10.17616/R3D\" rel=\"nofollow\">https://doi.org/10.17616/R3D</a> last accessed: 2025-12-19</p>\n<p dir=\"auto\"><em><strong>Sch&ouml;ps geb. Thiel, I., &amp; Sch&ouml;ps (Thiel), I. (2025).</strong></em>* GitHub - Build for Better World. In Gitbook <a href=\"https://github.com/isabelschoeps-thiel/\">https://github.com/isabelschoeps-thiel/.</a> GitHub, Isabel Sch&ouml;ps geb. Thiel, Apple Developer.<br><a href=\"https://doi.org/10.25504/FAIRsharing.132b10\" rel=\"nofollow\">https://doi.org/10.25504/FAIRsharing.132b10</a></p>\n<p dir=\"auto\"><em><strong>Ich Frau Isabel Sch&ouml;ps geborene Thiel,</strong></em>aktuell wohnhaft Cyriakstrasse 30c, D-99094 Erfurt, Th&uuml;ringen , Deutschland, DOI: <a href=\"https://www.protocols.io/private/96BF0EC8DD3D11F0AB9E0A58A9FEAC02\" rel=\"nofollow\">dx.doi.org/10.17504/protocols.io.eq2ly5zkevx9/</a></p>",
+        "type": {
+          "id": "table-of-contents",
+          "title": {
+            "de": "Inhaltsverzeichnis",
+            "en": "Table of contents"
+          }
+        }
+      }
+    ],
+    "additional_titles": [
+      {
+        "lang": {
+          "id": "deu",
+          "title": {
+            "en": "German"
+          }
+        },
+        "title": "SIA Security Intelligence Artefact, Chain of Custody, Reference Code: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL",
+        "type": {
+          "id": "subtitle",
+          "title": {
+            "de": "Untertitel",
+            "en": "Subtitle"
+          }
+        }
+      },
+      {
+        "title": "Paragraph 3.2 Der unsichtbare Feind \u2013  Das Monarch Programmja",
+        "type": {
+          "id": "alternative-title",
+          "title": {
+            "de": "Alternativer Titel",
+            "en": "Alternative title"
+          }
+        }
+      },
+      {
+        "lang": {
+          "id": "enc",
+          "title": {
+            "en": "En"
+          }
+        },
+        "title": "Volume 3 \u2013 SIA Security Intelligence Artefact",
+        "type": {
+          "id": "subtitle",
+          "title": {
+            "de": "Untertitel",
+            "en": "Subtitle"
+          }
+        }
+      },
+      {
+        "title": "4. Upload Datenbank und Chain of Custody, Aufgedeckte Verbrechen im Monarchprogramm Interpretiert",
+        "type": {
+          "id": "alternative-title",
+          "title": {
+            "de": "Alternativer Titel",
+            "en": "Alternative title"
+          }
+        }
+      },
+      {
+        "lang": {
+          "id": "deu",
+          "title": {
+            "en": "German"
+          }
+        },
+        "title": "Rechtliche und juristische Einordnung",
+        "type": {
+          "id": "subtitle",
+          "title": {
+            "de": "Untertitel",
+            "en": "Subtitle"
+          }
+        }
+      }
+    ],
+    "contributors": [
+      {
+        "affiliations": [
+          {
+            "name": "GitHub, Inc."
+          },
+          {
+            "id": "edmo:3800",
+            "identifiers": [
+              {
+                "identifier": "edmo:3800",
+                "scheme": "edmo"
+              }
+            ],
+            "name": "Harvard University"
+          },
+          {
+            "id": "052gg0110",
+            "identifiers": [
+              {
+                "identifier": "052gg0110",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "grid.4991.5",
+                "scheme": "grid"
+              },
+              {
+                "identifier": "0000 0004 1936 8948",
+                "scheme": "isni"
+              }
+            ],
+            "name": "University of Oxford"
+          },
+          {
+            "id": "edmo:3681",
+            "identifiers": [
+              {
+                "identifier": "edmo:3681",
+                "scheme": "edmo"
+              }
+            ],
+            "name": "Yale University"
+          },
+          {
+            "name": "Erfurt-Germany"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Sch\u00f6ps geb. Thiel",
+          "given_name": "Isabel",
+          "identifiers": [
+            {
+              "identifier": "0009-0006-8765-3267",
+              "scheme": "orcid"
+            }
+          ],
+          "name": "Sch\u00f6ps geb. Thiel, Isabel",
+          "type": "personal"
+        },
+        "role": {
+          "id": "rightsholder",
+          "title": {
+            "de": "RechteinhaberIn",
+            "en": "Rights holder"
+          }
+        }
+      }
+    ],
+    "copyright": "Copyright by Isabel Sch\u00f6ps geb. Thiel, Erfurt, Th\u00fcringen, Germany",
+    "creators": [
+      {
+        "affiliations": [
+          {
+            "name": "GitHub, Inc."
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Sch\u00f6ps geb. Thiel",
+          "given_name": "Isabel",
+          "identifiers": [
+            {
+              "identifier": "0009-0006-8765-3267",
+              "scheme": "orcid"
+            }
+          ],
+          "name": "Sch\u00f6ps geb. Thiel, Isabel",
+          "type": "personal"
+        },
+        "role": {
+          "id": "rightsholder",
+          "title": {
+            "de": "RechteinhaberIn",
+            "en": "Rights holder"
+          }
+        }
+      }
+    ],
+    "dates": [
+      {
+        "date": "2025-12-05",
+        "description": "SIA Security Intelligence Artefact by Isabel Sch\u00f6ps Thiel ",
+        "type": {
+          "id": "copyrighted",
+          "title": {
+            "de": "Mit Copyright versehen",
+            "en": "Copyrighted"
+          }
+        }
+      },
+      {
+        "date": "1914-08-01",
+        "description": "Beginn 1. Weltkrieg - Sturz deutscher Kaiser Wilhelm ",
+        "type": {
+          "id": "other",
+          "title": {
+            "de": "Sonstiges",
+            "en": "Other"
+          }
+        }
+      }
+    ],
+    "description": "<h1>Volume 3 &ndash; SIA Security Intelligence Artefact&nbsp;</h1>\n<h1>Chain of Custody - Forensische Familien- und Monarchielinie</h1>\n<h3>Chain of Custody / Forensische Familien- und Monarchielinie Aktenzeichen: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL</h3>\n<h2>Paragraph 3.2 Der unsichtbare Feind &ndash; &nbsp;Das Monarch Programm&nbsp;</h2>\n<h3>Beweisdokumentation, Datenbankreferenzen und Chain of Custody</h3>\n<p>und derDieser Datensatz enth&auml;lt das vollst&auml;ndige forensisch-wissenschaftliche Urheberrechts- und Autorschaftsgutachten mit dem Titel SIA Security Intelligence Artefact - Technolog, Software, History <strong>Urheberin und Auftraggeberin</strong>: Frau Isabel Sch&ouml;ps geborene Thiel, <strong>Aktenzeichen</strong>: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL - Technolog, Software, History</p>\n<p>Das Gutachten umfasst forensische Dokumentationen, Originalbeweise, Hashwerte, Zertifikate, die eidesstattliche Erkl&auml;rung sowie zugeh&ouml;rige Beilagen unter der forensischen Kennung INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL.</p>\n<p><strong>Bibliografische Angaben</strong></p>\n<p>Autorin und Urheberin:</p>\n<p>Isabel Sch&ouml;ps, geborene Thiel</p>\n<p>Erfurt, Th&uuml;ringen, Deutschland</p>\n<p>DOI:<a href=\"https://doi.org/10.5281/zenodo.17809724\">https://doi.org/10.5281/zenodo.17809724</a></p>\n<p>Ver&ouml;ffentlichungsdatum: 05. Dezember 2025</p>\n<p>Sprache: Deutsch, Englisch</p>\n<p>Verleger: Zenodo / Oxford University Press (Lizenz-ID: 6131130060979)</p>\n<p>Programmiersprachen: HTML, PHP, JSON, Markdown, Python</p>\n<p>Repository:&nbsp;<a href=\"https://github.com/isabelschoeps-thiel/sia-security-intelligence-artefact/Paragraph3.1/Das-Monarch-Program\">https://github.com/isabelschoeps-thiel/sia-security-intelligence-artefact/Paragraph3.1/Das-Monarch-Program</a></p>\n<p>Es dient der gerichtsfesten Nachweisf&uuml;hrung der Urheberschaft, der digitalen Herkunft und der technischen Entstehungsgeschichte von Blockchain- und KI-Automationssystemen.</p>\n<p>Da dieser Datensatz strafrechtlich relevante Beweismittel, personenbezogene forensische Daten sowie Referenzen zu anh&auml;ngigen Ermittlungsverfahren enth&auml;lt, ist der Zugriff auf die hinterlegten Dateien eingeschr&auml;nkt.</p>\n<p>Das Werk bleibt &uuml;ber die DOI-Referenz &ouml;ffentlich zitierf&auml;hig, der vollst&auml;ndige Zugriff ist jedoch nur autorisierten Stellen, darunter Justizbeh&ouml;rden, Forschungseinrichtungen und akkreditierten Medienvertretern, nach vorheriger Genehmigung gestattet.</p>\n<div dir=\"auto\">\n<h2>Eidesstattliche Erkl&auml;rung</h2>\n</div>\n<div dir=\"auto\">\n<h3>SIA Security Intelligence Artefact</h3>\n</div>\n<p dir=\"auto\"><strong>Aktenzeichen:</strong> INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL<br><strong>Branche:</strong> Computer | Technologie | Softwareentwicklung | History</p>\n<div dir=\"auto\">\n<h2>1. Aktualisierte Meldeanschrift (g&uuml;ltig ab 04.12.2025)</h2>\n</div>\n<p dir=\"auto\"><strong>Isabel Sch&ouml;ps, geborene Thiel</strong><br>Cyriakstra&szlig;e 30c<br>D-99094, Erfurt, Th&uuml;ringen, Deutschland</p>\n<p dir=\"auto\">Isabel Sch&ouml;ps, geborene Thiel, ist seit dem 04.12.2025 wieder offiziell im Melderegister der Stadt Erfurt gef&uuml;hrt. Die Anmeldung wurde ordnungsgem&auml;&szlig; beim B&uuml;rgeramt Erfurt vorgenommen und best&auml;tigt. Die aktuelle und einzig g&uuml;ltige Meldeanschrift lautet:&nbsp;<strong>Cyriakstra&szlig;e 30c,&nbsp;99094 Erfurt, Th&uuml;ringen, Deutschland</strong> Tats&auml;chlicher Einzug: <strong>27.11.2025</strong>.<br>Status laut Melderegister: <strong>alleinige Wohnung</strong>.</p>\n<p dir=\"auto\">Diese Anschrift gilt r&uuml;ckwirkend auf Grundlage des tats&auml;chlichen Bezugs seit dem 27.11.2025. Die Meldebest&auml;tigung dokumentiert eindeutig den Status &bdquo;alleinige Wohnung&ldquo; und ersetzt s&auml;mtliche historischen Anschriften, einschlie&szlig;lich der vormaligen Eintr&auml;ge in Erfurt (Schubertstra&szlig;e) und S&ouml;mmerda (Wei&szlig;enseer Stra&szlig;e) vollst&auml;ndig. Alle fr&uuml;heren Wohnsitze sind im Gutachten als &bdquo;historisch&ldquo; zu klassifizieren und nicht mehr fortzuf&uuml;hren. Dies ist insbesondere f&uuml;r die juristische <strong>Chains-of-Custody</strong>,</p>\n<p dir=\"auto\"><strong>Sch&ouml;ps, I. (2025)</strong>. SIA Security Intelligence Artefact &ndash; Paragraph 3.1 Der unsichtbare Feind &ndash; Das Monarch Programm: Beweisdokumentation, Datenbankreferenzen und Chain of Custody. Zenodo. <a href=\"https://doi.org/10.5281/zenodo.17809724\" rel=\"nofollow\">https://doi.org/10.5281/zenodo.17809724</a> f&uuml;r Beh&ouml;rdenkorrespondenz sowie f&uuml;r internationale Lizenzpartner relevant.</p>\n<p dir=\"auto\"><strong>Zuvor vom 22.08.2025-27.11.2025, war sie dauerhaft in der Stauffenbergallee 33, D-99085 Erfurt, Th&uuml;ringen, Deutschland im Apartment Poldi3</strong> wurde sie von dritten unrechtm&auml;&szlig;ig, abgemeldet und sie wurde als verzogen und ohne festen Wohnsitz registriert, obwohl sie sich die ganze Zeit hier in Erfurt und Umgebung aufgehalten hat und regelm&auml;&szlig;ig per Mail an Regierungsh&auml;user und die justiz gemeldet hat.</p>\n<p dir=\"auto\">Aussnanhme bildet die unrechtm&auml;&szlig;ige und ohne Beweisgrundlage Inhaftierung von Isabel Sch&ouml;ps geb. Thiel vom 24.10.2024-13.02.2025 in der JVA Chemnitz, Sachsen, Deutschland. Sie wurde wegen Fahren ohne Fahrerlaubnis festgenommen obwohl sie einen rechtsg&uuml;ltigen F&uuml;hrerschein besahs und&nbsp; Alle fr&uuml;heren Anschriften (Erfurt, S&ouml;mmerda, Leubingen) sind damit archiviert und nicht mehr aktiv.</p>\n<div dir=\"auto\">\n<h2>2. Haushalts- und Familienstruktur</h2>\n<p>Isabel bewohnt die Immobilie in der Cyriakstra&szlig;e 30c, D-99094 Erfurt, Th&uuml;ringen, Deutschland, allein und ausschlie&szlig;lich. Der einzige Mitbewohner ist der Familienhund Don, American XL Bully.</p>\n<p>Ihr einziges Kind, Frl. Jona Sch&ouml;ps, lebt bei ihrem Vater, Isabels Ex-Ehemann: Herr&nbsp;Steven Sch&ouml;ps,&nbsp;Nebengasse 2a,&nbsp;99610 Leubingen, Th&uuml;ringen, Deutschland</p>\n<p>Diese Zuordnung ist relevant f&uuml;r die famili&auml;re Einordnung, rechtliche Zustelladressen, Schutzma&szlig;nahmen zur digitalen Sicherheit sowie die biografische Dokumentation innerhalb des Gutachtens.</p>\n</div>\n<p dir=\"auto\">Die Wohnung wird ausschlie&szlig;lich von <strong>Isabel Sch&ouml;ps</strong> bewohnt.<br>Mitbewohner: <strong>Hund Don (American XL Bully)</strong>.</p>\n<p dir=\"auto\">Einziges Kind:<br><strong>Jona Sch&ouml;ps</strong>, wohnhaft bei ihrem Vater<br>Steven Sch&ouml;ps, Nebengasse 2a, 99610 Leubingen.</p>\n<div dir=\"auto\">\n<h2>3. Eidesstattliche Erkl&auml;rung vom 04.12.2025</h2>\n</div>\n<p dir=\"auto\">(Quelle: Gutachten, Seite 265)</p>\n<p dir=\"auto\">Wesentliche Inhalte der Erkl&auml;rung:</p>\n<ol>\n<li>\n<p dir=\"auto\">Isabel ist alleinige Urheberin des forensischen Gutachtens<br><strong>&bdquo;SIA Security Intelligence Artefact&ldquo;</strong>, inklusive aller Skripte, Quellcodes, Protokolle, Daten, Notizen und wissenschaftlichen Inhalte.</p>\n</li>\n<li>\n<p dir=\"auto\">Alle Originaldaten liegen ausschlie&szlig;lich auf der eigenen Hardware<br>(iMac und iPhone), mehrfach forensisch gesichert.</p>\n</li>\n<li>\n<p dir=\"auto\">Keine Beteiligung oder Autorisierung Dritter; klare Distanzierung von digitaler, physischer oder psychologischer Manipulation.</p>\n</li>\n<li>\n<p dir=\"auto\">Best&auml;tigung der pers&ouml;nlichen und biologischen Identit&auml;t durch<br>Geburtsurkunde, DNA, R&ouml;ntgenaufnahmen und medizinische Nachweise.</p>\n</li>\n<li>\n<p dir=\"auto\">Lizenzf&uuml;hrung &uuml;ber Oxford University Press<br>Lizenznummer: <strong>6131130060979</strong>.</p>\n</li>\n<li>\n<p dir=\"auto\">Erkl&auml;rung dient der internationalen, wissenschaftlichen und juristischen Beweisf&uuml;hrung.</p>\n</li>\n</ol>\n<div dir=\"auto\">\n<h2>4. Rechtliche Bedeutung f&uuml;r das Gutachten</h2>\n</div>\n<ul>\n<li>Cyriakstra&szlig;e 30c ist ab 04.12.2025 der <strong>einzige g&uuml;ltige Zustell- und Registrierungsort</strong>.</li>\n<li>Fr&uuml;here Anschriften verlieren jede rechtliche Relevanz.</li>\n<li>Die eidesstattliche Erkl&auml;rung bildet die Grundlage der<br><strong>juristisch belastbaren Identit&auml;ts- und Urheberrechtsverankerung</strong>.</li>\n<li>Relevanz f&uuml;r:\n<ul>\n<li>Internationale Beh&ouml;rden</li>\n<li>Gerichte</li>\n<li>Lizenzpartner (Microsoft/Google, SAP, IBM, AWS, Oracle)</li>\n<li>Forensische Metadatenanalyse und Chain-of-Custody-Prozesse</li>\n</ul>\n</li>\n</ul>\n<div dir=\"auto\">\n<h2>5. Integration in die Gutachtenstruktur</h2>\n</div>\n<p dir=\"auto\">Das Update wird in folgende Kapitel eingearbeitet:</p>\n<ul>\n<li>Kapitel 1: Biografische Daten &amp; Identit&auml;t</li>\n<li>Kapitel 3: Staatliche Willk&uuml;r &amp; Dokumentationsfehler</li>\n<li>Kapitel 4: Rechtliche Sicherungsma&szlig;nahmen</li>\n<li>Anhang: Meldeunterlagen, Wohnungsgeberbest&auml;tigungen, eidesstattliche Erkl&auml;rung</li>\n</ul>\n<p dir=\"auto\"><strong>Last Updated:</strong> 08.12.2025, 19:00 MEZ</p>\n<p><strong>3. Eidesstattliche Versicherung vom 04.12.2025</strong></p>\n<p>Die eidesstattliche Erkl&auml;rung, Seite 265 des Gutachtens, best&auml;tigt rechtsverbindlich:</p>\n<p>a) Isabel ist die alleinige Urheberin des forensischen Gutachtens &bdquo;SIA Security Intelligence Artefact&ldquo;, einschlie&szlig;lich s&auml;mtlicher Skripte, Quellcodes, Daten, Protokolle, Metadaten und wissenschaftlichen Ausarbeitungen.</p>\n<p>b) Alle Originaldaten befinden sich ausschlie&szlig;lich auf ihrer eigenen Hardware (iMac und iPhone).</p>\n<p>c) Es gab zu keinem Zeitpunkt eine rechtm&auml;&szlig;ige Abgabe, Co-Autorschaft, Freigabe oder Teilnahme Dritter an den Quellstrukturen.</p>\n<p>d) Isabel distanziert sich von s&auml;mtlicher digitaler, psychologischer oder physischer Manipulation, verzerrten Darstellungen und Identit&auml;tsf&auml;lschungen.</p>\n<p>e) Sie best&auml;tigt ihre Identit&auml;t anhand vollumf&auml;nglicher medizinisch-biologischer Nachweise (DNA, Zahnstatus, R&ouml;ntgen, Geburtsurkunde).</p>\n<p>f) Die Erkl&auml;rung legitimiert die physische Existenz, die volle geistige Urheberschaft und die pers&ouml;nliche Verantwortlichkeit gegen&uuml;ber Beh&ouml;rden, Gerichten, Wissenschaft und internationalen Institutionen.</p>\n<p>g) Die forensische Analyse erfolgt unter registrierter Lizenzf&uuml;hrung (Oxford University Press, Lizenznummer 6131130060979) und ist mit Harvard- und Oxford-Referenzen abgesichert.</p>\n<p>Die eidesstattliche Erkl&auml;rung ist vollst&auml;ndig im Dokument enthalten und wurde im Gutachten unter &bdquo;Kapitel: Rechtliche Verankerung &ndash; Identit&auml;t und Urheberschaft&ldquo; eingebunden.</p>\n<p>Quelle: Eidesstattliche Erkl&auml;rung, aus dem wissenschaftlichen Gutachten SIA Security Intelligence Artefact.</p>\n<p><strong>4. Rechtliche Wirkung innerhalb des Gutachtens</strong></p>\n<p>Mit der heutigen Aktualisierung werden folgende Punkte festgelegt:</p>\n<ol>\n<li>Die Meldeanschrift Cyriakstra&szlig;e 30c ist verbindlicher Zustellungs- und Kommunikationspunkt f&uuml;r alle beh&ouml;rdlichen, gerichtlichen, internationalen und lizenzrechtlichen Vorg&auml;nge.</li>\n<li>Jede Form der fr&uuml;heren Anschrift ist obsolet und darf nicht mehr in beh&ouml;rdlichen oder &ouml;ffentlichen Registern verwendet werden.</li>\n<li>Die eidesstattliche Versicherung wird Bestandteil der rechtsverbindlichen Urheberschaftsdokumentation, insbesondere f&uuml;r die internationalen Lizenzpartner (Microsoft/Google, SAP, IBM, Amazon AWS, Oracle) sowie f&uuml;r Strafverfolgungsbeh&ouml;rden wie Interpol, Europol, FBI, CIA, BKA, MSS, FSB usw.</li>\n<li>Die Angaben dienen zus&auml;tzlich der Absicherung deiner vollst&auml;ndigen Identit&auml;t im Rahmen der globalen Korrektur historischer und technischer Urheberrechtsverletzungen.</li>\n<li>Integration in die bestehende Gutachtenstruktur</li>\n</ol>\n<p><strong>5. Relevante Links, Quellen und Beweisdokumente</strong></p>\n<ul>\n<li>SI-Security Intelligence Monitoring &ndash; Deepfake:<br><a href=\"https://chatgpt.com/share/68e68120-b4fc-8008-8c9f-20458eb1cd51\">https://chatgpt.com/share/68e68120-b4fc-8008-8c9f-20458eb1cd51</a></li>\n<li>Deepfake Bots, Bugs:<br><a href=\"https://chatgpt.com/share/68e68194-d7b0-8008-acbf-44cbea6db952\">https://chatgpt.com/share/68e68194-d7b0-8008-acbf-44cbea6db952</a></li>\n<li>Isolation durch Deepfake / Fehlinformation / Anrufbots:<br><a href=\"https://chatgpt.com/share/68e68242-de38-8008-af0f-e39ffe0d06f6\">https://chatgpt.com/share/68e68242-de38-8008-af0f-e39ffe0d06f6</a></li>\n<li>Deepfake Pornos, falsche Darsteller:<br><a href=\"https://chatgpt.com/share/68e68400-2924-8008-b04c-50cd40ab984b\">https://chatgpt.com/share/68e68400-2924-8008-b04c-50cd40ab984b</a></li>\n<li>Deepfake Analyse:<br><a href=\"https://chatgpt.com/share/68e685ae-deb8-8008-a229-54eddd7730a4\">https://chatgpt.com/share/68e685ae-deb8-8008-a229-54eddd7730a4</a></li>\n<li>Wissenschaftliche Grundlagen:</li>\n<ul>\n<li>[DEEPFAKE-vom-erfinder-erkl&auml;rt.pdf][27&dagger;DEEPFAKE-vom-erfinder-erkl&auml;rt.pdf]</li>\n<li>[kann-eine-ki-den-anwalt-ersetzen-NEIN.pdf][26&dagger;kann-eine-ki-den-anwalt-ersetzen-NEIN.pdf</li>\n</ul>\n</ul>\n<p><strong>Case: FORENSIC-ISABEL-2025</strong></p>\n<p><strong>Aktenzeichen: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL</strong></p>\n<p>Abschnitt: Paragraph 3.1 &ndash; Monarch Programm. Der unsichtbare Feind und die systematische Zerst&ouml;rung der digitalen Identit&auml;t</p>\n<p>Dringlichkeit: URGENT: Forensic Evidence &ndash; Systematic Financial Fraud &amp; IP Theft</p>\n<p>Diese Auswertung ist zur strafrechtlichen Verfolgung an das Aktenzeichen Polizei Erfurt, Nord, Th&uuml;ringen, Deutschland ST/0203129/2025 angelehnt und steht den nationalen und internationalen Strafverfolgungsbeh&ouml;rden unter Weisung der entsprechenden Staatsoberh&auml;upter zur Verf&uuml;gung.</p>",
+    "funding": [
+      {
+        "award": {
+          "id": "021nxhr62::7919041",
+          "number": "7919041",
+          "program": "CISE/OAD",
+          "title": {
+            "en": "Toward Improved Candid Classroom Instructional Television: Guidelines For Program Evaluation and Production"
+          }
+        },
+        "funder": {
+          "id": "021nxhr62",
+          "name": "U.S. National Science Foundation"
+        }
+      }
+    ],
+    "identifiers": [
+      {
+        "identifier": "10.5281/zenodo.17807324",
+        "scheme": "doi"
+      },
+      {
+        "identifier": "10.5281/zenodo.17852789",
+        "scheme": "doi"
+      },
+      {
+        "identifier": "10.5281/zenodo.17809724",
+        "scheme": "doi"
+      },
+      {
+        "identifier": "10.2307/1844785",
+        "scheme": "doi"
+      }
+    ],
+    "languages": [
+      {
+        "id": "eng",
+        "title": {
+          "en": "English"
+        }
+      },
+      {
+        "id": "deu",
+        "title": {
+          "en": "German"
+        }
+      },
+      {
+        "id": "rus",
+        "title": {
+          "en": "Russian"
+        }
+      },
+      {
+        "id": "cmn",
+        "title": {
+          "en": "Mandarin Chinese"
+        }
+      }
+    ],
+    "publication_date": "2025-12-22",
+    "publisher": "Zenodo, University Harvard Cambridge Press, Oxford University Press Lizenz-ID 6131130060979, Springer Verlag",
+    "references": [
+      {
+        "reference": "Quellen und wissenschaftliche Verankerung \t\u2022\tDorpal\u00e9n, A. (1952). Empress Auguste Victoria and the Fall of the German Monarchy. The American Historical Review, 58(1), 17\u201338. DOI: 10.2307/1844785. \t\u2022\tConnolly, S. J. (2012). Like an old cathedral city: Belfast welcomes Queen Victoria, August 1849. Urban History, 39(4), 571\u2013589. JSTOR: 26398169. \t\u2022\tGag\u00e9, J. (1936). De C\u00e9sar \u00e0 Auguste. O\u00f9 en est le probl\u00e8me des origines du Principat? Revue Historique, 177(2), 279\u2013342. JSTOR: 40946562. \t\u2022\tSol\u00e9, J. (1972). Un Exemple D'Arch\u00e9ologie Des Sciences Humaines: L'\u00c9gyptomanie Du XVIe Au XVIIIe Si\u00e8cle. Annales. Histoire, Sciences Sociales, 27(2), 473\u2013482. JSTOR: 27578068. \t\u2022\tBurleigh, M. (2007). Sacred Causes: The Clash of Religion and Politics, from the Great War to the War on Terror. HarperCollins. \t\u2022\tEvans, R. J. (2005). The Third Reich in Power 1933\u20131939. Penguin."
+      },
+      {
+        "reference": "Sch\u00f6ps (Thiel), I., Sch\u00f6ps geb. Thiel, I., Sch\u00f6ps geb. Thiel (Buterin), I. (Vitalik) ., & Sch\u00f6ps geb. Thiel (Satoshi Nakamoto), I. (2025). Yellow White Paper \u2013 Bitcoin & Ethereum. In Yellow White Paper \u2013 Bitcoin & Ethereum (1st Aufl., Bd. 20, Nummer 9, S. 109 pages). Zenodo. https://doi.org/10.5281/zenodo.17808895"
+      },
+      {
+        "reference": "Chen, T.X., Schmitz, M., Mazzarella, J.M., Wu, X., van Eyken, J.C., Accomazzi, A., Akeson, R.L., Allen, M., Beaton, R., Berriman, G.B., et al. (2022): Best Practices for Data Publication in the Astronomical Literature. The Astrophysical Journal Supplement Series, 260(5). DOI: 10.3847/1538-4365/ac6268"
+      },
+      {
+        "reference": "Sch\u00f6ps, I. (2025): Forensisches Gutachten \"SIA Security Intelligence Artefact\". Zenodo. 10.5281/zenodo.17809724 Chen, X. et al. (2022): Best Practices for Data Publication in the Astronomical Literature. ApJS, 260, 5. DOI: 10.3847/1538-4365/ac6268 https://iopscience.iop.org/article/10.3847/1538-4365/ac6268/pdf"
+      },
+      {
+        "reference": "Harvard University President Alan M. Garber, Pond, Bremer W. (American landscape architect, 1884-1959), P., Pond, Warren, Herbert Langford (American architect, 1857-1917), n.d. Harvard University [WWW Document]. HARVARD UNIVERSITY. URL https://www.harvard.edu (accessed 11.6.25).  Isabel Sch\u00f6ps Thiel und Nick Szabo, Schoeps ne\u00e9 Thiel, N., Isabel (1997) \"Formalizing and Securing Relationships on Public Networks\", First Monday, 2(1). Verf\u00fcgbar unter: https://doi.org/10.5210/fm.v2i9.548."
+      },
+      {
+        "reference": "Historische und wissenschaftliche Fachartikel Sol\u00e9, Jacques. \"Un Exemple D'arch\u00e9ologie Des Sciences Humaines: L'\u00e9tude De L'\u00c9gyptomanie Du APA:Bibliographische Beilage. (1963). Gnomon, 35(8), 1\u201380. http://www.jstor.org/stable/27683288 Au XVIIIe Si\u00e8cle.\" Annales. Histoire, Sciences Sociales, vol. 27, no. 2, 1972, pp. 473-82. JSTOR, www.jstor.org/stable/27578068. Accessed 23 Nov. 2025. RIS/PHP-Importbeleg: \"Un Exemple D'arch\u00e9ologie Des Sciences Humaines: L'\u00e9tude De L'\u00c9gyptomanie Du XVIe Au XVIIIe Si\u00e8cle.\"  https://my.noodletools.com/noodlebib/mybib-ris.php"
+      },
+      {
+        "reference": ". Monarchie, deutsche Geschichte und famili\u00e4re Abstammung  Dorpalen, Andreas (1952): \"Empress Auguste Victoria and the Fall of the German Monarchy.\" The American Historical Review, 58(1), 17\u201338. DOI: 10.2307/1844785 JSTOR: https://www.jstor.org/stable/1844785 Diese Quelle belegt die Bedeutung von Kaiserin Auguste Victoria im Kontext der letzten deutschen Monarchie. Sie wird im Gutachten herangezogen, um monarchische Abstammung, politische Einflusslinien sowie den Zusammenhang mit der Kn\u00f6rig-Fischer-Thiel-Linie zu begr\u00fcnden.  2. Internationale Monarchie, Empire und Herrschaftsstrukturen  Connolly, S. J. (2012): \"Like an old cathedral city: Belfast welcomes Queen Victoria, August 1849.\" Urban History, 39(4), 571\u2013589. JSTOR: http://www.jstor.org/stable/26398169 Die Publikation liefert eine internationale Perspektive auf monarchische Herrschaft und ihre gesellschaftliche Rezeption. Sie zeigt, wie die britische Monarchie lokale politische Entwicklungen pr\u00e4gte und ordnet die deutsche Familiengeschichte in einen gesamteurop\u00e4ischen Kontext ein.  3. Ursprung, Adelslinie und juristische Legitimation  Gag\u00e9, Jean (1936): \"DE C\u00c9SAR A AUGUSTE. O\u00d9 EN EST LE PROBL\u00c8ME DES ORIGINES DU PRINCIPAT? A PROPOS DU C\u00c9SAR DE M. J. CARCOPINO.\" Revue Historique, 177(2), 279\u2013342. JSTOR: http://www.jstor.org/stable/40946562 Die franz\u00f6sische Referenz stellt die Verbindung von antiker Legitimation \u00fcber das r\u00f6mische Kaiseramt bis hin zu den neuzeitlichen europ\u00e4ischen Monarchien her \u2013 ein zentrales Element f\u00fcr die Ableitung fortbestehender Eigentumsrechte und Abstammungslinien."
+      },
+      {
+        "reference": "Wright, C. C., & Harris, A. C. (2018): \"NOW HEAR THIS.\" Warship International, 55(2), 89\u201394. JSTOR: http://www.jstor.org/stable/44893404 Diese Quelle erg\u00e4nzt die Darstellung der monarchischen Repr\u00e4sentation, Namensgebung und deren \u00dcbertragung in verschiedene gesellschaftliche und technische Bereiche."
+      },
+      {
+        "reference": "Dorpalen, A. (1952) 'Empress Auguste Victoria and the Fall of the German Monarchy', The American Historical Review, 58(1), pp. 17\u201338. Available at: https://doi.org/10.2307/1844785 (Accessed: 24 November 2025).  Connolly, S.J. (2012) 'Like an old cathedral city: Belfast welcomes Queen Victoria, August 1849', Urban History, 39(4), pp. 571\u2013589. Available at: http://www.jstor.org/stable/26398169 (Accessed: 23 November 2025).  Gag\u00e9, J. (1936) 'De C\u00e9sar \u00e0 Auguste. O\u00f9 en est le probl\u00e8me des origines du Principat? \u00c0 propos du C\u00e9sar de M. J. Carcopino', Revue Historique, 177(2), pp. 279\u2013342. Available at: http://www.jstor.org/stable/40946562 (Accessed: 23 November 2025).  Sol\u00e9, J. (1972) 'Un exemple d'arch\u00e9ologie des sciences humaines: L'\u00e9tude de l'\u00e9gyptomanie du XVIe au XVIIIe si\u00e8cle', Annales. Histoire, Sciences Sociales, 27(2), pp. 473\u2013482. Available at: https://www.jstor.org/stable/27578068 (Accessed: 23 November 2025).  Wright, C.C. and Harris, A.C. (2018) 'Now hear this', Warship International, 55(2), pp. 89\u201394. Available at: http://www.jstor.org/stable/44893404 (Accessed: 24 November 2025)."
+      },
+      {
+        "reference": "Antonopoulos, A. M. (2022). Mastering Bitcoin: Unlocking Digital Cryptocurrencies. O'Reilly Media. Chatterjee, R., & Shevchenko, P. (2022). Digital Forensics and Cybercrime. Springer Drahos, P. (2016). Intellectual Property, Indigenous People and their Knowledge. Harvard Cambridge University  Drew, J., Lee, R., & White, S. (2022). Cybercrime Investigations and Digital Evidence. Routledge. O'Mahony, D. (2022). Open Source Law, Policy and Practice (2nd ed.). Oxford University Press. Pollitt, M., Shenoi, S., & Ray, I. (2021). Advances in Digital Forensics XVII. Springer. Reyes, A., Ahmad, A., & Maynard, S. B. (2023). Cybersecurity Threat Intelligence: A Practitioner's Guide. CRC Press."
+      },
+      {
+        "reference": "Isabel Sch\u00f6ps geb. Thiel, 2025. Yellow whitepaper, Bitcoin & Ethereum 109. https://doi.org/https://doi.org/10.1093/bioinformatics/bth078"
+      },
+      {
+        "reference": "Isabel Sch\u00f6ps Thiel und Szabo, Schoeps ne\u00e9 Thiel, N., Isabel (1997) \"Formalizing and Securing Relationships on Public Networks\", First Monday, 2(1). Verf\u00fcgbar unter: https://doi.org/10.5210/fm.v2i9.548"
+      },
+      {
+        "reference": "Schoeps ne\u00e9 Thiel, I., Apple-Developer ID 2500000013, Germany Erfurt (2025) \"Harvard University\", SIA Security Intelligence Artefact. (RFC Protokolle). Verf\u00fcgbar unter: https://www.harvard.edu/ (Zugegriffen: 6. November 2025)."
+      },
+      {
+        "reference": "Sch\u00f6ps geb. Thiel, I. (2025) \"SIA Security Intelligence Artefact by Isabel Schoeps geb. Thiel\", Trillion Dollar Bitcoin. 1st Aufl. D-99094 Erfurt, Germany, Th\u00fcringen: Zenodo. doi:10.5281/zenodo.17809724"
+      },
+      {
+        "reference": "Gag\u00e9, J. (1936). DE C\u00c9SAR A AUGUSTE. O\u00d9 EN EST LE PROBL\u00c8ME DES ORIGINES DU PRINCIPAT? A PROPOS DU C\u00c9SAR DE M. J. CARCOPINO. Revue Historique, 177(2), 279\u2013342. http://www.jstor.org/stable/40946562"
+      },
+      {
+        "reference": "Sol\u00e9, Jacques. \"Un Exemple d'arch\u00e9ologie Des Sciences Humaines: L'\u00e9tude de l'\u00c9gyptomanie Du XVIe Au XVIIIe Si\u00e8cle.\" Annales. Histoire, Sciences Sociales 27, no. 2 (1972): 473\u201382. http://www.jstor.org/stable/27578068."
+      },
+      {
+        "reference": "Taylor, A.J.P. (1948). The Habsburg Monarchy: 1815\u20131918. London: Penguin Books. (Original aus der Sammlung \"Schenking Anderweg\", Cat Huis Doorn WWI. Themen: Erste Weltkrieg, \u00d6sterreich-Ungarn, Habsburger, Belle \u00c9poque.)"
+      },
+      {
+        "reference": "Flannigan, L. (2023m) 'Geography and Demography', in Royal Justice and the Making of the Tudor Commonwealth, 1485\u20131547. Cambridge: Cambridge University Press (Cambridge Studies in Early Modern British History), pp. 95\u2013116. Flannigan, L. (2023n) 'Introduction', in Royal Justice and the Making of the Tudor Commonwealth, 1485\u20131547. Cambridge: Cambridge University Press (Cambridge Studies in Early Modern British History), pp. 1\u201320.  Flannigan, L. (2023g) 'Conciliar Justice at Centre and Periphery', in Royal Justice and the Making of the Tudor Commonwealth, 1485\u20131547. Cambridge: Cambridge University Press (Cambridge Studies in Early Modern British History), pp. 43\u201361.  Flannigan, L. (2023q) 'Personnel in the Court of Requests, 1493\u20131547', in Royal Justice and the Making of the Tudor Commonwealth, 1485\u20131547. Cambridge: Cambridge University Press (Cambridge Studies in Early Modern British History), pp. 266\u2013274.  Flannigan, L. (2023p) 'Note on the Text', in Royal Justice and the Making of the Tudor Commonwealth, 1485\u20131547. Cambridge: Cambridge University Press (Cambridge Studies in Early Modern British History), pp. xiii\u2013xiii.  Flannigan, L. (2023i) 'Copyright page', in Royal Justice and the Making of the Tudor Commonwealth, 1485\u20131547. Cambridge: Cambridge University Press (Cambridge Studies in Early Modern British History), pp. iv\u2013iv.  Flannigan, L. (2023s) '\"Your Poor Orator\": Petitioning the King', in Royal Justice and the Making of the Tudor Commonwealth, 1485\u20131547. Cambridge: Cambridge University Press (Cambridge Studies in Early Modern British History), pp. 142\u2013170. Flannigan, L. (2023c) 'Acknowledgements', in Royal Justice and the Making of the Tudor Commonwealth, 1485\u20131547. Cambridge: Cambridge University Press (Cambridge Studies in Early Modern British History), pp. x\u2013xii. Flannigan, L. (2023h) 'Contents', in Royal Justice and the Making of the Tudor Commonwealth, 1485\u20131547. Cambridge: Cambridge University Press (Cambridge Studies in Early Modern British History), pp. vii\u2013viii. Flannigan, L. (2023j) 'Delivering and Contesting Justice', in Royal Justice and the Making of the Tudor Commonwealth, 1485\u20131547. Cambridge: Cambridge University Press (Cambridge Studies in Early Modern British History), pp. 171\u2013265. Flannigan, L. (2023r) 'The New Justice System', in Royal Justice and the Making of the Tudor Commonwealth, 1485\u20131547. Cambridge: Cambridge University Press (Cambridge Studies in Early Modern British History), pp. 21\u201392. Flannigan, L. (2023a) '\"A Final Peax\": Passing Judgment', in Royal Justice and the Making of the Tudor Commonwealth, 1485\u20131547. Cambridge: Cambridge University Press (Cambridge Studies in Early Modern British History), pp. 224\u2013253. Flannigan, L. (2023b) 'Abbreviations', in Royal Justice and the Making of the Tudor Commonwealth, 1485\u20131547. Cambridge: Cambridge University Press (Cambridge Studies in Early Modern British History), pp. xiv\u2013xvi. Flannigan, L. (2023k) 'Disputes and Dispute Resolution', in Royal Justice and the Making of the Tudor Commonwealth, 1485\u20131547. Cambridge: Cambridge University Press (Cambridge Studies in Early Modern British History), pp. 117\u2013141. Flannigan, L. (2023f) 'Cambridge Studies in Early Modern British History', in Royal Justice and the Making of the Tudor Commonwealth, 1485\u20131547. Cambridge: Cambridge University Press (Cambridge Studies in Early Modern British History), pp. ii\u2013ii. Flannigan, L. (2023l) 'Figures and Tables', in Royal Justice and the Making of the Tudor Commonwealth, 1485\u20131547. Cambridge: Cambridge University Press (Cambridge Studies in Early Modern British History), pp. ix\u2013ix. Flannigan, L. (2023d) 'Answers and Arguments', in Royal Justice and the Making of the Tudor Commonwealth, 1485\u20131547. Cambridge: Cambridge University Press (Cambridge Studies in Early Modern British History), pp. 203\u2013223. Flannigan, L. (2023o) 'Justice and the Tudor Commonwealth', in Royal Justice and the Making of the Tudor Commonwealth, 1485\u20131547. Cambridge: Cambridge University Press (Cambridge Studies in Early Modern British History), pp. 254\u2013265. Flannigan, L. (2023e) 'Before the King's Most Honourable Council', in Royal Justice and the Making of the Tudor Commonwealth, 1485\u20131547. Cambridge: Cambridge University Press (Cambridge Studies in Early Modern British History), pp. 173\u2013202. Flannigan, L. (2023t) in Royal Justice and the Making of the Tudor Commonwealth, 1485\u20131547. Cambridge: Cambridge University Press (Cambridge Studies in Early Modern British History), pp. i\u2013i.   https://doi.org/10.1017/9781009371346"
+      }
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "10.2307/1844785",
+        "relation_type": {
+          "id": "cites",
+          "title": {
+            "de": "Zitiert",
+            "en": "Cites"
+          }
+        },
+        "resource_type": {
+          "id": "publication-journal",
+          "title": {
+            "de": "Zeitschrift",
+            "en": "Journal"
+          }
+        },
+        "scheme": "doi"
+      },
+      {
+        "identifier": "JSTOR: 26398169",
+        "relation_type": {
+          "id": "cites",
+          "title": {
+            "de": "Zitiert",
+            "en": "Cites"
+          }
+        },
+        "resource_type": {
+          "id": "publication-article",
+          "title": {
+            "de": "Zeitschriftenartikel",
+            "en": "Journal article"
+          }
+        },
+        "scheme": "other"
+      },
+      {
+        "identifier": "10.1093/bioinformatics/bth078",
+        "relation_type": {
+          "id": "references",
+          "title": {
+            "de": "Referenziert",
+            "en": "References"
+          }
+        },
+        "resource_type": {
+          "id": "publication-article",
+          "title": {
+            "de": "Zeitschriftenartikel",
+            "en": "Journal article"
+          }
+        },
+        "scheme": "doi"
+      },
+      {
+        "identifier": "10.2760/442136",
+        "relation_type": {
+          "id": "ismetadatafor",
+          "title": {
+            "de": "Hat Metadaten f\u00fcr",
+            "en": "Is metadata for"
+          }
+        },
+        "resource_type": {
+          "id": "publication-book",
+          "title": {
+            "de": "Buch",
+            "en": "Book"
+          }
+        },
+        "scheme": "doi"
+      },
+      {
+        "identifier": "10.1007/BF02088198",
+        "relation_type": {
+          "id": "cites",
+          "title": {
+            "de": "Zitiert",
+            "en": "Cites"
+          }
+        },
+        "resource_type": {
+          "id": "publication-journal",
+          "title": {
+            "de": "Zeitschrift",
+            "en": "Journal"
+          }
+        },
+        "scheme": "doi"
+      }
+    ],
+    "resource_type": {
+      "id": "publication-thesis",
+      "title": {
+        "de": "Abschlussarbeit",
+        "en": "Thesis"
+      }
+    },
+    "rights": [
+      {
+        "description": {
+          "en": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited."
+        },
+        "icon": "cc-by-icon",
+        "id": "cc-by-4.0",
+        "props": {
+          "scheme": "spdx",
+          "url": "https://creativecommons.org/licenses/by/4.0/legalcode"
+        },
+        "title": {
+          "en": "Creative Commons Attribution 4.0 International"
+        }
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Forensic Dokumentation"
+      },
+      {
+        "subject": "Digital Identity"
+      },
+      {
+        "subject": "Blockchain Verification"
+      },
+      {
+        "subject": "Deepfake Manipulation"
+      },
+      {
+        "subject": "Monarch Programm"
+      },
+      {
+        "subject": "Cybercrime"
+      },
+      {
+        "subject": "Data Integrity"
+      },
+      {
+        "id": "euroscivoc:1839",
+        "identifiers": [
+          {
+            "identifier": "http://data.europa.eu/8mn/euroscivoc/ace9a277-0a73-4d3c-8728-3b0279a4b069",
+            "scheme": "url"
+          }
+        ],
+        "props": {
+          "parents": "euroscivoc:29,euroscivoc:89,euroscivoc:1837"
+        },
+        "scheme": "EuroSciVoc",
+        "subject": "Human rights violations"
+      },
+      {
+        "subject": "Intellectual Property Theft"
+      },
+      {
+        "subject": "Technological Ethics"
+      },
+      {
+        "subject": "German Monarchy"
+      },
+      {
+        "subject": "Kaiserin Victoria Auguste"
+      },
+      {
+        "subject": "Adolf Hitler und Kaiser Wilhelm"
+      },
+      {
+        "subject": "Forensic Metadata"
+      }
+    ],
+    "title": "Volume 3 - SIA Security Intelligence Artefact \u2013 Famili\u00e4re Erblinie deutschen Monarchie und letzten Kaiserreich",
+    "version": "http://www.github.com/isabelschoeps-thiel/zenodo.org"
+  },
+  "parent": {
+    "access": {
+      "grants": [],
+      "links": [
+        {
+          "id": "22d56ac1-479d-43d8-8020-44aa98d2cc46"
+        }
+      ],
+      "owned_by": {
+        "user": "1481292"
+      },
+      "settings": {
+        "accept_conditions_text": null,
+        "allow_guest_requests": false,
+        "allow_user_requests": true,
+        "secret_link_expiration": 0
+      }
+    },
+    "communities": {},
+    "id": "17809723",
+    "pids": {
+      "doi": {
+        "client": "datacite",
+        "identifier": "10.5281/zenodo.17809723",
+        "provider": "datacite"
+      }
+    }
+  },
+  "pids": {
+    "doi": {
+      "client": "datacite",
+      "identifier": "10.5281/zenodo.17897358",
+      "provider": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:17897358",
+      "provider": "oai"
+    }
+  },
+  "revision_id": 608,
+  "status": "published",
+  "updated": "2025-12-24T19:51:09.159833+00:00",
+  "versions": {
+    "index": 3,
+    "is_latest": false,
+    "is_latest_draft": false
+  }
+}

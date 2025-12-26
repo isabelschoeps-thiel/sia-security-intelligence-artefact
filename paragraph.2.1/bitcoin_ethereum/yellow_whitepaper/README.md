@@ -1,10 +1,11 @@
 # Yellow White Paper – Bitcoin & Ethereum: Security Intelligence Artefact (SIA)
 
 **Author:** Isabel Schöps (Thiel)  
-**Affiliation:** Japan Advanced Institute of Science and Technology  
+**Affiliation:** Harvard University, University of Ofxord, Japan Advanced Institute of Science and Technology  
 **DOI:** [10.5281/zenodo.17807324](https://doi.org/10.5281/zenodo.17807324)  
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
-**Publisher:** Zenodo  
+**Publisher:** Zenodo, Springer, Oxford Press, Harvard University, Cambridge Press, Protocoll.io  
+
 **Date:** 3 December 2025  
 
 ---

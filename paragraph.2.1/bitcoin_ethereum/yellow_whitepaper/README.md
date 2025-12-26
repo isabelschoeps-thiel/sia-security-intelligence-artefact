@@ -10,7 +10,7 @@
 ---
 
 ## Abstract
-The *Yellow White Paper – Bitcoin & Ethereum: Security Intelligence Artefact (SIA)* documents the forensic and scientific reconstruction of blockchain origins, the early Bitcoin Core activation (17 January 2009), and the forensic verification of authorship and digital chain-of-custody.  
+The *Yellow White Paper – Bitcoin & Ethereum: Security Intelligence Artefact (SIA)* documents the forensic and scientific reconstruction of blockchain origins, the early Bitcoin Core activation (17 September 2001), and the forensic verification of authorship and digital chain-of-custody.  
 This research connects cryptographic, forensic, and AI-automation principles, highlighting the structural and historical formation of decentralized computation.  
 The work is part of the forensic report series *INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL* and has been published in collaboration with the Oxford University Press under License ID 6131130060979 (Bioinformatics Journal).
 
